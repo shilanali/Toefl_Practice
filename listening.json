@@ -1,0 +1,2254 @@
+[
+ {
+  "type": "listen_response",
+  "topic": "Campus life",
+  "audio": [
+   [
+    "us",
+    "Excuse me, do you know whether the library stays open past midnight during finals week?"
+   ]
+  ],
+  "questions": [
+   {
+    "q": "Choose the best response.",
+    "options": [
+     "Yes, it extends its hours until two a.m. all week.",
+     "No, I finished my finals last week.",
+     "I think the library is next to the cafeteria.",
+     "Midnight is a good time to start studying."
+    ],
+    "correct": 0,
+    "explanation": "السؤال عن ساعات دوام المكتبة، فالجواب المنطقي هو اللي بيعطي ساعات الدوام. الباقي ما بيجاوب السؤال."
+   }
+  ],
+  "vocab": [
+   [
+    "finals week",
+    "exam period",
+    "أسبوع الامتحانات النهائية"
+   ],
+   [
+    "stay open",
+    "remain open",
+    "يبقى مفتوحاً"
+   ],
+   [
+    "extend",
+    "lengthen",
+    "يمدّد"
+   ],
+   [
+    "whether",
+    "if",
+    "إذا كان"
+   ]
+  ]
+ },
+ {
+  "type": "listen_conversation",
+  "topic": "Choosing a paper topic",
+  "audio": [
+   [
+    "us",
+    "Hi Professor Dean, do you have a minute? I'm struggling to narrow down a topic for my sociology paper."
+   ],
+   [
+    "uk",
+    "Of course. What are you interested in?"
+   ],
+   [
+    "us",
+    "Remote work, mostly. But there's so much research that I can't tell where to start."
+   ],
+   [
+    "uk",
+    "Well, instead of surveying the whole field, you could focus on one question, such as how remote work affects team communication."
+   ],
+   [
+    "us",
+    "That's more manageable. Should I look at articles from before the pandemic, too?"
+   ],
+   [
+    "uk",
+    "I'd begin with recent studies. If you find gaps, you can look back at earlier work."
+   ],
+   [
+    "us",
+    "Great. I'll draft an outline by Friday."
+   ]
+  ],
+  "questions": [
+   {
+    "q": "Why does the student visit the professor?",
+    "options": [
+     "To ask for an extension",
+     "To dispute a grade",
+     "To get help choosing a focused topic",
+     "To borrow a book"
+    ],
+    "correct": 2,
+    "explanation": "الطالب قال إنو عم يتعب ليحصر الموضوع (narrow down). يعني بدو مساعدة باختيار موضوع محدد."
+   },
+   {
+    "q": "What does the professor suggest?",
+    "options": [
+     "Reviewing all existing research",
+     "Focusing on one question, such as team communication",
+     "Interviewing coworkers first",
+     "Switching to another course"
+    ],
+    "correct": 1,
+    "explanation": "الدكتور قال: بدل ما تغطي المجال كله، ركّز على سؤال واحد متل تأثير العمل عن بعد على التواصل."
+   },
+   {
+    "q": "What will the student do by Friday?",
+    "options": [
+     "Prepare an outline",
+     "Submit the final paper",
+     "Meet with a classmate",
+     "Read studies from before the pandemic"
+    ],
+    "correct": 0,
+    "explanation": "الطالب قال: I'll draft an outline by Friday، يعني مخطط للبحث. الدكتور نصحه يبدأ بالدراسات الحديثة."
+   }
+  ],
+  "vocab": [
+   [
+    "struggle",
+    "have difficulty",
+    "يعاني / يجد صعوبة"
+   ],
+   [
+    "narrow down",
+    "limit",
+    "يحصر / يضيّق"
+   ],
+   [
+    "manageable",
+    "doable",
+    "ممكن التعامل معه"
+   ],
+   [
+    "gap",
+    "missing area",
+    "فجوة"
+   ],
+   [
+    "outline",
+    "framework",
+    "مخطط / هيكل"
+   ],
+   [
+    "field",
+    "discipline",
+    "مجال"
+   ]
+  ]
+ },
+ {
+  "type": "listen_announcement",
+  "topic": "Campus transport",
+  "audio": [
+   [
+    "au",
+    "Attention all students. The campus shuttle service will operate on a modified schedule starting Monday due to road construction on University Avenue. Buses will run every twenty minutes instead of every ten, and the stop outside the science building will be temporarily relocated to the parking lot on Fifth Street. Please check the transportation office website for updated timetables. We apologize for any inconvenience."
+   ]
+  ],
+  "questions": [
+   {
+    "q": "Why is the shuttle schedule changing?",
+    "options": [
+     "Fewer drivers are available",
+     "Road construction",
+     "Budget cuts",
+     "Bad weather"
+    ],
+    "correct": 1,
+    "explanation": "المذيع قال بوضوح: due to road construction on University Avenue، يعني بسبب أعمال الطرق."
+   },
+   {
+    "q": "How often will buses run?",
+    "options": [
+     "Every ten minutes",
+     "Every fifteen minutes",
+     "Every twenty minutes",
+     "Every half hour"
+    ],
+    "correct": 2,
+    "explanation": "كل عشر دقايق كان الوضع القديم. الجديد: every twenty minutes. انتبه للمقارنة instead of."
+   },
+   {
+    "q": "What should students do for updated timetables?",
+    "options": [
+     "Check the transportation office website",
+     "Call the science building",
+     "Ask the bus driver",
+     "Visit Fifth Street"
+    ],
+    "correct": 0,
+    "explanation": "الإعلان قال: check the transportation office website. الباقي ما انذكر."
+   }
+  ],
+  "vocab": [
+   [
+    "modified",
+    "altered",
+    "معدّل"
+   ],
+   [
+    "construction",
+    "building work",
+    "أعمال إنشاء"
+   ],
+   [
+    "relocate",
+    "move",
+    "ينقل / يُنقل لمكان تاني"
+   ],
+   [
+    "temporarily",
+    "for a short time",
+    "مؤقتاً"
+   ],
+   [
+    "timetable",
+    "schedule",
+    "جدول مواعيد"
+   ],
+   [
+    "inconvenience",
+    "trouble",
+    "إزعاج"
+   ]
+  ]
+ },
+ {
+  "type": "listen_talk",
+  "topic": "Forest ecology",
+  "audio": [
+   [
+    "us",
+    "Today I'd like to talk about how forests communicate underground. Beneath the soil, trees are connected by networks of fungi known as mycorrhizae. These fungi attach to tree roots, and in exchange for sugars produced through photosynthesis, they supply the trees with water and minerals such as phosphorus. Researchers have found that these networks can also transfer resources between trees. For example, a large, well-established tree may send carbon to a shaded seedling that cannot photosynthesize enough on its own. Some scientists go further and claim that trees use the network to send warning signals about insect attacks. This claim is controversial, though. Critics point out that most evidence comes from greenhouse experiments, and that it's hard to prove the transfers actually improve a seedling's chances of survival in a real forest."
+   ]
+  ],
+  "questions": [
+   {
+    "q": "What is the lecture mainly about?",
+    "options": [
+     "How fungi are used in agriculture",
+     "Underground fungal networks connecting trees",
+     "Why seedlings need sunlight",
+     "How insects attack forests"
+    ],
+    "correct": 1,
+    "explanation": "المحاضرة كلها عن شبكات الفطريات اللي بتربط الأشجار تحت الأرض وشو بتعمل."
+   },
+   {
+    "q": "What do the fungi receive from the trees?",
+    "options": [
+     "Water",
+     "Phosphorus",
+     "Sugars",
+     "Carbon dioxide"
+    ],
+    "correct": 2,
+    "explanation": "الفطريات بتاخد سكريات من التركيب الضوئي، وبتعطي الشجر مي ومعادن متل الفوسفور. لا تعكس الاتجاه."
+   },
+   {
+    "q": "Why does the professor mention a shaded seedling?",
+    "options": [
+     "To show how resources can be transferred between trees",
+     "To explain why seedlings die",
+     "To criticize greenhouse experiments",
+     "To describe insect attacks"
+    ],
+    "correct": 0,
+    "explanation": "المثال هدفه يوضح نقل الموارد: شجرة كبيرة بتبعت كربون لنبتة صغيرة بالظل ما عم تقدر تعمل تركيب ضوئي كفاية."
+   },
+   {
+    "q": "Why are some critics skeptical about the warning signals claim?",
+    "options": [
+     "Insects do not attack trees",
+     "The fungi cannot reach seedlings",
+     "Scientists lack the equipment to measure signals",
+     "Most evidence comes from greenhouse experiments"
+    ],
+    "correct": 3,
+    "explanation": "النقاد قالوا إنو معظم الأدلة من تجارب بالبيوت الزجاجية، وصعب نثبت إنها بتنفع بالغابة الحقيقية."
+   }
+  ],
+  "vocab": [
+   [
+    "fungi",
+    "molds / mushrooms",
+    "فطريات"
+   ],
+   [
+    "photosynthesis",
+    "light-driven food production",
+    "التركيب الضوئي"
+   ],
+   [
+    "seedling",
+    "young plant",
+    "شتلة / نبتة صغيرة"
+   ],
+   [
+    "transfer",
+    "move",
+    "نقل"
+   ],
+   [
+    "controversial",
+    "disputed",
+    "مثير للجدل"
+   ],
+   [
+    "skeptical",
+    "doubtful",
+    "متشكك"
+   ]
+  ]
+ },
+ {
+  "type": "listen_response",
+  "topic": "Presentations",
+  "audio": [
+   [
+    "uk",
+    "I'm sorry I missed your presentation. Was there anything I should know about the grading?"
+   ]
+  ],
+  "questions": [
+   {
+    "q": "Choose the best response.",
+    "options": [
+     "The presentation was about renewable energy.",
+     "No, I don't like grading papers.",
+     "Just that the slides are due by Monday.",
+     "Yes, I missed the bus too."
+    ],
+    "correct": 2,
+    "explanation": "السؤال عن معلومات بخصوص التقييم، فالجواب الطبيعي هو معلومة عن التقييم أو الموعد. باقي الخيارات خارج الموضوع."
+   }
+  ],
+  "vocab": [
+   [
+    "grading",
+    "marking",
+    "التقييم / وضع العلامات"
+   ],
+   [
+    "due",
+    "expected by",
+    "مستحق (موعده)"
+   ],
+   [
+    "miss",
+    "fail to attend",
+    "يفوّت"
+   ]
+  ]
+ },
+ {
+  "type": "listen_conversation",
+  "topic": "Academic advising",
+  "audio": [
+   [
+    "au",
+    "Hello, Daniel. What can I do for you?"
+   ],
+   [
+    "us",
+    "I'm thinking about dropping my statistics course. The workload is heavier than I expected."
+   ],
+   [
+    "au",
+    "Dropping it could delay your graduation, since it's a prerequisite for two courses next semester."
+   ],
+   [
+    "us",
+    "I hadn't realized that. Is there another option?"
+   ],
+   [
+    "au",
+    "You could reduce your hours at your campus job, or join the free tutoring sessions on Wednesdays."
+   ],
+   [
+    "us",
+    "Tutoring sounds helpful. I'll try that for a few weeks before deciding."
+   ]
+  ],
+  "questions": [
+   {
+    "q": "Why does the student want to drop the course?",
+    "options": [
+     "The workload is heavier than expected",
+     "The professor is unhelpful",
+     "He wants to change his major",
+     "It conflicts with his job schedule"
+    ],
+    "correct": 0,
+    "explanation": "الطالب قال بوضوح إنو عبء العمل أكبر من توقعاته (workload is heavier)."
+   },
+   {
+    "q": "Why does the advisor discourage dropping it?",
+    "options": [
+     "It costs extra money",
+     "It is required by the university",
+     "It might postpone his graduation",
+     "It is only offered once"
+    ],
+    "correct": 2,
+    "explanation": "المستشار قال إنو المادة prerequisite لمادتين السمستر الجاي، يعني ممكن تتأخر عنده التخرج."
+   },
+   {
+    "q": "What will the student probably do?",
+    "options": [
+     "Drop the course immediately",
+     "Quit his campus job",
+     "Ask for a different advisor",
+     "Try tutoring before deciding"
+    ],
+    "correct": 3,
+    "explanation": "قال I'll try that for a few weeks before deciding. يعني بيجرّب الدروس التقوية أول."
+   }
+  ],
+  "vocab": [
+   [
+    "workload",
+    "amount of work",
+    "عبء العمل"
+   ],
+   [
+    "prerequisite",
+    "required prior course",
+    "متطلب سابق"
+   ],
+   [
+    "tutoring",
+    "private instruction",
+    "دروس تقوية"
+   ],
+   [
+    "drop",
+    "withdraw from",
+    "ينسحب من (مادة)"
+   ],
+   [
+    "delay",
+    "postpone",
+    "يؤخّر"
+   ],
+   [
+    "graduation",
+    "completion of a degree",
+    "التخرج"
+   ]
+  ]
+ },
+ {
+  "type": "listen_announcement",
+  "topic": "Chemistry lab",
+  "audio": [
+   [
+    "us",
+    "Good afternoon, everyone. This is a reminder that the chemistry lab will be closed on Wednesday for equipment maintenance. Students who need to complete experiments for next week's report may use the lab on Thursday evening, between six and nine. Please bring your safety goggles, as spare pairs will not be available. If you have questions, speak to your teaching assistant."
+   ]
+  ],
+  "questions": [
+   {
+    "q": "Why will the lab be closed on Wednesday?",
+    "options": [
+     "A safety inspection",
+     "A holiday",
+     "Equipment maintenance",
+     "An exam"
+    ],
+    "correct": 2,
+    "explanation": "الإعلان قال for equipment maintenance، يعني صيانة معدات."
+   },
+   {
+    "q": "When can students make up their experiments?",
+    "options": [
+     "Wednesday morning",
+     "Thursday evening",
+     "Friday afternoon",
+     "Next week"
+    ],
+    "correct": 1,
+    "explanation": "المختبر مفتوح الخميس مساءً بين 6 و9 لإكمال التجارب."
+   },
+   {
+    "q": "What must students bring?",
+    "options": [
+     "Their lab reports",
+     "A permission form",
+     "Safety goggles",
+     "Their own chemicals"
+    ],
+    "correct": 2,
+    "explanation": "قال bring your safety goggles لأنو ما في نظارات احتياطية. فبدك تجيب نظارتك."
+   }
+  ],
+  "vocab": [
+   [
+    "maintenance",
+    "upkeep",
+    "صيانة"
+   ],
+   [
+    "equipment",
+    "apparatus",
+    "معدّات"
+   ],
+   [
+    "goggles",
+    "protective glasses",
+    "نظارات واقية"
+   ],
+   [
+    "spare",
+    "extra",
+    "احتياطي"
+   ],
+   [
+    "teaching assistant",
+    "instructor's aide",
+    "معيد / مساعد تدريس"
+   ],
+   [
+    "experiment",
+    "scientific trial",
+    "تجربة"
+   ]
+  ]
+ },
+ {
+  "type": "listen_talk",
+  "topic": "Behavioral economics",
+  "audio": [
+   [
+    "uk",
+    "Today we'll look at a concept from behavioral economics called anchoring. Anchoring describes our tendency to rely heavily on the first piece of information we encounter when making a decision. In one famous experiment, participants were asked whether the population of a country was higher or lower than a randomly generated number. They were then asked to estimate the actual population. Those shown a high random number gave much larger estimates than those shown a low one, even though the number was obviously unrelated. Marketers exploit this effect. A store may display a high original price next to a discounted price, so the discount appears more generous. Researchers note, however, that anchoring can be reduced if people are encouraged to consider reasons why the initial number might be wrong."
+   ]
+  ],
+  "questions": [
+   {
+    "q": "What does anchoring refer to?",
+    "options": [
+     "Ignoring all new information",
+     "Relying heavily on the first information encountered",
+     "Making decisions very quickly",
+     "Copying other people's choices"
+    ],
+    "correct": 1,
+    "explanation": "التعريف المباشر: الاعتماد بشكل كبير على أول معلومة بتواجهها عند اتخاذ قرار."
+   },
+   {
+    "q": "What was the purpose of the experiment described?",
+    "options": [
+     "To measure how well people know geography",
+     "To test memory",
+     "To show that an unrelated number can influence estimates",
+     "To compare rich and poor participants"
+    ],
+    "correct": 2,
+    "explanation": "الرقم عشوائي وبرضو أثّر على التقديرات، وهاد دليل على تأثير المرساة."
+   },
+   {
+    "q": "Why might a store show a high original price?",
+    "options": [
+     "To make the discount look more generous",
+     "To confuse competitors",
+     "To obey regulations",
+     "To hide the real price"
+    ],
+    "correct": 0,
+    "explanation": "السعر العالي كمرساة بيخلّي الخصم يبين أكبر وأحلى بعين الزبون."
+   },
+   {
+    "q": "According to the professor, how can anchoring be reduced?",
+    "options": [
+     "By avoiding shopping",
+     "By estimating faster",
+     "By asking experts",
+     "By considering why the first number might be wrong"
+    ],
+    "correct": 3,
+    "explanation": "قال إنو لما نشجّع الناس تفكّر ليش الرقم الأول ممكن يكون غلط، التأثير بيقل."
+   }
+  ],
+  "vocab": [
+   [
+    "anchoring",
+    "reliance on first information",
+    "تأثير المرساة"
+   ],
+   [
+    "heavily",
+    "greatly",
+    "بشكل كبير"
+   ],
+   [
+    "estimate",
+    "approximate",
+    "يقدّر / تقدير"
+   ],
+   [
+    "exploit",
+    "take advantage of",
+    "يستغل"
+   ],
+   [
+    "generous",
+    "large / liberal",
+    "سخي / كبير"
+   ],
+   [
+    "randomly",
+    "by chance",
+    "عشوائياً"
+   ]
+  ]
+ },
+ {
+  "type": "listen_response",
+  "topic": "Lab deadline",
+  "audio": [
+   [
+    "us",
+    "I was wondering if I could get an extension on my lab report."
+   ]
+  ],
+  "questions": [
+   {
+    "q": "Choose the best response.",
+    "options": [
+     "Yes, the lab is on the second floor.",
+     "Let me check with the instructor. How long do you need?",
+     "I wondered the same thing yesterday.",
+     "The report was very detailed."
+    ],
+    "correct": 1,
+    "explanation": "الطالب بيطلب تمديد، فالرد المنطقي هو الخيار اللي بيتعامل مع الطلب. الباقي خارج الموضوع."
+   }
+  ],
+  "vocab": [
+   [
+    "extension",
+    "additional time",
+    "تمديد"
+   ],
+   [
+    "lab report",
+    "experiment write-up",
+    "تقرير مخبري"
+   ],
+   [
+    "instructor",
+    "teacher",
+    "مدرّس"
+   ],
+   [
+    "check with",
+    "ask",
+    "يستفسر من"
+   ],
+   [
+    "detailed",
+    "thorough",
+    "مفصّل"
+   ]
+  ]
+ },
+ {
+  "type": "listen_conversation",
+  "topic": "Group presentation",
+  "audio": [
+   [
+    "uk",
+    "Did you finish your part of the presentation?"
+   ],
+   [
+    "us",
+    "Almost. I'm still waiting for the survey results."
+   ],
+   [
+    "uk",
+    "When do they arrive?"
+   ],
+   [
+    "us",
+    "Probably tomorrow, so I'll add the charts in the evening."
+   ],
+   [
+    "uk",
+    "Okay. Let's rehearse on Friday afternoon."
+   ],
+   [
+    "us",
+    "Sounds good. Can we use the study room?"
+   ],
+   [
+    "uk",
+    "I'll book it now."
+   ]
+  ],
+  "questions": [
+   {
+    "q": "What is the student waiting for?",
+    "options": [
+     "The survey results",
+     "Her teammate's slides",
+     "A room key",
+     "Her grade"
+    ],
+    "correct": 0,
+    "explanation": "قالت I'm still waiting for the survey results."
+   },
+   {
+    "q": "What will she do tomorrow evening?",
+    "options": [
+     "Rehearse",
+     "Add the charts",
+     "Submit the project",
+     "Book the room"
+    ],
+    "correct": 1,
+    "explanation": "بعد ما توصلها النتائج، رح تضيف الرسوم البيانية بالمساء."
+   },
+   {
+    "q": "What will the other student do?",
+    "options": [
+     "Reserve the study room",
+     "Send the survey",
+     "Present first",
+     "Call the professor"
+    ],
+    "correct": 0,
+    "explanation": "قال I'll book it now، يعني بيحجز غرفة الدراسة."
+   }
+  ],
+  "vocab": [
+   [
+    "survey",
+    "questionnaire",
+    "استبيان"
+   ],
+   [
+    "rehearse",
+    "practice",
+    "يتدرّب / يعمل بروفة"
+   ],
+   [
+    "book",
+    "reserve",
+    "يحجز"
+   ],
+   [
+    "chart",
+    "graph",
+    "رسم بياني"
+   ],
+   [
+    "sounds good",
+    "I agree",
+    "تمام / موافق"
+   ]
+  ]
+ },
+ {
+  "type": "listen_announcement",
+  "topic": "Library changes",
+  "audio": [
+   [
+    "au",
+    "Attention library users. Starting next week, the second floor will be reserved for silent study from nine a.m. to nine p.m. Group work should take place in the new collaboration zone on the ground floor, where whiteboards and large screens are available. Lockers can be rented at the front desk for ten dollars per semester. Thank you for helping us maintain a productive environment."
+   ]
+  ],
+  "questions": [
+   {
+    "q": "What will the second floor be used for?",
+    "options": [
+     "Silent study",
+     "Group work",
+     "Storage",
+     "Events"
+    ],
+    "correct": 0,
+    "explanation": "الطابق التاني مخصّص للدراسة الهادئة من 9 صباحاً لـ 9 مساءً."
+   },
+   {
+    "q": "Where should students do group work?",
+    "options": [
+     "On the second floor",
+     "In the collaboration zone on the ground floor",
+     "In the front desk area",
+     "Outside"
+    ],
+    "correct": 1,
+    "explanation": "المنطقة الجديدة للعمل الجماعي بالطابق الأرضي وفيها سبّورات وشاشات."
+   },
+   {
+    "q": "How can students rent a locker?",
+    "options": [
+     "Online",
+     "At the front desk",
+     "Through a professor",
+     "By phone"
+    ],
+    "correct": 1,
+    "explanation": "التأجير من مكتب الاستقبال بعشرة دولارات للفصل."
+   }
+  ],
+  "vocab": [
+   [
+    "reserved",
+    "set aside",
+    "مخصَّص"
+   ],
+   [
+    "collaboration zone",
+    "group workspace",
+    "منطقة عمل جماعي"
+   ],
+   [
+    "locker",
+    "storage cabinet",
+    "خزانة"
+   ],
+   [
+    "rent",
+    "pay to use",
+    "يستأجر"
+   ],
+   [
+    "productive",
+    "efficient",
+    "مُنتج"
+   ]
+  ]
+ },
+ {
+  "type": "listen_talk",
+  "topic": "The bystander effect",
+  "audio": [
+   [
+    "us",
+    "Today we'll consider the bystander effect, a phenomenon in social psychology. It refers to the tendency of individuals to be less likely to help someone in need when other people are present. In a classic experiment, participants overheard what seemed to be a person in distress in another room. When participants believed they were the only listener, most of them sought help immediately. But when they believed four others were also listening, far fewer reacted. Psychologists explain this through diffusion of responsibility: each person assumes someone else will act. Importantly, the effect weakens when the situation is clearly an emergency, or when bystanders feel a personal connection to the victim. This research has influenced training programs that teach people to take initiative by directly assigning tasks, such as telling a specific person to call for help."
+   ]
+  ],
+  "questions": [
+   {
+    "q": "What is the bystander effect?",
+    "options": [
+     "People help more when others are present",
+     "People are less likely to help when others are present",
+     "People avoid strangers",
+     "People call the police faster"
+    ],
+    "correct": 1,
+    "explanation": "التعريف: كل ما كان الناس أكتر حولك، قلّ احتمال إنك تساعد."
+   },
+   {
+    "q": "How do psychologists explain it?",
+    "options": [
+     "Diffusion of responsibility",
+     "Fear of authorities",
+     "Lack of education",
+     "Poor hearing"
+    ],
+    "correct": 0,
+    "explanation": "كل شخص بيفترض إنو حدا تاني رح يتصرّف، وهيك المسؤولية بتتوزّع."
+   },
+   {
+    "q": "When does the effect weaken?",
+    "options": [
+     "At night",
+     "When the situation is clearly an emergency",
+     "When people are tired",
+     "In large cities"
+    ],
+    "correct": 1,
+    "explanation": "قال إنو بيقلّ بالحالات الواضحة كطوارئ أو لما في ارتباط شخصي بالضحية."
+   },
+   {
+    "q": "How has the research influenced training?",
+    "options": [
+     "Teaching people to assign tasks to specific individuals",
+     "Avoiding group work",
+     "Teaching people to wait",
+     "Removing emergency numbers"
+    ],
+    "correct": 0,
+    "explanation": "بيتدرّبوا على توجيه شخص محدد، متل: انت اتصل بالإسعاف."
+   }
+  ],
+  "vocab": [
+   [
+    "bystander",
+    "observer",
+    "متفرّج / شاهد"
+   ],
+   [
+    "distress",
+    "suffering",
+    "ضيق / محنة"
+   ],
+   [
+    "diffusion",
+    "spreading out",
+    "تشتّت"
+   ],
+   [
+    "initiative",
+    "first step",
+    "مبادرة"
+   ],
+   [
+    "assume",
+    "suppose",
+    "يفترض"
+   ]
+  ]
+ },
+ {
+  "type": "listen_response",
+  "topic": "Window request",
+  "audio": [
+   [
+    "uk",
+    "Would you mind if I opened the window? It's getting rather stuffy in here."
+   ]
+  ],
+  "questions": [
+   {
+    "q": "Choose the best response.",
+    "options": [
+     "Yes, I'll see the window tomorrow.",
+     "The weather is quite hot today.",
+     "Not at all, go ahead.",
+     "It's much cheaper to buy a fan."
+    ],
+    "correct": 2,
+    "explanation": "Would you mind if... بتتطلّب جواب بيعبّر عن الموافقة: Not at all أو go ahead."
+   }
+  ],
+  "vocab": [
+   [
+    "stuffy",
+    "poorly ventilated",
+    "خانق"
+   ],
+   [
+    "would you mind",
+    "do you object",
+    "هل تمانع"
+   ],
+   [
+    "go ahead",
+    "proceed",
+    "تفضّل"
+   ],
+   [
+    "rather",
+    "fairly",
+    "إلى حدّ ما"
+   ],
+   [
+    "not at all",
+    "of course not",
+    "أبداً / لا مشكلة"
+   ]
+  ]
+ },
+ {
+  "type": "listen_conversation",
+  "topic": "Lab results",
+  "audio": [
+   [
+    "us",
+    "Hi, I wanted to ask about my results. The values I got don't match the textbook."
+   ],
+   [
+    "au",
+    "That's not unusual. What was the temperature in the room?"
+   ],
+   [
+    "us",
+    "I'm not sure. I didn't record it."
+   ],
+   [
+    "au",
+    "Ah, that could explain it. Small differences in temperature can alter the reaction rate."
+   ],
+   [
+    "us",
+    "So should I repeat the experiment?"
+   ],
+   [
+    "au",
+    "Not necessarily. Just mention it as a possible source of error in your discussion section."
+   ]
+  ],
+  "questions": [
+   {
+    "q": "What is the student's problem?",
+    "options": [
+     "The equipment broke",
+     "His values differ from the textbook",
+     "He missed the lab",
+     "He lost his report"
+    ],
+    "correct": 1,
+    "explanation": "قال إنو النتايج اللي طلعت معو ما بتطابق الكتاب."
+   },
+   {
+    "q": "What might explain the difference?",
+    "options": [
+     "A calculation mistake",
+     "An unrecorded room temperature",
+     "Dirty glassware",
+     "A late start"
+    ],
+    "correct": 1,
+    "explanation": "المساعد قال إنو الفرق بالحرارة ممكن يغيّر سرعة التفاعل، والطالب ما سجّل الحرارة."
+   },
+   {
+    "q": "What does the assistant advise?",
+    "options": [
+     "Repeat the experiment",
+     "Mention it as a possible source of error",
+     "Change the topic",
+     "Ask for a new grade"
+    ],
+    "correct": 1,
+    "explanation": "Not necessarily يعني مو لازم يعيد. يكفي يذكرها كمصدر خطأ بقسم المناقشة."
+   }
+  ],
+  "vocab": [
+   [
+    "values",
+    "measurements",
+    "قيم"
+   ],
+   [
+    "reaction rate",
+    "speed of a reaction",
+    "سرعة التفاعل"
+   ],
+   [
+    "alter",
+    "change",
+    "يغيّر"
+   ],
+   [
+    "source of error",
+    "cause of inaccuracy",
+    "مصدر خطأ"
+   ],
+   [
+    "not necessarily",
+    "not always",
+    "مو بالضرورة"
+   ]
+  ]
+ },
+ {
+  "type": "listen_announcement",
+  "topic": "Train delays",
+  "audio": [
+   [
+    "uk",
+    "Good morning, passengers. Due to a signal problem, trains on Line 3 are running with delays of up to fifteen minutes. Passengers traveling to the airport are advised to use Line 5 and change at Central Station. Tickets remain valid on all lines. Updates will be posted on the screens at each platform and on our mobile app."
+   ]
+  ],
+  "questions": [
+   {
+    "q": "What caused the delays?",
+    "options": [
+     "Bad weather",
+     "A signal problem",
+     "A strike",
+     "An accident"
+    ],
+    "correct": 1,
+    "explanation": "المذيع قال due to a signal problem، يعني مشكلة إشارات."
+   },
+   {
+    "q": "What are airport passengers advised to do?",
+    "options": [
+     "Take Line 5 and change at Central Station",
+     "Wait on Line 3",
+     "Take a taxi",
+     "Return tomorrow"
+    ],
+    "correct": 0,
+    "explanation": "النصيحة: خط 5 وتبديل بمحطة Central."
+   },
+   {
+    "q": "Where will updates be posted?",
+    "options": [
+     "On the radio",
+     "On screens and the mobile app",
+     "In newspapers",
+     "At the ticket office only"
+    ],
+    "correct": 1,
+    "explanation": "التحديثات على الشاشات بالأرصفة وعلى تطبيق الموبايل."
+   }
+  ],
+  "vocab": [
+   [
+    "signal",
+    "traffic control device",
+    "إشارة"
+   ],
+   [
+    "valid",
+    "usable",
+    "صالحة"
+   ],
+   [
+    "platform",
+    "boarding area",
+    "رصيف"
+   ],
+   [
+    "update",
+    "latest information",
+    "تحديث"
+   ],
+   [
+    "advised",
+    "recommended",
+    "منصوح"
+   ]
+  ]
+ },
+ {
+  "type": "listen_talk",
+  "topic": "The fifteen-minute city",
+  "audio": [
+   [
+    "au",
+    "Today I want to introduce the idea of the fifteen-minute city. The concept proposes that residents should be able to meet most daily needs, such as shopping, work, schooling, and healthcare, within a fifteen-minute walk or bike ride from home. Proponents argue that this reduces car dependence, lowers emissions, and strengthens local communities. Paris has adopted elements of the model by converting parking spaces into green areas and cycle lanes. However, critics raise concerns. In large, sprawling cities, redesigning every neighborhood may be unrealistic, and some fear that the idea could lead to rising property prices, making these neighborhoods unaffordable for lower-income residents. Planners therefore suggest adapting the concept to local conditions rather than applying it as a fixed formula."
+   ]
+  ],
+  "questions": [
+   {
+    "q": "What does the fifteen-minute city propose?",
+    "options": [
+     "Faster highways",
+     "Daily needs reachable within a short walk or ride",
+     "Fifteen-minute work shifts",
+     "Free public transport"
+    ],
+    "correct": 1,
+    "explanation": "الفكرة: أغلب الاحتياجات اليومية على بعد 15 دقيقة مشياً أو بالدراجة."
+   },
+   {
+    "q": "What has Paris done?",
+    "options": [
+     "Banned all cars",
+     "Turned parking spaces into green areas and cycle lanes",
+     "Built new highways",
+     "Closed schools"
+    ],
+    "correct": 1,
+    "explanation": "باريس حوّلت مواقف سيارات لمساحات خضراء ومسارات دراجات."
+   },
+   {
+    "q": "What concern is raised about property prices?",
+    "options": [
+     "They may rise, making areas unaffordable",
+     "They will fall sharply",
+     "They are unrelated",
+     "They will be fixed by law"
+    ],
+    "correct": 0,
+    "explanation": "النقاد قلقانين إنو الأسعار ترتفع وتصير الأحياء غالية على ذوي الدخل المنخفض."
+   },
+   {
+    "q": "What do planners suggest?",
+    "options": [
+     "Apply it uniformly everywhere",
+     "Adapt it to local conditions",
+     "Abandon the idea",
+     "Delay all projects"
+    ],
+    "correct": 1,
+    "explanation": "المخططين بيقترحوا تكييفها مع الظروف المحلية، مو تطبيقها كقالب ثابت."
+   }
+  ],
+  "vocab": [
+   [
+    "proponent",
+    "supporter",
+    "مؤيّد"
+   ],
+   [
+    "dependence",
+    "reliance",
+    "اعتماد"
+   ],
+   [
+    "sprawling",
+    "spreading widely",
+    "مترامي الأطراف"
+   ],
+   [
+    "unaffordable",
+    "too expensive",
+    "غير متاح ماديّاً"
+   ],
+   [
+    "formula",
+    "fixed method",
+    "قالب ثابت"
+   ]
+  ]
+ },
+ {
+  "type": "listen_response",
+  "topic": "Used textbooks",
+  "audio": [
+   [
+    "us",
+    "Do you know if the bookstore carries used copies of the chemistry textbook?"
+   ]
+  ],
+  "questions": [
+   {
+    "q": "Choose the best response.",
+    "options": [
+     "Yes, the textbook costs about eighty dollars new.",
+     "I believe so, but they sell out quickly at the start of the semester.",
+     "The chemistry department is in another building.",
+     "I read it carefully last semester."
+    ],
+    "correct": 1,
+    "explanation": "السؤال عن نسخ مستعملة، والجواب الأنسب بيؤكّد وبيحذّر إنها بتنفد بسرعة."
+   }
+  ],
+  "vocab": [
+   [
+    "carry",
+    "stock",
+    "يوفّر / يبيع"
+   ],
+   [
+    "used copies",
+    "second-hand books",
+    "نسخ مستعملة"
+   ],
+   [
+    "sell out",
+    "run out",
+    "تنفد"
+   ],
+   [
+    "semester",
+    "term",
+    "فصل دراسي"
+   ],
+   [
+    "believe",
+    "think",
+    "يظن"
+   ]
+  ]
+ },
+ {
+  "type": "listen_conversation",
+  "topic": "Study abroad",
+  "audio": [
+   [
+    "uk",
+    "I'm thinking of applying for the exchange program in Spain."
+   ],
+   [
+    "us",
+    "That sounds exciting. What would you study there?"
+   ],
+   [
+    "uk",
+    "Mostly environmental policy, and I'd take a Spanish course."
+   ],
+   [
+    "us",
+    "Have you checked whether the credits transfer?"
+   ],
+   [
+    "uk",
+    "Not yet. I should ask the department."
+   ],
+   [
+    "us",
+    "I'd do it soon. The deadline is close and the advisor books up quickly."
+   ]
+  ],
+  "questions": [
+   {
+    "q": "What is the woman considering?",
+    "options": [
+     "Moving jobs",
+     "An exchange program in Spain",
+     "A language exam",
+     "A thesis"
+    ],
+    "correct": 1,
+    "explanation": "قالت إنها عم تفكّر تقدّم على برنامج التبادل بإسبانيا."
+   },
+   {
+    "q": "What does the man ask about?",
+    "options": [
+     "The cost",
+     "Whether credits will transfer",
+     "The weather",
+     "The housing"
+    ],
+    "correct": 1,
+    "explanation": "سألها إذا الساعات المعتمدة بتنحسب (credits transfer)."
+   },
+   {
+    "q": "Why does he suggest acting soon?",
+    "options": [
+     "The deadline is near and the advisor gets busy",
+     "Flights are cheap",
+     "The course starts tomorrow",
+     "He is leaving"
+    ],
+    "correct": 0,
+    "explanation": "الموعد قريب والمستشار بيمتلئ جدوله بسرعة."
+   }
+  ],
+  "vocab": [
+   [
+    "exchange program",
+    "study-abroad scheme",
+    "برنامج تبادل"
+   ],
+   [
+    "credits",
+    "course units",
+    "ساعات معتمدة"
+   ],
+   [
+    "transfer",
+    "carry over",
+    "تُحتسب"
+   ],
+   [
+    "department",
+    "academic unit",
+    "قسم"
+   ],
+   [
+    "book up",
+    "fill quickly",
+    "يمتلئ جدول مواعيده"
+   ]
+  ]
+ },
+ {
+  "type": "listen_announcement",
+  "topic": "Book sale",
+  "audio": [
+   [
+    "us",
+    "Hello, everyone. The campus bookstore is hosting a used-book sale this Saturday from ten to four in the student center. All paperbacks will be one dollar, and hardcovers three. Proceeds will go to the scholarship fund for first-generation students. Volunteers are still needed to help with sorting on Friday afternoon, so if you are interested, please sign up at the information desk."
+   ]
+  ],
+  "questions": [
+   {
+    "q": "How much do paperbacks cost?",
+    "options": [
+     "One dollar",
+     "Three dollars",
+     "Ten dollars",
+     "Free"
+    ],
+    "correct": 0,
+    "explanation": "الكتب ذات الغلاف العادي بدولار، والمجلّدة بثلاثة."
+   },
+   {
+    "q": "Where will the money go?",
+    "options": [
+     "A scholarship fund for first-generation students",
+     "The bookstore",
+     "A new library",
+     "Student parties"
+    ],
+    "correct": 0,
+    "explanation": "العائدات للمنحة الخاصة بالجيل الأول من الطلاب الجامعيين."
+   },
+   {
+    "q": "What help is needed?",
+    "options": [
+     "Sorting books on Friday afternoon",
+     "Cleaning on Sunday",
+     "Advertising online",
+     "Driving trucks"
+    ],
+    "correct": 0,
+    "explanation": "المتطوعين لازم لفرز الكتب بعد ظهر الجمعة، والتسجيل عند مكتب المعلومات."
+   }
+  ],
+  "vocab": [
+   [
+    "proceeds",
+    "money raised",
+    "العائدات"
+   ],
+   [
+    "paperback",
+    "soft-cover book",
+    "كتاب غلاف عادي"
+   ],
+   [
+    "hardcover",
+    "hard-bound book",
+    "كتاب غلاف مقوّى"
+   ],
+   [
+    "volunteer",
+    "unpaid helper",
+    "متطوّع"
+   ],
+   [
+    "sign up",
+    "register",
+    "يسجّل"
+   ]
+  ]
+ },
+ {
+  "type": "listen_talk",
+  "topic": "Keystone species",
+  "audio": [
+   [
+    "uk",
+    "Ecologists use the term keystone species for an organism that has a disproportionately large effect on its ecosystem relative to its numbers. A well-known example is the sea otter on the Pacific coast. Otters feed on sea urchins, which in turn graze on kelp. When otters were hunted nearly to extinction, urchin populations exploded and destroyed kelp forests, eliminating habitat for many fish. After conservation measures allowed otters to recover, the kelp forests began to return. This illustrates a trophic cascade, in which changes at one level of the food web ripple through others. Some researchers caution that the label can be overused: not every ecosystem has a single species whose removal would cause collapse, and the effects often depend on local conditions."
+   ]
+  ],
+  "questions": [
+   {
+    "q": "What is a keystone species?",
+    "options": [
+     "The most numerous species",
+     "A species with a disproportionately large effect on its ecosystem",
+     "The largest animal",
+     "A species brought from elsewhere"
+    ],
+    "correct": 1,
+    "explanation": "التعريف: تأثيره الكبير على النظام البيئي أكبر بكتير من عدده."
+   },
+   {
+    "q": "Why does the professor mention sea otters?",
+    "options": [
+     "To show a trophic cascade",
+     "To discuss hunting laws",
+     "To compare with kelp",
+     "To explain climate change"
+    ],
+    "correct": 0,
+    "explanation": "المثال بيوضّح التأثير المتسلسل: لما قلّت القضاعات انفجر عدد قنافذ البحر ودمّر الأعشاب."
+   },
+   {
+    "q": "What happened when otters were nearly hunted out?",
+    "options": [
+     "Kelp forests expanded",
+     "Urchins multiplied and destroyed kelp forests",
+     "Fish increased",
+     "Water became cleaner"
+    ],
+    "correct": 1,
+    "explanation": "قلّ المفترس فكتر القنفذ، ودمّر غابات الكلب البحري (kelp)."
+   },
+   {
+    "q": "What caution do some researchers give?",
+    "options": [
+     "The term may be overused",
+     "Otters are not important",
+     "Urchins are harmful",
+     "Kelp is not a plant"
+    ],
+    "correct": 0,
+    "explanation": "قالوا إنو المصطلح ممكن يُبالَغ باستخدامه، لأنو مو كل نظام بيئي إلو نوع واحد مفتاحي."
+   }
+  ],
+  "vocab": [
+   [
+    "keystone",
+    "central support",
+    "حجر الأساس"
+   ],
+   [
+    "disproportionately",
+    "unevenly large",
+    "بشكل غير متناسب"
+   ],
+   [
+    "urchin",
+    "spiny sea animal",
+    "قنفذ البحر"
+   ],
+   [
+    "habitat",
+    "natural home",
+    "موئل"
+   ],
+   [
+    "cascade",
+    "chain effect",
+    "تأثير متسلسل"
+   ]
+  ]
+ },
+ {
+  "type": "listen_response",
+  "topic": "Office hours",
+  "audio": [
+   [
+    "us",
+    "Do you know when the registration office closes today?"
+   ]
+  ],
+  "questions": [
+   {
+    "q": "Choose the best response.",
+    "options": [
+     "It's on the third floor.",
+     "Yes, I registered last week.",
+     "I think it's open until five, but you should check the sign.",
+     "Closing the door would help."
+    ],
+    "correct": 2,
+    "explanation": "السؤال عن وقت الإغلاق، فالجواب بيعطي وقت تقريبي وبينصحه يتأكد."
+   }
+  ],
+  "vocab": [
+   [
+    "registration office",
+    "enrollment office",
+    "مكتب التسجيل"
+   ],
+   [
+    "close",
+    "shut",
+    "يغلق"
+   ],
+   [
+    "sign",
+    "notice board",
+    "لافتة"
+   ],
+   [
+    "third floor",
+    "level three",
+    "الطابق الثالث"
+   ],
+   [
+    "check",
+    "verify",
+    "يتأكد"
+   ]
+  ]
+ },
+ {
+  "type": "listen_conversation",
+  "topic": "Interview transcripts",
+  "audio": [
+   [
+    "au",
+    "How did your interviews go?"
+   ],
+   [
+    "us",
+    "Better than expected, but transcribing them is taking forever."
+   ],
+   [
+    "au",
+    "Have you tried automatic transcription?"
+   ],
+   [
+    "us",
+    "I did, but it makes mistakes with accents, so I still have to correct every line."
+   ],
+   [
+    "au",
+    "Maybe use it for a first draft and then edit."
+   ],
+   [
+    "us",
+    "That could save time. I'll try it tonight."
+   ]
+  ],
+  "questions": [
+   {
+    "q": "What is difficult for the student?",
+    "options": [
+     "Finding participants",
+     "Transcribing the interviews",
+     "Writing questions",
+     "Booking rooms"
+    ],
+    "correct": 1,
+    "explanation": "قال transcribing them is taking forever، يعني تفريغ المقابلات ياخد وقت طويل."
+   },
+   {
+    "q": "What is wrong with automatic transcription?",
+    "options": [
+     "It is expensive",
+     "It makes mistakes with accents",
+     "It is too slow",
+     "It deletes files"
+    ],
+    "correct": 1,
+    "explanation": "بيغلط باللهجات، فبيضطر يصحّح كل سطر."
+   },
+   {
+    "q": "What does the woman suggest?",
+    "options": [
+     "Stop interviewing",
+     "Use it for a first draft and edit",
+     "Hire an assistant",
+     "Use only handwriting"
+    ],
+    "correct": 1,
+    "explanation": "اقترحت يستخدمها كمسودة أولى وبعدين يعدّل."
+   }
+  ],
+  "vocab": [
+   [
+    "transcribe",
+    "write out a recording",
+    "يفرّغ تسجيلاً"
+   ],
+   [
+    "accent",
+    "pronunciation style",
+    "لهجة"
+   ],
+   [
+    "first draft",
+    "initial version",
+    "مسودة أولى"
+   ],
+   [
+    "edit",
+    "revise",
+    "يحرّر"
+   ],
+   [
+    "save time",
+    "be more efficient",
+    "يوفّر وقت"
+   ]
+  ]
+ },
+ {
+  "type": "listen_announcement",
+  "topic": "Flu vaccination",
+  "audio": [
+   [
+    "us",
+    "Good evening. The university health center would like to remind students that free flu vaccinations are available this week in the student union. No appointment is needed, but please bring your student ID. Those who wish to receive the vaccine should eat beforehand and wear short sleeves. The center will also distribute information sheets about managing stress during exam season."
+   ]
+  ],
+  "questions": [
+   {
+    "q": "What is available this week?",
+    "options": [
+     "Free flu vaccinations",
+     "Free meals",
+     "Gym memberships",
+     "Study rooms"
+    ],
+    "correct": 0,
+    "explanation": "التطعيمات المجانية ضد الإنفلونزا بمبنى اتحاد الطلبة."
+   },
+   {
+    "q": "What should students bring?",
+    "options": [
+     "Their student ID",
+     "A parent's note",
+     "Cash",
+     "Medical records"
+    ],
+    "correct": 0,
+    "explanation": "ما في موعد مسبق، بس لازم الهوية الجامعية."
+   },
+   {
+    "q": "What will the center also distribute?",
+    "options": [
+     "Study guides",
+     "Information sheets about managing exam stress",
+     "Free snacks",
+     "Bus tickets"
+    ],
+    "correct": 1,
+    "explanation": "أوراق معلومات عن التعامل مع التوتر بموسم الامتحانات."
+   }
+  ],
+  "vocab": [
+   [
+    "vaccination",
+    "immunization",
+    "تطعيم"
+   ],
+   [
+    "appointment",
+    "scheduled visit",
+    "موعد"
+   ],
+   [
+    "sleeve",
+    "arm covering",
+    "كمّ"
+   ],
+   [
+    "distribute",
+    "hand out",
+    "يوزّع"
+   ],
+   [
+    "exam season",
+    "exam period",
+    "موسم الامتحانات"
+   ]
+  ]
+ },
+ {
+  "type": "listen_talk",
+  "topic": "Nudge theory",
+  "audio": [
+   [
+    "us",
+    "Nudge theory suggests that small changes in how choices are presented can influence behavior without restricting freedom. A classic example involves organ donation. In countries where citizens must actively opt in, donation rates are low. In countries with opt-out systems, where people are donors unless they refuse, rates are far higher. Proponents say nudges are a gentle way to help people achieve their own goals, such as saving for retirement. Critics, however, worry about manipulation, especially when the person designing the nudge has interests that differ from those of the people being nudged. They also note that nudges often have modest effects and may not address structural problems, like low wages."
+   ]
+  ],
+  "questions": [
+   {
+    "q": "What is a nudge?",
+    "options": [
+     "A strict rule",
+     "A small change in choice presentation that influences behavior",
+     "A tax",
+     "A warning label"
+    ],
+    "correct": 1,
+    "explanation": "التعريف: تغيير بسيط بطريقة عرض الخيارات بيأثّر على السلوك بدون ما يمنع الحرية."
+   },
+   {
+    "q": "Why is organ donation mentioned?",
+    "options": [
+     "To show how default options affect outcomes",
+     "To criticize hospitals",
+     "To explain taxes",
+     "To discuss retirement"
+    ],
+    "correct": 0,
+    "explanation": "الفرق بين opt-in وopt-out بيوضّح إنو الخيار الافتراضي بيأثّر كتير بالنتيجة."
+   },
+   {
+    "q": "What concern do critics raise about manipulation?",
+    "options": [
+     "Designers' interests may differ from those being nudged",
+     "Nudges are too expensive",
+     "Nudges are illegal",
+     "People never notice"
+    ],
+    "correct": 0,
+    "explanation": "ممكن يكون مصمّم الـ nudge عنده مصالح مختلفة عن مصالح الناس."
+   },
+   {
+    "q": "What other limitation is mentioned?",
+    "options": [
+     "Modest effects and not solving structural problems",
+     "Too strong an effect",
+     "Only works abroad",
+     "Requires a license"
+    ],
+    "correct": 0,
+    "explanation": "تأثيرها غالباً متواضع، وما بتحلّ مشاكل بنيوية متل الأجور المنخفضة."
+   }
+  ],
+  "vocab": [
+   [
+    "nudge",
+    "gentle push",
+    "دفعة خفيفة"
+   ],
+   [
+    "opt in / opt out",
+    "join / leave by choice",
+    "اشتراك / انسحاب طوعي"
+   ],
+   [
+    "default",
+    "preset option",
+    "الخيار الافتراضي"
+   ],
+   [
+    "manipulation",
+    "unfair control",
+    "تلاعب"
+   ],
+   [
+    "structural",
+    "systemic",
+    "بنيوي"
+   ]
+  ]
+ },
+ {
+  "type": "listen_response",
+  "topic": "Portal login",
+  "audio": [
+   [
+    "uk",
+    "I'm having trouble logging into the student portal. Could you help me?"
+   ]
+  ],
+  "questions": [
+   {
+    "q": "Choose the best response.",
+    "options": [
+     "The portal was created last year.",
+     "I prefer logging in the morning.",
+     "Yes, it's on the third floor.",
+     "Sure. Have you tried resetting your password?"
+    ],
+    "correct": 3,
+    "explanation": "الطلب مساعدة بتسجيل الدخول، فالرد المنطقي هو الاقتراح العملي: إعادة ضبط كلمة السر."
+   }
+  ],
+  "vocab": [
+   [
+    "log in",
+    "sign in",
+    "يسجّل الدخول"
+   ],
+   [
+    "portal",
+    "online gateway",
+    "بوابة"
+   ],
+   [
+    "reset",
+    "set again",
+    "يعيد ضبط"
+   ],
+   [
+    "trouble",
+    "difficulty",
+    "مشكلة"
+   ],
+   [
+    "password",
+    "secret code",
+    "كلمة سر"
+   ]
+  ]
+ },
+ {
+  "type": "listen_conversation",
+  "topic": "Thesis timeline",
+  "audio": [
+   [
+    "us",
+    "Professor, I'm worried about my thesis timeline. I've collected the data, but analysis is taking longer than planned."
+   ],
+   [
+    "uk",
+    "How much is left?"
+   ],
+   [
+    "us",
+    "About half. I also need to learn a new software package."
+   ],
+   [
+    "uk",
+    "Then perhaps you should narrow the scope. Do you really need all three case studies?"
+   ],
+   [
+    "us",
+    "I'd prefer to keep them, but I see your point."
+   ],
+   [
+    "uk",
+    "Why not analyze two now and treat the third as future work?"
+   ],
+   [
+    "us",
+    "That's reasonable. I'll revise the plan."
+   ]
+  ],
+  "questions": [
+   {
+    "q": "What worries the student?",
+    "options": [
+     "Funding",
+     "Slow analysis and the timeline",
+     "A missing advisor",
+     "Plagiarism"
+    ],
+    "correct": 1,
+    "explanation": "قلقان من الجدول الزمني لأنو التحليل ياخد وقت أطول من المخطّط."
+   },
+   {
+    "q": "What does the professor suggest?",
+    "options": [
+     "Analyze two case studies now",
+     "Drop out",
+     "Change the topic",
+     "Collect more data"
+    ],
+    "correct": 0,
+    "explanation": "اقترح يضيّق النطاق: يحلل دراستين الآن وبيترك التالتة كعمل مستقبلي."
+   },
+   {
+    "q": "How does the student respond?",
+    "options": [
+     "He refuses",
+     "He agrees to revise his plan",
+     "He asks for more time",
+     "He cancels the meeting"
+    ],
+    "correct": 1,
+    "explanation": "قال That's reasonable. I'll revise the plan."
+   }
+  ],
+  "vocab": [
+   [
+    "thesis",
+    "long research paper",
+    "أطروحة"
+   ],
+   [
+    "timeline",
+    "schedule",
+    "جدول زمني"
+   ],
+   [
+    "scope",
+    "extent",
+    "نطاق"
+   ],
+   [
+    "case study",
+    "detailed example",
+    "دراسة حالة"
+   ],
+   [
+    "revise",
+    "modify",
+    "يعدّل"
+   ]
+  ]
+ },
+ {
+  "type": "listen_announcement",
+  "topic": "Midterm change",
+  "audio": [
+   [
+    "au",
+    "Students in Professor Alvarez's economics class: please note that the midterm has been rescheduled from Tuesday to Thursday because of a conflict with a guest lecture. The exam will cover chapters one through six, not seven as previously announced. Calculators are permitted, but laptops are not. Anyone who needs accommodation should notify the department by Monday."
+   ]
+  ],
+  "questions": [
+   {
+    "q": "Why was the midterm rescheduled?",
+    "options": [
+     "A guest lecture conflict",
+     "Professor illness",
+     "A holiday",
+     "Room unavailable"
+    ],
+    "correct": 0,
+    "explanation": "التعارض مع محاضرة ضيف هو السبب."
+   },
+   {
+    "q": "What will the exam cover?",
+    "options": [
+     "Chapters one through six",
+     "Chapters one through seven",
+     "Only chapter six",
+     "The whole book"
+    ],
+    "correct": 0,
+    "explanation": "الفصول من 1 لـ 6 بس، مو 7 متل ما أُعلن سابقاً."
+   },
+   {
+    "q": "What is not permitted?",
+    "options": [
+     "Calculators",
+     "Laptops",
+     "Pens",
+     "Notes"
+    ],
+    "correct": 1,
+    "explanation": "الحاسبات مسموحة، أما اللابتوبات لا."
+   }
+  ],
+  "vocab": [
+   [
+    "midterm",
+    "mid-semester exam",
+    "امتحان نصفي"
+   ],
+   [
+    "reschedule",
+    "change the time",
+    "يعيد جدولة"
+   ],
+   [
+    "conflict",
+    "clash",
+    "تعارض"
+   ],
+   [
+    "cover",
+    "include",
+    "يغطّي"
+   ],
+   [
+    "accommodation",
+    "special adjustment",
+    "تسهيلات خاصة"
+   ]
+  ]
+ },
+ {
+  "type": "listen_talk",
+  "topic": "The Great Vowel Shift",
+  "audio": [
+   [
+    "uk",
+    "English spelling is notoriously inconsistent, and one major reason is the Great Vowel Shift. Between roughly 1400 and 1700, the pronunciation of long vowels changed dramatically. A word like name, for example, was once pronounced closer to nah-muh. However, printing had already begun standardizing spelling, so written forms froze before the pronunciation finished changing. As a result, many words retain spellings that reflect older sounds. Linguists debate what caused the shift. One theory points to mixing of dialects after large migrations to London, but evidence is limited because we lack recordings and rely on rhymes in poetry and the descriptions of contemporary grammarians."
+   ]
+  ],
+  "questions": [
+   {
+    "q": "Why is English spelling inconsistent, according to the talk?",
+    "options": [
+     "Spelling froze before pronunciation finished changing",
+     "Writers ignored printing",
+     "Vowels never changed",
+     "Dictionaries were banned"
+    ],
+    "correct": 0,
+    "explanation": "الإملاء ثبت بسبب الطباعة قبل ما يخلص تغيّر النطق."
+   },
+   {
+    "q": "What role did printing play?",
+    "options": [
+     "It began standardizing spelling",
+     "It changed pronunciation",
+     "It created dialects",
+     "It stopped migration"
+    ],
+    "correct": 0,
+    "explanation": "الطباعة بلّشت توحّد الإملاء مبكراً."
+   },
+   {
+    "q": "Why is evidence about the shift limited?",
+    "options": [
+     "No recordings exist, so scholars rely on rhymes and grammarians",
+     "Documents were burned",
+     "Nobody studies it",
+     "Languages stayed the same"
+    ],
+    "correct": 0,
+    "explanation": "ما في تسجيلات، فبيعتمدوا على القوافي بالشعر ووصف النحويين المعاصرين."
+   },
+   {
+    "q": "What theory about the cause is mentioned?",
+    "options": [
+     "Dialect mixing after migrations to London",
+     "Climate change",
+     "New alphabets",
+     "Radio"
+    ],
+    "correct": 0,
+    "explanation": "نظرية بتربط التغيير باختلاط اللهجات بعد هجرات كبيرة للندن."
+   }
+  ],
+  "vocab": [
+   [
+    "inconsistent",
+    "irregular",
+    "غير متّسق"
+   ],
+   [
+    "vowel",
+    "a speech sound like a, e, i",
+    "حرف علّة (صوت)"
+   ],
+   [
+    "retain",
+    "keep",
+    "يحتفظ"
+   ],
+   [
+    "dialect",
+    "regional variety",
+    "لهجة"
+   ],
+   [
+    "contemporary",
+    "of the same period",
+    "معاصر لتلك الفترة"
+   ]
+  ]
+ },
+ {
+  "type": "listen_response",
+  "topic": "Rescheduling",
+  "audio": [
+   [
+    "us",
+    "Would it be possible to reschedule my appointment for later in the week?"
+   ]
+  ],
+  "questions": [
+   {
+    "q": "Choose the best response.",
+    "options": [
+     "I appointed him last week.",
+     "Weeks are seven days long.",
+     "It's possible, but I forgot my password.",
+     "Certainly. We have openings on Thursday and Friday."
+    ],
+    "correct": 3,
+    "explanation": "الطلب تغيير موعد، فالجواب الأنسب بيعرض أوقات متاحة."
+   }
+  ],
+  "vocab": [
+   [
+    "reschedule",
+    "change the time",
+    "يعيد جدولة"
+   ],
+   [
+    "appointment",
+    "scheduled visit",
+    "موعد"
+   ],
+   [
+    "opening",
+    "available slot",
+    "موعد متاح"
+   ],
+   [
+    "certainly",
+    "of course",
+    "بالتأكيد"
+   ],
+   [
+    "later",
+    "afterward",
+    "لاحقاً"
+   ]
+  ]
+ },
+ {
+  "type": "listen_conversation",
+  "topic": "Choosing a methods course",
+  "audio": [
+   [
+    "uk",
+    "Have you decided which research methods course to take?"
+   ],
+   [
+    "us",
+    "I'm torn between the quantitative and the qualitative one."
+   ],
+   [
+    "uk",
+    "What's your thesis about?"
+   ],
+   [
+    "us",
+    "How cities use public data in planning."
+   ],
+   [
+    "uk",
+    "Then quantitative seems more useful, but qualitative interviews with officials might also help."
+   ],
+   [
+    "us",
+    "True. Maybe I can take quantitative now and the other next semester."
+   ],
+   [
+    "uk",
+    "That's what I did. It worked out well."
+   ]
+  ],
+  "questions": [
+   {
+    "q": "What is the student unsure about?",
+    "options": [
+     "Which methods course to take",
+     "Which professor to pick",
+     "Whether to graduate",
+     "How to pay"
+    ],
+    "correct": 0,
+    "explanation": "قال I'm torn between the quantitative and the qualitative one."
+   },
+   {
+    "q": "What is the thesis about?",
+    "options": [
+     "Public data in city planning",
+     "Classroom behavior",
+     "Language learning",
+     "Health care"
+    ],
+    "correct": 0,
+    "explanation": "موضوع الأطروحة: كيف بتستخدم المدن البيانات العامة بالتخطيط."
+   },
+   {
+    "q": "What is the student's plan?",
+    "options": [
+     "Take quantitative now and qualitative next semester",
+     "Skip both",
+     "Take both at once",
+     "Change his topic"
+    ],
+    "correct": 0,
+    "explanation": "قرّر ياخد الكمّي هلق والنوعي بالفصل الجاي."
+   }
+  ],
+  "vocab": [
+   [
+    "torn between",
+    "undecided between",
+    "محتار بين"
+   ],
+   [
+    "quantitative",
+    "numerical",
+    "كمّي"
+   ],
+   [
+    "qualitative",
+    "descriptive",
+    "نوعي"
+   ],
+   [
+    "research methods",
+    "study techniques",
+    "مناهج البحث"
+   ],
+   [
+    "officials",
+    "authority staff",
+    "مسؤولون"
+   ]
+  ]
+ }
+]

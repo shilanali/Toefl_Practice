@@ -1,0 +1,1832 @@
+[
+ {
+  "type": "complete_words",
+  "topic": "Marine biology",
+  "text": "Coral reefs are among the most dive___ ecosystems on Earth. They provide shel___ for thousands of marine spec___, protect coastlines from erosion, and support local fishing commun_____. However, rising ocean temper______ cause corals to expel the algae that give them co___ and nutrients, a process known as blea_____. Without pro___ action to reduce emis_____, many reefs may disap____ within decades.",
+  "questions": [],
+  "answer": "1 diverse · 2 shelter · 3 species · 4 communities · 5 temperatures · 6 color · 7 bleaching · 8 prompt · 9 emissions · 10 disappear",
+  "vocab": [
+   [
+    "ecosystem",
+    "biological community",
+    "نظام بيئي"
+   ],
+   [
+    "erosion",
+    "wearing away",
+    "تعرية / انجراف"
+   ],
+   [
+    "expel",
+    "eject",
+    "يطرد"
+   ],
+   [
+    "bleaching",
+    "loss of color",
+    "ابيضاض (المرجان)"
+   ],
+   [
+    "emission",
+    "discharge",
+    "انبعاث"
+   ],
+   [
+    "prompt",
+    "swift",
+    "فوري / سريع"
+   ]
+  ]
+ },
+ {
+  "type": "daily_life",
+  "topic": "Housing notice",
+  "text": "Notice to Residents, Maple Court Apartments\n\nDue to essential plumbing upgrades, water will be shut off in Building B on Thursday, March 12, from 9:00 a.m. to 3:00 p.m. Residents are advised to store enough water beforehand. Laundry rooms will remain open in Building A. Please contact the front office at ext. 204 with any concerns. We appreciate your patience.",
+  "questions": [
+   {
+    "q": "What should residents of Building B do before Thursday?",
+    "options": [
+     "Move to Building A",
+     "Store water in advance",
+     "Call a plumber",
+     "Pay a maintenance fee"
+    ],
+    "correct": 1,
+    "explanation": "الإشعار بيقول لازم يخزّنوا مي كافية قبل القطع (store enough water beforehand). الباقي ما انذكر."
+   },
+   {
+    "q": "Where can residents do laundry during the shutoff?",
+    "options": [
+     "In the Building B basement",
+     "At the front office",
+     "In Building A",
+     "At a nearby laundromat"
+    ],
+    "correct": 2,
+    "explanation": "غرف الغسيل بـ Building A بتضل فاتحة، وهالشي مذكور بشكل مباشر بالنص."
+   },
+   {
+    "q": "What does the notice suggest about the work?",
+    "options": [
+     "It was caused by a sudden pipe burst",
+     "It is a planned improvement",
+     "It will last several days",
+     "It affects both buildings"
+    ],
+    "correct": 1,
+    "explanation": "كلمة upgrades مع تحديد وقت مسبق معناها شغل مخطط، مو انفجار مفاجئ. والقطع بس لـ Building B وبس نهار واحد."
+   }
+  ],
+  "vocab": [
+   [
+    "shut off",
+    "turn off",
+    "يقطع"
+   ],
+   [
+    "advised",
+    "recommended",
+    "منصوح / مطلوب منهم"
+   ],
+   [
+    "beforehand",
+    "in advance",
+    "مسبقاً"
+   ],
+   [
+    "upgrade",
+    "improvement",
+    "تحسين / تطوير"
+   ],
+   [
+    "concern",
+    "worry",
+    "قلق / استفسار"
+   ],
+   [
+    "patience",
+    "tolerance",
+    "صبر"
+   ]
+  ]
+ },
+ {
+  "type": "academic_passage",
+  "topic": "Urban heat islands",
+  "text": "Urban heat islands are metropolitan areas that are significantly warmer than the rural land surrounding them. The difference arises largely from the materials cities are built with. Asphalt and concrete absorb solar radiation during the day and release it slowly at night, which prevents urban temperatures from dropping as much as those in the countryside. Moreover, the scarcity of vegetation reduces evaporative cooling, a process by which plants release water vapor and lower the surrounding air temperature. Tall buildings can further trap heat by blocking wind and limiting the dispersal of warm air. The consequences extend beyond discomfort: heat islands increase energy demand for air conditioning, intensify air pollution, and raise the risk of heat-related illness, particularly among the elderly. Planners have responded with strategies such as reflective roofing, expanded green spaces, and green roofs, though the effectiveness of these measures varies with local climate and the density of development.",
+  "questions": [
+   {
+    "q": "What is the passage mainly about?",
+    "options": [
+     "Why cities cause global warming",
+     "The causes and effects of higher temperatures in cities, and responses to them",
+     "How asphalt is manufactured",
+     "Differences between urban and rural wildlife"
+    ],
+    "correct": 1,
+    "explanation": "الفكرة العامة بتغطي الأسباب والنتايج والحلول. باقي الخيارات إما أضيق من النص أو مو مذكورة."
+   },
+   {
+    "q": "The word 'scarcity' in the passage is closest in meaning to",
+    "options": [
+     "shortage",
+     "variety",
+     "beauty",
+     "cost"
+    ],
+    "correct": 0,
+    "explanation": "scarcity = shortage، يعني نقص. النص بيحكي عن قلة النباتات بالمدن."
+   },
+   {
+    "q": "According to the passage, why do cities cool less at night?",
+    "options": [
+     "Wind speeds are higher",
+     "Air conditioners are turned off",
+     "Plants release heat at night",
+     "Asphalt and concrete release stored heat slowly"
+    ],
+    "correct": 3,
+    "explanation": "الزفت والباطون بيمتصوا الإشعاع بالنهار وبيطلّعوه ببطء بالليل، هيك المدينة ما بتبرد متل الريف."
+   },
+   {
+    "q": "What can be inferred about green roofs?",
+    "options": [
+     "They always reduce temperatures equally",
+     "Their success depends on local conditions",
+     "They are cheaper than reflective roofing",
+     "They are ineffective"
+    ],
+    "correct": 1,
+    "explanation": "النص بيقول إنو فعالية هالحلول بتختلف حسب المناخ والكثافة. يعني مو دايماً نفس النتيجة، وما قال إنها فاشلة."
+   }
+  ],
+  "vocab": [
+   [
+    "metropolitan",
+    "urban",
+    "حضري / خاص بالمدن الكبرى"
+   ],
+   [
+    "radiation",
+    "emitted energy",
+    "إشعاع"
+   ],
+   [
+    "scarcity",
+    "shortage",
+    "ندرة / نقص"
+   ],
+   [
+    "vegetation",
+    "plant life",
+    "غطاء نباتي"
+   ],
+   [
+    "dispersal",
+    "spreading out",
+    "تشتّت / انتشار"
+   ],
+   [
+    "intensify",
+    "worsen",
+    "يزيد حدّة"
+   ],
+   [
+    "density",
+    "concentration",
+    "كثافة"
+   ]
+  ]
+ },
+ {
+  "type": "complete_words",
+  "topic": "Data privacy",
+  "text": "As digital services expand, concerns about personal data protection have grown. Companies collect enormous amounts of informa____ about their users' habits, loca____, and prefer_____. Regulators in many countries have introduced str___ rules that require organi_______ to obtain explicit con____ before processing such data. Critics argue, however, that these policies are difficult to enf____ across borders, and that users rarely read the lengthy agree_____ they accept. As a re____, many people remain una____ of how their data is used.",
+  "questions": [],
+  "answer": "1 information · 2 location · 3 preferences · 4 strict · 5 organizations · 6 consent · 7 enforce · 8 agreements · 9 result · 10 unaware",
+  "vocab": [
+   [
+    "consent",
+    "permission",
+    "موافقة"
+   ],
+   [
+    "enforce",
+    "implement",
+    "يفرض / ينفّذ"
+   ],
+   [
+    "explicit",
+    "clearly stated",
+    "صريح"
+   ],
+   [
+    "across borders",
+    "internationally",
+    "عبر الحدود"
+   ],
+   [
+    "lengthy",
+    "long",
+    "طويل"
+   ],
+   [
+    "unaware",
+    "oblivious",
+    "غير مدرك"
+   ]
+  ]
+ },
+ {
+  "type": "daily_life",
+  "topic": "Residence hall email",
+  "text": "Subject: Routine safety inspections\n\nHi all,\n\nHousing will conduct routine safety inspections in all residence halls between October 6 and 10. Staff will enter rooms between 10 a.m. and 4 p.m., so please make sure pathways are clear and that no candles or space heaters are in use. You do not need to be present. If you have a medical appointment or another commitment that requires an alternative time, reply to this email by October 3.\n\nThank you,\nResidential Life",
+  "questions": [
+   {
+    "q": "What is the main purpose of the email?",
+    "options": [
+     "To announce a rent increase",
+     "To inform residents about upcoming safety inspections",
+     "To invite residents to an event",
+     "To report a fire"
+    ],
+    "correct": 1,
+    "explanation": "الإيميل كله عن فحوصات السلامة الروتينية، مو عن الإيجار ولا فعالية."
+   },
+   {
+    "q": "What should a student do to request a different time?",
+    "options": [
+     "Reply by October 3",
+     "Visit the housing office on October 6",
+     "Leave the key at the door",
+     "Call the fire department"
+    ],
+    "correct": 0,
+    "explanation": "الإيميل قال: reply to this email by October 3. الباقي ما انذكر."
+   },
+   {
+    "q": "What is stated about the students' presence during inspections?",
+    "options": [
+     "They must stay in their rooms",
+     "They must sign a form",
+     "They do not need to be there",
+     "They must remove all furniture"
+    ],
+    "correct": 2,
+    "explanation": "النص بيقول You do not need to be present، يعني الحضور مو ضروري."
+   }
+  ],
+  "vocab": [
+   [
+    "inspection",
+    "examination",
+    "فحص / تفتيش"
+   ],
+   [
+    "routine",
+    "regular",
+    "روتيني"
+   ],
+   [
+    "pathway",
+    "walkway",
+    "ممر"
+   ],
+   [
+    "clear",
+    "unobstructed",
+    "خالٍ من العوائق"
+   ],
+   [
+    "alternative",
+    "different option",
+    "بديل"
+   ],
+   [
+    "residence hall",
+    "dormitory",
+    "سكن جامعي"
+   ]
+  ]
+ },
+ {
+  "type": "academic_passage",
+  "topic": "Science and technology studies",
+  "text": "Science and technology studies, often abbreviated STS, is an interdisciplinary field that examines how scientific knowledge and technological artifacts are shaped by social, political, and cultural forces. Rather than treating inventions as the inevitable outcome of technical progress, STS scholars emphasize that design choices reflect the values and interests of the groups involved. The history of the bicycle is a frequently cited case. Early models with enormous front wheels suited young, athletic riders, but other social groups, including women wearing long skirts, considered them unsafe. Only after designers addressed these competing concerns did the modern 'safety bicycle' become standard. Such examples suggest that technologies do not simply work or fail on technical grounds alone; their success depends on whether diverse users accept them. Consequently, STS has influenced policy debates by encouraging regulators to consult a broader range of stakeholders early in the development process, rather than evaluating risks only after a technology has been widely deployed.",
+  "questions": [
+   {
+    "q": "What is the main point of the passage?",
+    "options": [
+     "Bicycles are the most important invention",
+     "Technologies are shaped by social contexts, not only technical logic",
+     "Regulators should ban risky technologies",
+     "Scientific knowledge is always objective"
+    ],
+    "correct": 1,
+    "explanation": "الفكرة الأساسية: التقنية بتتشكل بالقيم والمصالح الاجتماعية مو بس بالمنطق التقني. مثال البسكليت جاي لتوضيح هالفكرة."
+   },
+   {
+    "q": "The word 'inevitable' in the passage is closest in meaning to",
+    "options": [
+     "unavoidable",
+     "unusual",
+     "harmful",
+     "temporary"
+    ],
+    "correct": 0,
+    "explanation": "inevitable = unavoidable، يعني حتمي. النص بينتقد فكرة إنو الاختراعات نتيجة حتمية للتقدم."
+   },
+   {
+    "q": "Why were bicycles with large front wheels not widely adopted?",
+    "options": [
+     "They were too expensive",
+     "They did not suit all social groups",
+     "They were banned by regulators",
+     "They were slower"
+    ],
+    "correct": 1,
+    "explanation": "كانت بتناسب الشباب الرياضيين بس، وفئات تانية متل النساء بتنانير طويلة اعتبروها غير آمنة."
+   },
+   {
+    "q": "According to the passage, how has STS influenced policy?",
+    "options": [
+     "By encouraging early consultation with a broader range of stakeholders",
+     "By reducing public participation",
+     "By promoting faster approval of new products",
+     "By limiting research funding"
+    ],
+    "correct": 0,
+    "explanation": "النص بيقول إنو STS شجّع المنظّمين يستشيروا أطراف أوسع بوقت مبكر، مو يقيّموا المخاطر بعد انتشار التقنية."
+   }
+  ],
+  "vocab": [
+   [
+    "interdisciplinary",
+    "cross-field",
+    "متعدد التخصصات"
+   ],
+   [
+    "artifact",
+    "man-made object",
+    "أداة / مصنوع بشري"
+   ],
+   [
+    "inevitable",
+    "unavoidable",
+    "حتمي"
+   ],
+   [
+    "stakeholder",
+    "interested party",
+    "صاحب مصلحة / طرف معني"
+   ],
+   [
+    "deploy",
+    "put into use",
+    "ينشر / يطبّق"
+   ],
+   [
+    "emphasize",
+    "stress",
+    "يؤكّد على"
+   ]
+  ]
+ },
+ {
+  "type": "complete_words",
+  "topic": "Renewable energy",
+  "vocab": [
+   [
+    "intermittent",
+    "irregular",
+    "متقطّع"
+   ],
+   [
+    "incentive",
+    "motivation",
+    "حافز"
+   ],
+   [
+    "storage",
+    "keeping in reserve",
+    "تخزين"
+   ],
+   [
+    "infrastructure",
+    "basic systems",
+    "بنية تحتية"
+   ],
+   [
+    "integrate",
+    "combine",
+    "يدمج"
+   ]
+  ],
+  "text": "Solar and wind power have become increa______ compet_____ with fossil fuels. Falling produ_____ costs, combined with government incen_____, have encouraged utilities to invest heavily. However, because sunlight and wind are interm______, grids require reliable stor___ technologies to maintain a steady sup___ of electricity. Researchers are therefore developing advanced batte____ and exploring ways to integ____ distributed sources into existing infrast_______.",
+  "answer": "1 increasingly · 2 competitive · 3 production · 4 incentives · 5 intermittent · 6 storage · 7 supply · 8 batteries · 9 integrate · 10 infrastructure",
+  "questions": []
+ },
+ {
+  "type": "daily_life",
+  "topic": "Office hours email",
+  "text": "Subject: Office hours this week\n\nDear students, my Wednesday office hours are moved to Thursday from 2:00 to 4:00 p.m. because of a faculty meeting. If you plan to discuss your term project, please bring a one-page summary. Students who cannot attend may book a video call through the department website.\n\nBest regards,\nDr. Ellis",
+  "questions": [
+   {
+    "q": "Why have the office hours been moved?",
+    "options": [
+     "Dr. Ellis is traveling",
+     "There is a faculty meeting",
+     "The room is being renovated",
+     "Exams are starting"
+    ],
+    "correct": 1,
+    "explanation": "الإيميل قال بوضوح because of a faculty meeting."
+   },
+   {
+    "q": "What should students bring to discuss a term project?",
+    "options": [
+     "A one-page summary",
+     "A draft of the full paper",
+     "Their textbook",
+     "A signed form"
+    ],
+    "correct": 0,
+    "explanation": "المطلوب ملخص من صفحة وحدة (one-page summary) مو المشروع كامل."
+   },
+   {
+    "q": "What can students do if they cannot attend?",
+    "options": [
+     "Send a friend",
+     "Book a video call",
+     "Skip the project",
+     "Visit on Friday"
+    ],
+    "correct": 1,
+    "explanation": "النص بيقول يحجزوا مكالمة فيديو عبر موقع القسم."
+   }
+  ],
+  "vocab": [
+   [
+    "term project",
+    "semester assignment",
+    "مشروع الفصل"
+   ],
+   [
+    "faculty meeting",
+    "staff meeting",
+    "اجتماع الهيئة التدريسية"
+   ],
+   [
+    "office hours",
+    "consultation time",
+    "ساعات الاستقبال"
+   ],
+   [
+    "book",
+    "reserve",
+    "يحجز"
+   ],
+   [
+    "summary",
+    "overview",
+    "ملخّص"
+   ]
+  ]
+ },
+ {
+  "type": "academic_passage",
+  "topic": "The printing press",
+  "text": "Before the mid-fifteenth century, books in Europe were copied by hand, a laborious process that made them rare and expensive. The introduction of movable-type printing dramatically lowered costs and increased the speed at which texts could be reproduced. As a result, literacy rates rose gradually, and ideas circulated across regions far more rapidly than before. Historians argue that the press also standardized languages, since printers favored consistent spelling to reach wider markets. Critics, however, caution against attributing every cultural change to a single invention. Social conditions, such as growing urban populations and expanding trade networks, created the demand that made printing profitable in the first place.",
+  "questions": [
+   {
+    "q": "What is the passage mainly about?",
+    "options": [
+     "The effects of printing and the limits of crediting it alone",
+     "How books were copied by hand",
+     "The history of European trade",
+     "Why literacy declined"
+    ],
+    "correct": 0,
+    "explanation": "النص بيشرح تأثير الطباعة وبيحذّر إنو ما نعزي كل التغيير الثقافي لاختراع واحد."
+   },
+   {
+    "q": "The word 'laborious' in the passage is closest in meaning to",
+    "options": [
+     "careless",
+     "secret",
+     "ancient",
+     "tiring and time-consuming"
+    ],
+    "correct": 3,
+    "explanation": "laborious = شاق ويحتاج وقت وجهد، وهيك كان نسخ الكتب باليد."
+   },
+   {
+    "q": "Why did printing help standardize languages?",
+    "options": [
+     "Governments required it",
+     "Printers preferred consistent spelling for wider markets",
+     "Readers demanded dictionaries",
+     "Handwriting disappeared"
+    ],
+    "correct": 1,
+    "explanation": "المطابع فضّلت إملاء موحّد لتوصل لجمهور أوسع، وهيك توحّدت اللغات تدريجياً."
+   },
+   {
+    "q": "What do critics warn against?",
+    "options": [
+     "Attributing all cultural change to one invention",
+     "Ignoring literacy rates",
+     "Buying expensive books",
+     "Using movable type"
+    ],
+    "correct": 0,
+    "explanation": "النقاد بيحذّروا من نسب كل تغيير ثقافي لاختراع واحد، لأنو الظروف الاجتماعية كانت عامل مهم كمان."
+   }
+  ],
+  "vocab": [
+   [
+    "laborious",
+    "demanding",
+    "شاق / مضنٍ"
+   ],
+   [
+    "literacy",
+    "ability to read and write",
+    "معرفة القراءة والكتابة"
+   ],
+   [
+    "circulate",
+    "spread",
+    "ينتشر"
+   ],
+   [
+    "standardize",
+    "make uniform",
+    "يوحّد"
+   ],
+   [
+    "attribute",
+    "credit",
+    "ينسب"
+   ],
+   [
+    "profitable",
+    "lucrative",
+    "مربح"
+   ]
+  ]
+ },
+ {
+  "type": "complete_words",
+  "topic": "Sleep and memory",
+  "vocab": [
+   [
+    "deprivation",
+    "lack",
+    "حرمان"
+   ],
+   [
+    "impair",
+    "damage",
+    "يُضعف"
+   ],
+   [
+    "neurons",
+    "nerve cells",
+    "خلايا عصبية"
+   ],
+   [
+    "chronic",
+    "long-term",
+    "مزمن"
+   ],
+   [
+    "regulation",
+    "control",
+    "تنظيم / ضبط"
+   ]
+  ],
+  "text": "Sleep plays a cruc___ role in how the brain stores memo____. During deep sleep, the brain repl___ recent experiences and strengthens the connec_____ between neur___. Researchers have shown that students who sleep after stud____ remember more than those who stay awake. Chronic sleep depriv_____ can therefore impair learning, atten____, and emotional regul_____, making daily tasks more diffi____.",
+  "answer": "1 crucial · 2 memories · 3 replays · 4 connections · 5 neurons · 6 studying · 7 deprivation · 8 attention · 9 regulation · 10 difficult",
+  "questions": []
+ },
+ {
+  "type": "daily_life",
+  "topic": "Library notice",
+  "text": "Library Notice: Overdue Items\n\nBooks returned after the due date incur a fine of $0.50 per day, up to a maximum of $15 per item. Students may renew items once online if no one else has requested them. Borrowers with unpaid fines over $10 cannot check out new materials until the balance is paid. Fines can be paid at the circulation desk or through the student portal.",
+  "questions": [
+   {
+    "q": "What is the maximum fine per item?",
+    "options": [
+     "$10",
+     "$15",
+     "$0.50",
+     "$50"
+    ],
+    "correct": 1,
+    "explanation": "النص قال up to a maximum of $15 per item. الـ 10 دولار حدّ المنع من الاستعارة."
+   },
+   {
+    "q": "When can a student renew a book online?",
+    "options": [
+     "Anytime",
+     "Only in the last week",
+     "If no one else has requested it",
+     "After paying all fines"
+    ],
+    "correct": 2,
+    "explanation": "التجديد مرة وحدة بشرط ما حدا تاني طلب الكتاب."
+   },
+   {
+    "q": "What happens if unpaid fines exceed $10?",
+    "options": [
+     "The student is suspended",
+     "The student cannot borrow new materials",
+     "The fine doubles",
+     "The portal is blocked"
+    ],
+    "correct": 1,
+    "explanation": "بيمنعوه يستعير مواد جديدة لحد ما يدفع الرصيد."
+   }
+  ],
+  "vocab": [
+   [
+    "overdue",
+    "late",
+    "متأخّر"
+   ],
+   [
+    "fine",
+    "penalty",
+    "غرامة"
+   ],
+   [
+    "renew",
+    "extend a loan",
+    "يجدّد"
+   ],
+   [
+    "balance",
+    "amount owed",
+    "الرصيد المستحق"
+   ],
+   [
+    "circulation desk",
+    "checkout counter",
+    "مكتب الإعارة"
+   ]
+  ]
+ },
+ {
+  "type": "academic_passage",
+  "topic": "Memory consolidation",
+  "text": "Memory consolidation refers to the process by which newly acquired information is stabilized and integrated into long-term storage. Early research suggested that this process occurs mainly through repetition. More recent studies, however, indicate that sleep is equally important. During certain stages of sleep, the hippocampus appears to replay patterns of neural activity associated with recent experiences, gradually transferring them to the cortex, where they become less vulnerable to interference. This may explain why students who sleep after studying often perform better than those who study late and remain awake. Nevertheless, scientists caution that individual differences, such as age and stress levels, can influence how effectively the brain consolidates memories.",
+  "questions": [
+   {
+    "q": "What is the main idea of the passage?",
+    "options": [
+     "Repetition is useless for learning",
+     "Sleep contributes to stabilizing memories, though individuals differ",
+     "The hippocampus causes stress",
+     "Older people cannot learn"
+    ],
+    "correct": 1,
+    "explanation": "الفكرة: النوم بيساعد على ترسيخ الذاكرة، مع تحذير إنو الأفراد بيختلفوا."
+   },
+   {
+    "q": "The word 'vulnerable' is closest in meaning to",
+    "options": [
+     "strong",
+     "susceptible",
+     "visible",
+     "permanent"
+    ],
+    "correct": 1,
+    "explanation": "vulnerable = susceptible، يعني عرضة للتأثر أو الضرر."
+   },
+   {
+    "q": "What does the hippocampus do during certain stages of sleep?",
+    "options": [
+     "Stops all activity",
+     "Replays neural patterns from recent experiences",
+     "Produces stress hormones",
+     "Erases old memories"
+    ],
+    "correct": 1,
+    "explanation": "النص بيقول بتعيد تشغيل أنماط النشاط العصبي المرتبط بتجارب حديثة، وبتنقلها تدريجياً للقشرة."
+   },
+   {
+    "q": "Why do scientists urge caution?",
+    "options": [
+     "Sleep has no effect",
+     "Age and stress can affect consolidation",
+     "Students sleep too much",
+     "Repetition is harmful"
+    ],
+    "correct": 1,
+    "explanation": "الاختلافات الفردية متل العمر ومستوى التوتر بتأثر على كفاءة الترسيخ."
+   }
+  ],
+  "vocab": [
+   [
+    "consolidation",
+    "strengthening",
+    "ترسيخ"
+   ],
+   [
+    "acquired",
+    "gained",
+    "مكتسب"
+   ],
+   [
+    "hippocampus",
+    "brain memory region",
+    "الحُصين"
+   ],
+   [
+    "vulnerable",
+    "susceptible",
+    "عرضة للتأثر"
+   ],
+   [
+    "interference",
+    "disruption",
+    "تشويش"
+   ]
+  ]
+ },
+ {
+  "type": "complete_words",
+  "topic": "Urban farming",
+  "vocab": [
+   [
+    "offset",
+    "compensate for",
+    "يعوّض"
+   ],
+   [
+    "vertical",
+    "upright",
+    "عمودي"
+   ],
+   [
+    "security",
+    "reliable access",
+    "أمن"
+   ],
+   [
+    "consumer",
+    "buyer",
+    "مستهلك"
+   ],
+   [
+    "transport",
+    "carrying",
+    "نقل"
+   ]
+  ],
+  "text": "Urban farming is expan____ rapidly as cities search for ways to improve food secu____. Roof___ gardens and vertical farms can prod___ vegetables close to consumers, reducing the emiss____ associated with long-distance trans____. Nevertheless, these systems require significant ene___ for lighting and climate cont___, which may off___ some environmental bene____.",
+  "answer": "1 expanding · 2 security · 3 Rooftop · 4 produce · 5 emissions · 6 transport · 7 energy · 8 control · 9 offset · 10 benefits",
+  "questions": []
+ },
+ {
+  "type": "daily_life",
+  "topic": "Campus job posting",
+  "text": "Campus Job: Research Assistant (Part-time)\n\nThe Department of Geography seeks a research assistant for 10 hours per week during the spring semester. Duties include cleaning datasets, preparing maps, and assisting with literature reviews. Applicants should be enrolled students with basic GIS skills; experience with Python is a plus. Please submit a CV and a short cover letter by March 1 through the careers portal.",
+  "questions": [
+   {
+    "q": "How many hours per week is the job?",
+    "options": [
+     "5",
+     "10",
+     "20",
+     "40"
+    ],
+    "correct": 1,
+    "explanation": "قال 10 hours per week خلال الفصل الربيعي."
+   },
+   {
+    "q": "Which skill is required?",
+    "options": [
+     "Advanced Python",
+     "Basic GIS skills",
+     "Graphic design",
+     "Fluent French"
+    ],
+    "correct": 1,
+    "explanation": "المطلوب basic GIS skills، أما Python فهي ميزة إضافية (a plus) مو شرط."
+   },
+   {
+    "q": "How should applicants apply?",
+    "options": [
+     "Visit the department",
+     "Email a professor",
+     "Submit a CV and cover letter on the careers portal",
+     "Call the careers office"
+    ],
+    "correct": 2,
+    "explanation": "التقديم عبر بوابة الوظائف بسيرة ذاتية ورسالة تغطية قبل 1 آذار."
+   }
+  ],
+  "vocab": [
+   [
+    "dataset",
+    "collection of data",
+    "مجموعة بيانات"
+   ],
+   [
+    "literature review",
+    "survey of sources",
+    "مراجعة الأدبيات"
+   ],
+   [
+    "enrolled",
+    "registered",
+    "مسجّل"
+   ],
+   [
+    "a plus",
+    "an advantage",
+    "ميزة إضافية"
+   ],
+   [
+    "cover letter",
+    "application letter",
+    "رسالة تغطية"
+   ]
+  ]
+ },
+ {
+  "type": "academic_passage",
+  "topic": "Comparative advantage",
+  "text": "The principle of comparative advantage, developed by David Ricardo, explains why trade can benefit all participants even when one country is more efficient at producing everything. Suppose Country A can produce both wine and cloth more efficiently than Country B. If A specializes in the good where its advantage is greatest and trades for the other, both countries can consume more than they could produce alone. Critics note that the model assumes mobile resources and ignores adjustment costs: workers displaced by imports may not easily move into expanding industries. Consequently, economists increasingly emphasize that the gains from trade are real but unevenly distributed, which is why many support compensating those who lose.",
+  "questions": [
+   {
+    "q": "What is the main point of the passage?",
+    "options": [
+     "Trade always harms workers",
+     "Trade can benefit all, though gains are unevenly distributed",
+     "Country A should stop trading",
+     "Wine is more valuable than cloth"
+    ],
+    "correct": 1,
+    "explanation": "الفكرة: التجارة بتفيد الجميع نظرياً، بس المكاسب مو موزّعة بالتساوي."
+   },
+   {
+    "q": "The word 'displaced' is closest in meaning to",
+    "options": [
+     "forced out of position",
+     "promoted",
+     "trained",
+     "hired"
+    ],
+    "correct": 0,
+    "explanation": "displaced workers = عمال انزاحوا أو فقدوا وظايفهم بسبب الاستيراد."
+   },
+   {
+    "q": "According to the passage, what happens when countries specialize and trade?",
+    "options": [
+     "Both can consume more than they produce alone",
+     "Prices always fall",
+     "One country loses",
+     "Production stops"
+    ],
+    "correct": 0,
+    "explanation": "النص بيقول both countries can consume more than they could produce alone."
+   },
+   {
+    "q": "Why do many economists support compensating losers?",
+    "options": [
+     "Gains from trade are unevenly distributed",
+     "Trade is illegal",
+     "Workers demand higher wages",
+     "Imports are cheap"
+    ],
+    "correct": 0,
+    "explanation": "لأنو المكاسب غير موزّعة بالتساوي، فمنعوّض اللي بيخسروا."
+   }
+  ],
+  "vocab": [
+   [
+    "comparative advantage",
+    "relative efficiency",
+    "ميزة نسبية"
+   ],
+   [
+    "specialize",
+    "focus on",
+    "يتخصّص"
+   ],
+   [
+    "displaced",
+    "forced out",
+    "مُزاح / فاقد لموقعه"
+   ],
+   [
+    "adjustment cost",
+    "transition burden",
+    "كلفة التكيّف"
+   ],
+   [
+    "distributed",
+    "shared out",
+    "موزّع"
+   ]
+  ]
+ },
+ {
+  "type": "complete_words",
+  "topic": "Microplastics",
+  "vocab": [
+   [
+    "fragment",
+    "small piece",
+    "جزء صغير"
+   ],
+   [
+    "debris",
+    "waste pieces",
+    "حطام"
+   ],
+   [
+    "accumulate",
+    "build up",
+    "يتراكم"
+   ],
+   [
+    "restrict",
+    "limit",
+    "يقيّد"
+   ],
+   [
+    "uncertain",
+    "unclear",
+    "غير مؤكد"
+   ]
+  ],
+  "text": "Microplastics are tiny fragm____ less than five millimeters in diam____. They enter oceans through clot____ fibers, cosmetic prod____, and the breakdown of larger deb___. Marine animals often mistake them for fo__, and scientists are now investigating whether these particles accum_____ in the human body. Although the long-term effe___ remain uncertain, many governments have restr_____ their use in cons____ goods.",
+  "answer": "1 fragments · 2 diameter · 3 clothing · 4 products · 5 debris · 6 food · 7 accumulate · 8 effects · 9 restricted · 10 consumer",
+  "questions": []
+ },
+ {
+  "type": "daily_life",
+  "topic": "Film club flyer",
+  "text": "Join the International Film Club!\n\nWe meet every Tuesday at 6:30 p.m. in Room 112 to watch and discuss films from around the world. Membership is free for students, and snacks are provided. This month's theme is Cinema and Migration, beginning with a documentary followed by a discussion led by Professor Karim. To receive the schedule, email filmclub@campus.edu.",
+  "questions": [
+   {
+    "q": "When does the club meet?",
+    "options": [
+     "Monday at 6:30",
+     "Tuesday at 6:30",
+     "Tuesday at 8:30",
+     "Friday at 6:30"
+    ],
+    "correct": 1,
+    "explanation": "كل ثلاثاء الساعة 6:30 مساءً بغرفة 112."
+   },
+   {
+    "q": "What is provided at the meetings?",
+    "options": [
+     "Textbooks",
+     "Snacks",
+     "Tickets",
+     "Certificates"
+    ],
+    "correct": 1,
+    "explanation": "النص قال snacks are provided، يعني وجبات خفيفة."
+   },
+   {
+    "q": "How can someone get the schedule?",
+    "options": [
+     "Visit Room 112",
+     "Call Professor Karim",
+     "Send an email",
+     "Check the library"
+    ],
+    "correct": 2,
+    "explanation": "لازم يبعت إيميل لعنوان النادي."
+   }
+  ],
+  "vocab": [
+   [
+    "membership",
+    "being a member",
+    "عضوية"
+   ],
+   [
+    "theme",
+    "topic",
+    "موضوع"
+   ],
+   [
+    "migration",
+    "movement of people",
+    "هجرة"
+   ],
+   [
+    "provided",
+    "supplied",
+    "مقدَّم"
+   ],
+   [
+    "led by",
+    "guided by",
+    "بإدارة"
+   ]
+  ]
+ },
+ {
+  "type": "academic_passage",
+  "topic": "Critical period for language",
+  "text": "The critical period hypothesis proposes that there is an optimal window early in life during which language acquisition occurs most naturally. Evidence comes from studies of immigrants, which show that those who arrive in a new country as children typically achieve more native-like pronunciation than those who arrive as adults. However, the hypothesis has been challenged. Some adult learners reach near-native proficiency, particularly in vocabulary and grammar, suggesting that motivation, quality of instruction, and exposure may matter as much as age. Researchers now tend to describe a gradual decline in learning ability rather than an abrupt cutoff.",
+  "questions": [
+   {
+    "q": "What is the main idea of the passage?",
+    "options": [
+     "Adults cannot learn languages",
+     "An early window helps language learning, but the evidence is debated",
+     "Immigrants speak too quickly",
+     "Pronunciation is unimportant"
+    ],
+    "correct": 1,
+    "explanation": "النص بيعرض الفرضية والأدلة، وبعدين بينتقدها بدراسات على البالغين."
+   },
+   {
+    "q": "The word 'abrupt' is closest in meaning to",
+    "options": [
+     "sudden",
+     "gradual",
+     "slow",
+     "careful"
+    ],
+    "correct": 0,
+    "explanation": "abrupt = sudden. والنص بيقارنه بـ gradual decline، يعني تراجع تدريجي."
+   },
+   {
+    "q": "What evidence supports the hypothesis?",
+    "options": [
+     "Adult learners reach native vocabulary",
+     "Child immigrants often have more native-like pronunciation",
+     "All learners improve equally",
+     "Grammar is easy for children"
+    ],
+    "correct": 1,
+    "explanation": "الأطفال اللي بيهاجروا غالباً بيحصّلوا نطق أقرب لأهل اللغة."
+   },
+   {
+    "q": "What do findings about adult learners suggest?",
+    "options": [
+     "Age is the only factor",
+     "Motivation, instruction, and exposure may matter as much as age",
+     "Classes are unnecessary",
+     "Vocabulary is unimportant"
+    ],
+    "correct": 1,
+    "explanation": "بعض البالغين بيوصلوا لمستوى شبه أصلي، يعني الدافع وجودة التعليم والتعرّض مهمين متل العمر."
+   }
+  ],
+  "vocab": [
+   [
+    "hypothesis",
+    "proposed explanation",
+    "فرضية"
+   ],
+   [
+    "optimal",
+    "best",
+    "الأمثل"
+   ],
+   [
+    "proficiency",
+    "skill level",
+    "إتقان"
+   ],
+   [
+    "exposure",
+    "contact",
+    "تعرّض"
+   ],
+   [
+    "abrupt",
+    "sudden",
+    "مفاجئ"
+   ]
+  ]
+ },
+ {
+  "type": "complete_words",
+  "topic": "Language learning",
+  "vocab": [
+   [
+    "fluency",
+    "smooth command",
+    "طلاقة"
+   ],
+   [
+    "consistent",
+    "steady",
+    "منتظم"
+   ],
+   [
+    "interact",
+    "communicate",
+    "يتفاعل"
+   ],
+   [
+    "textbook",
+    "course book",
+    "كتاب دراسي"
+   ],
+   [
+    "meaningful",
+    "significant",
+    "ذو معنى"
+   ]
+  ],
+  "text": "Learning a second language requ____ consi_____ prac____ and meani_____ expo____. Studies suggest that learners who inte____ with native speakers develop flue___ faster than those who rely only on textb____. Moreover, making mistakes is a natural part of the proc___, and learners who accept this tend to impr___ more quickly.",
+  "answer": "1 requires · 2 consistent · 3 practice · 4 meaningful · 5 exposure · 6 interact · 7 fluency · 8 textbooks · 9 process · 10 improve",
+  "questions": []
+ },
+ {
+  "type": "daily_life",
+  "topic": "Transit pass renewal",
+  "text": "Transit Pass Renewal\n\nStudent bus passes expire on August 31. To renew, log into the transport portal and upload a current enrollment certificate. Renewals completed before August 15 receive a 10 percent discount. Passes will be mailed within five working days, or you can collect yours at the main office. Lost passes must be reported immediately; a replacement costs 8 euros.",
+  "questions": [
+   {
+    "q": "How can students get a discount?",
+    "options": [
+     "Renew before August 15",
+     "Renew after August 31",
+     "Collect at the main office",
+     "Report a lost pass"
+    ],
+    "correct": 0,
+    "explanation": "الخصم 10% لمن يجدد قبل 15 آب."
+   },
+   {
+    "q": "What must be uploaded to renew?",
+    "options": [
+     "A passport copy",
+     "A current enrollment certificate",
+     "A photo ID",
+     "A bank receipt"
+    ],
+    "correct": 1,
+    "explanation": "المطلوب شهادة قيد حالية (enrollment certificate)."
+   },
+   {
+    "q": "What should someone do about a lost pass?",
+    "options": [
+     "Wait until August",
+     "Report it immediately and pay for a replacement",
+     "Buy a new student card",
+     "Ignore it"
+    ],
+    "correct": 1,
+    "explanation": "لازم يبلّغ فوراً والبديل بيكلّف 8 يورو."
+   }
+  ],
+  "vocab": [
+   [
+    "expire",
+    "end validity",
+    "تنتهي صلاحيتها"
+   ],
+   [
+    "enrollment certificate",
+    "proof of registration",
+    "إثبات قيد"
+   ],
+   [
+    "renewal",
+    "extension",
+    "تجديد"
+   ],
+   [
+    "collect",
+    "pick up",
+    "يستلم"
+   ],
+   [
+    "replacement",
+    "substitute",
+    "بديل"
+   ]
+  ]
+ },
+ {
+  "type": "academic_passage",
+  "topic": "Open data and policy",
+  "text": "Open data initiatives require governments to publish datasets in formats that anyone can access, analyze, and reuse. Supporters argue that transparency strengthens accountability, allows citizens to scrutinize public spending, and enables researchers and companies to develop new services. Nevertheless, the benefits are not automatic. Datasets may be incomplete or released without documentation, making them difficult to interpret. Furthermore, publishing information about individuals, even when anonymized, can create privacy risks if records can be recombined to identify people. For these reasons, policy specialists increasingly emphasize that effective open data requires not only release but also quality standards, clear metadata, and careful risk assessment.",
+  "questions": [
+   {
+    "q": "What is the main point of the passage?",
+    "options": [
+     "Governments should hide data",
+     "Open data has benefits but requires quality and risk management",
+     "Companies should own public data",
+     "Privacy no longer matters"
+    ],
+    "correct": 1,
+    "explanation": "النص بيعرض فوائد البيانات المفتوحة وبعدين شروط نجاحها: جودة وبيانات وصفية وتقييم مخاطر."
+   },
+   {
+    "q": "The word 'scrutinize' is closest in meaning to",
+    "options": [
+     "ignore",
+     "examine closely",
+     "approve",
+     "publish"
+    ],
+    "correct": 1,
+    "explanation": "scrutinize = يدقّق ويفحص عن قرب، يعني المواطنين بيراقبوا الإنفاق العام."
+   },
+   {
+    "q": "Why can anonymized data still create privacy risks?",
+    "options": [
+     "It is always incorrect",
+     "Records can be recombined to identify people",
+     "It is too detailed",
+     "Governments sell it"
+    ],
+    "correct": 1,
+    "explanation": "لأنو ممكن ندمج سجلات مع بعض ونكتشف هوية الأشخاص."
+   },
+   {
+    "q": "What do specialists emphasize beyond data release?",
+    "options": [
+     "Faster publishing",
+     "Quality standards, clear metadata, and risk assessment",
+     "Lower costs",
+     "Private ownership"
+    ],
+    "correct": 1,
+    "explanation": "النشر وحده ما بيكفي، لازم معايير جودة وmetadata وتقييم مخاطر."
+   }
+  ],
+  "vocab": [
+   [
+    "transparency",
+    "openness",
+    "شفافية"
+   ],
+   [
+    "accountability",
+    "answerability",
+    "مساءلة"
+   ],
+   [
+    "scrutinize",
+    "examine closely",
+    "يدقّق"
+   ],
+   [
+    "anonymized",
+    "de-identified",
+    "مجهَّل الهوية"
+   ],
+   [
+    "metadata",
+    "data about data",
+    "بيانات وصفية"
+   ]
+  ]
+ },
+ {
+  "type": "complete_words",
+  "topic": "Glacier retreat",
+  "vocab": [
+   [
+    "unprecedented",
+    "never seen before",
+    "غير مسبوق"
+   ],
+   [
+    "meltwater",
+    "water from melting ice",
+    "مياه الذوبان"
+   ],
+   [
+    "intensify",
+    "make stronger",
+    "يزيد حدّة"
+   ],
+   [
+    "coastal",
+    "near the sea",
+    "ساحلي"
+   ],
+   [
+    "volume",
+    "amount",
+    "حجم"
+   ]
+  ],
+  "text": "Glaciers around the world are retre_____ at an unprece______ pace. Satellite measur______ show that many mountain glaciers have lost more than a third of their vol___ since the 1960s. This loss threatens the fresh_____ supplies of millions of people who depend on seasonal meltw____ for farming and drin____. In addition, rising sea lev___ are expected to inten____ coastal floo____.",
+  "answer": "1 retreating · 2 unprecedented · 3 measurements · 4 volume · 5 freshwater · 6 meltwater · 7 drinking · 8 levels · 9 intensify · 10 flooding",
+  "questions": []
+ },
+ {
+  "type": "daily_life",
+  "topic": "Internship announcement",
+  "text": "Summer Internship Program\n\nApplications are now open for paid internships at the City Planning Office. Interns will work on transport and housing projects for eight weeks beginning June 17. Candidates must be students in their final two years, and fluent English is required. Shortlisted applicants will be contacted for a brief online interview in early May.",
+  "questions": [
+   {
+    "q": "How long is the internship?",
+    "options": [
+     "Four weeks",
+     "Eight weeks",
+     "Twelve weeks",
+     "One year"
+    ],
+    "correct": 1,
+    "explanation": "قال for eight weeks بدءاً من 17 حزيران."
+   },
+   {
+    "q": "Who is eligible?",
+    "options": [
+     "Any graduate",
+     "Students in their final two years",
+     "First-year students",
+     "Teachers"
+    ],
+    "correct": 1,
+    "explanation": "المرشّح لازم يكون طالب بآخر سنتين من دراسته."
+   },
+   {
+    "q": "What happens in early May?",
+    "options": [
+     "The internship begins",
+     "Shortlisted applicants get an online interview",
+     "Applications open",
+     "Interns are paid"
+    ],
+    "correct": 1,
+    "explanation": "المرشّحين بالقائمة القصيرة بيتواصلوا معهم لمقابلة قصيرة أونلاين."
+   }
+  ],
+  "vocab": [
+   [
+    "internship",
+    "work placement",
+    "تدريب عملي"
+   ],
+   [
+    "candidate",
+    "applicant",
+    "مرشّح"
+   ],
+   [
+    "shortlisted",
+    "selected for final list",
+    "دخل القائمة القصيرة"
+   ],
+   [
+    "fluent",
+    "fully proficient",
+    "طليق / متقن"
+   ],
+   [
+    "planning office",
+    "city development office",
+    "مكتب التخطيط"
+   ]
+  ]
+ },
+ {
+  "type": "academic_passage",
+  "topic": "The placebo effect",
+  "text": "The placebo effect describes a measurable improvement in a patient's condition after receiving a treatment with no active ingredient. It is not simply imagination: brain imaging studies show that expectations can trigger real changes, such as the release of natural painkillers. Interestingly, placebos can work even when patients know they are taking them, although the effect is typically smaller. Because of this phenomenon, clinical trials of new drugs include control groups receiving placebos, allowing researchers to separate the drug's genuine effect from the influence of expectation. Ethical concerns arise, however, when doctors consider prescribing placebos without informing patients.",
+  "questions": [
+   {
+    "q": "What is the passage mainly about?",
+    "options": [
+     "How to cure diseases",
+     "The nature, use, and ethics of placebos",
+     "The history of drugs",
+     "Brain imaging technology"
+    ],
+    "correct": 1,
+    "explanation": "النص بيشرح الظاهرة واستخدامها بالتجارب السريرية وإشكالياتها الأخلاقية."
+   },
+   {
+    "q": "The word 'genuine' is closest in meaning to",
+    "options": [
+     "authentic",
+     "small",
+     "hidden",
+     "expensive"
+    ],
+    "correct": 0,
+    "explanation": "genuine = authentic، يعني الأثر الحقيقي للدواء."
+   },
+   {
+    "q": "Why do clinical trials include placebo groups?",
+    "options": [
+     "To save money",
+     "To separate the drug's real effect from expectation",
+     "To confuse patients",
+     "To speed up approval"
+    ],
+    "correct": 1,
+    "explanation": "المجموعة الضابطة بتخلّي الباحثين يعزلوا أثر الدواء الفعلي عن أثر التوقّع."
+   },
+   {
+    "q": "What ethical concern is mentioned?",
+    "options": [
+     "Prescribing placebos without informing patients",
+     "Using brain imaging",
+     "Testing on animals",
+     "High prices"
+    ],
+    "correct": 0,
+    "explanation": "المشكلة الأخلاقية هي وصف دواء وهمي بدون إعلام المريض."
+   }
+  ],
+  "vocab": [
+   [
+    "placebo",
+    "inactive treatment",
+    "دواء وهمي"
+   ],
+   [
+    "ingredient",
+    "component",
+    "مكوّن"
+   ],
+   [
+    "expectation",
+    "anticipation",
+    "توقّع"
+   ],
+   [
+    "control group",
+    "comparison group",
+    "مجموعة ضابطة"
+   ],
+   [
+    "genuine",
+    "authentic",
+    "حقيقي"
+   ]
+  ]
+ },
+ {
+  "type": "complete_words",
+  "topic": "Remote work",
+  "vocab": [
+   [
+    "transform",
+    "change completely",
+    "يحوّل"
+   ],
+   [
+    "isolation",
+    "loneliness",
+    "عزلة"
+   ],
+   [
+    "collaboration",
+    "teamwork",
+    "تعاون"
+   ],
+   [
+    "excessive",
+    "too much",
+    "مفرط"
+   ],
+   [
+    "commute",
+    "travel to work",
+    "يتنقّل إلى العمل"
+   ]
+  ],
+  "text": "Remote work has transf_____ how organizations oper___. Employees report greater flexib_____ and fewer commu____ hours, yet many also describe isola____ and difficulty separating work from pers____ life. Managers must therefore find new ways to build collabo______ and monitor perfor_____ without exces____ control. Successful teams usually set clear expect______ early.",
+  "answer": "1 transformed · 2 operate · 3 flexibility · 4 commuting · 5 isolation · 6 personal · 7 collaboration · 8 performance · 9 excessive · 10 expectations",
+  "questions": []
+ },
+ {
+  "type": "daily_life",
+  "topic": "Bookstore return policy",
+  "text": "Bookstore Return Policy\n\nTextbooks may be returned within 14 days of purchase if they are unmarked and accompanied by a receipt. Digital codes cannot be refunded once activated. During the first week of the semester, students may exchange a book for a different edition without a fee. Returns after the deadline are accepted only with written approval from the course instructor.",
+  "questions": [
+   {
+    "q": "What is required to return a textbook?",
+    "options": [
+     "It must be unmarked, with a receipt",
+     "It must be new in plastic",
+     "A professor's call",
+     "A student ID only"
+    ],
+    "correct": 0,
+    "explanation": "الكتاب لازم يكون نظيف بدون علامات ومعه إيصال، وخلال 14 يوم."
+   },
+   {
+    "q": "What cannot be refunded?",
+    "options": [
+     "Used textbooks",
+     "Activated digital codes",
+     "Notebooks",
+     "Different editions"
+    ],
+    "correct": 1,
+    "explanation": "الأكواد الرقمية اللي انفعّلت ما بترجع فلوسها."
+   },
+   {
+    "q": "When are returns accepted after the deadline?",
+    "options": [
+     "Never",
+     "With written approval from the instructor",
+     "With a manager's smile",
+     "After paying double"
+    ],
+    "correct": 1,
+    "explanation": "بس بموافقة خطية من مدرّس المادة."
+   }
+  ],
+  "vocab": [
+   [
+    "unmarked",
+    "without writing",
+    "بدون علامات / كتابة"
+   ],
+   [
+    "receipt",
+    "proof of purchase",
+    "إيصال"
+   ],
+   [
+    "refund",
+    "money back",
+    "استرداد"
+   ],
+   [
+    "edition",
+    "version",
+    "طبعة"
+   ],
+   [
+    "approval",
+    "permission",
+    "موافقة"
+   ]
+  ]
+ },
+ {
+  "type": "academic_passage",
+  "topic": "Desert ecosystems",
+  "text": "Deserts are often described as barren, yet they support a remarkable diversity of life adapted to extreme conditions. Many desert plants, such as cacti, store water in thick tissues and have shallow roots that absorb moisture quickly after rare rainfall. Animals tend to be nocturnal, avoiding the intense daytime heat by foraging at night. Some species survive long droughts by entering dormancy, resuming activity only when conditions improve. Ecologists warn that these specialized adaptations also make desert ecosystems fragile: even small increases in temperature or changes in rainfall patterns can push species beyond their tolerance limits.",
+  "questions": [
+   {
+    "q": "What is the main idea?",
+    "options": [
+     "Deserts are empty",
+     "Deserts host specialized life that is vulnerable to change",
+     "Cacti are the only plants",
+     "Rain is common in deserts"
+    ],
+    "correct": 1,
+    "explanation": "النص بيقول إنو الصحارى فيها حياة متكيّفة بشكل خاص وهشّة قدّام التغيّر."
+   },
+   {
+    "q": "The word 'barren' is closest in meaning to",
+    "options": [
+     "lifeless",
+     "crowded",
+     "green",
+     "wet"
+    ],
+    "correct": 0,
+    "explanation": "barren = قاحل وخالي من الحياة تقريباً."
+   },
+   {
+    "q": "Why are many desert animals nocturnal?",
+    "options": [
+     "To avoid daytime heat",
+     "To hunt humans",
+     "To sleep longer",
+     "To follow the moon"
+    ],
+    "correct": 0,
+    "explanation": "عشان يتجنبوا حر النهار القوي ويدوّروا على الأكل بالليل."
+   },
+   {
+    "q": "Why are desert ecosystems fragile?",
+    "options": [
+     "Species adapt too quickly",
+     "Specialized adaptations leave little tolerance for change",
+     "Plants are poisonous",
+     "Rainfall is constant"
+    ],
+    "correct": 1,
+    "explanation": "التكيّف المتخصص بيخلّي أي تغيّر صغير بالحرارة أو المطر يتجاوز حدود تحمّل الأنواع."
+   }
+  ],
+  "vocab": [
+   [
+    "barren",
+    "lifeless",
+    "قاحل"
+   ],
+   [
+    "nocturnal",
+    "active at night",
+    "ليلي النشاط"
+   ],
+   [
+    "dormancy",
+    "inactive state",
+    "سكون"
+   ],
+   [
+    "forage",
+    "search for food",
+    "يبحث عن الطعام"
+   ],
+   [
+    "fragile",
+    "easily damaged",
+    "هشّ"
+   ]
+  ]
+ },
+ {
+  "type": "complete_words",
+  "topic": "Health screening",
+  "vocab": [
+   [
+    "screening",
+    "early testing",
+    "فحص مبكر"
+   ],
+   [
+    "false positive",
+    "wrong alarm",
+    "نتيجة إيجابية كاذبة"
+   ],
+   [
+    "anxiety",
+    "worry",
+    "قلق"
+   ],
+   [
+    "authorities",
+    "officials",
+    "جهات رسمية"
+   ],
+   [
+    "weigh",
+    "compare carefully",
+    "يوازن"
+   ]
+  ],
+  "text": "Early scree____ programs can detect diseases before symp____ appear, allowing treat____ to begin when it is most effec____. However, screening also carries ris__, including false posit____ that cause unnecessary anxi___ and further test___. Public health author_____ must therefore weigh the bene____ against the potential harms.",
+  "answer": "1 screening · 2 symptoms · 3 treatment · 4 effective · 5 risks · 6 positives · 7 anxiety · 8 testing · 9 authorities · 10 benefits",
+  "questions": []
+ },
+ {
+  "type": "daily_life",
+  "topic": "Language exchange",
+  "text": "Language Exchange Program\n\nPair up with a student from another country to practice speaking. Each pair meets once a week for one hour, spending half of the time in each language. Registration closes on Friday, and partners will be assigned by Monday based on language goals and availability. Participants who complete eight meetings receive a certificate of participation.",
+  "questions": [
+   {
+    "q": "How is the meeting time divided?",
+    "options": [
+     "Half in each language",
+     "All in English",
+     "Two thirds in one language",
+     "No set rule"
+    ],
+    "correct": 0,
+    "explanation": "نص الساعة بكل لغة، يعني تبادل حقيقي."
+   },
+   {
+    "q": "When will partners be assigned?",
+    "options": [
+     "By Friday",
+     "By Monday",
+     "After eight meetings",
+     "Next semester"
+    ],
+    "correct": 1,
+    "explanation": "التسجيل بيقفل الجمعة، والشركاء بيتحددوا بحلول الاثنين."
+   },
+   {
+    "q": "What do participants receive after eight meetings?",
+    "options": [
+     "A scholarship",
+     "A certificate of participation",
+     "A free book",
+     "A language test"
+    ],
+    "correct": 1,
+    "explanation": "شهادة مشاركة بعد إكمال ثمانية لقاءات."
+   }
+  ],
+  "vocab": [
+   [
+    "pair up",
+    "form a pair",
+    "يشكّل ثنائياً"
+   ],
+   [
+    "assigned",
+    "allocated",
+    "مُخصَّص / مُوزَّع"
+   ],
+   [
+    "availability",
+    "free time",
+    "الأوقات المتاحة"
+   ],
+   [
+    "participant",
+    "attendee",
+    "مشارك"
+   ],
+   [
+    "certificate",
+    "official document",
+    "شهادة"
+   ]
+  ]
+ },
+ {
+  "type": "academic_passage",
+  "topic": "Urban green spaces",
+  "text": "Urban green spaces, such as parks and community gardens, are increasingly recognized as important for public health. Studies indicate that residents with easy access to greenery report lower levels of stress and greater social interaction. One proposed explanation is that natural settings reduce cognitive fatigue, allowing the mind to recover from the constant demands of city life. Others emphasize indirect effects: parks encourage physical activity, which is itself linked to improved mood. Nevertheless, researchers point out that access is unevenly distributed, with lower-income neighborhoods often having fewer and poorer-quality green spaces. This inequality suggests that policies aimed at improving public health should consider not only the amount of greenery but also who can reach it.",
+  "questions": [
+   {
+    "q": "What is the passage mainly about?",
+    "options": [
+     "Gardening techniques",
+     "Health benefits of green spaces and unequal access to them",
+     "The price of land",
+     "Why parks are closed"
+    ],
+    "correct": 1,
+    "explanation": "النص بيجمع بين فوائد المساحات الخضراء وعدم عدالة الوصول إليها."
+   },
+   {
+    "q": "The word 'indirect' is closest in meaning to",
+    "options": [
+     "secondary, not immediate",
+     "dangerous",
+     "obvious",
+     "expensive"
+    ],
+    "correct": 0,
+    "explanation": "indirect effects = تأثيرات غير مباشرة، متل تشجيع النشاط البدني اللي بيحسّن المزاج."
+   },
+   {
+    "q": "How might nature reduce cognitive fatigue?",
+    "options": [
+     "It lets the mind recover from city demands",
+     "It provides entertainment",
+     "It removes noise entirely",
+     "It forces people to exercise"
+    ],
+    "correct": 0,
+    "explanation": "الأماكن الطبيعية بتخلّي العقل يرتاح من ضغوط المدينة المستمرة."
+   },
+   {
+    "q": "What does the inequality suggest for policy?",
+    "options": [
+     "Build fewer parks",
+     "Consider who can reach greenery, not just how much exists",
+     "Ignore low-income areas",
+     "Charge fees for parks"
+    ],
+    "correct": 1,
+    "explanation": "السياسات لازم تنتبه مين بيقدر يوصل للمساحات الخضراء، مو بس كميتها."
+   }
+  ],
+  "vocab": [
+   [
+    "greenery",
+    "plants and trees",
+    "مساحات خضراء"
+   ],
+   [
+    "cognitive fatigue",
+    "mental tiredness",
+    "إرهاق ذهني"
+   ],
+   [
+    "indirect",
+    "secondary",
+    "غير مباشر"
+   ],
+   [
+    "neighborhood",
+    "local area",
+    "حيّ"
+   ],
+   [
+    "inequality",
+    "unequal distribution",
+    "عدم مساواة"
+   ]
+  ]
+ }
+]

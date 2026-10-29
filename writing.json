@@ -1,0 +1,1042 @@
+[
+ {
+  "type": "build_sentence",
+  "topic": "Academic situations",
+  "text": "رتّب الكلمات لتكوّن جملة صحيحة كجواب على السؤال:\n\n1) Did you finish the lab report?\nكلمات: yet / haven't / I / finished / it / quite\n\n2) Why was the lecture cancelled?\nكلمات: fell / because / the / suddenly / professor / ill\n\n3) What are your plans for the weekend?\nكلمات: to / planning / I'm / hike / in / the / mountains",
+  "questions": [],
+  "answer": "1) I haven't quite finished it yet.\n2) Because the professor suddenly fell ill.\n3) I'm planning to hike in the mountains.",
+  "vocab": [
+   [
+    "quite",
+    "fairly / completely",
+    "تماماً / إلى حد ما"
+   ],
+   [
+    "suddenly",
+    "abruptly",
+    "فجأة"
+   ],
+   [
+    "fall ill",
+    "become sick",
+    "يمرض"
+   ],
+   [
+    "cancel",
+    "call off",
+    "يلغي"
+   ],
+   [
+    "plan to",
+    "intend to",
+    "ينوي"
+   ]
+  ]
+ },
+ {
+  "type": "email",
+  "topic": "Workshop follow-up",
+  "text": "You attended a workshop on academic writing at your university, but the schedule changed and you missed the final session. Write an email to the workshop coordinator. In your email:\n- explain why you missed the session\n- ask whether the materials are available\n- request a short meeting\n\n⏱ 7 minutes · 80-120 words",
+  "questions": [],
+  "answer": "Subject: Missed final session of the academic writing workshop\n\nDear Ms. Carter,\n\nI attended the first two sessions of your academic writing workshop and found them extremely helpful. Unfortunately, because the schedule changed at short notice, I had a conflicting lecture and could not attend the final session.\n\nCould you please let me know whether the slides and handouts from that session are available? I would also appreciate a brief meeting, either in person or online, to discuss feedback on my draft.\n\nThank you very much for your time and assistance.\n\nKind regards,\nSara",
+  "vocab": [
+   [
+    "conflicting",
+    "clashing",
+    "متعارض"
+   ],
+   [
+    "at short notice",
+    "with little warning",
+    "بإشعار قصير"
+   ],
+   [
+    "handout",
+    "printed material",
+    "ملزمة / ورقة موزّعة"
+   ],
+   [
+    "draft",
+    "preliminary version",
+    "مسودة"
+   ],
+   [
+    "assistance",
+    "help",
+    "مساعدة"
+   ],
+   [
+    "coordinator",
+    "organizer",
+    "منسّق"
+   ]
+  ]
+ },
+ {
+  "type": "discussion",
+  "topic": "Data literacy",
+  "text": "Professor: Today we're discussing whether universities should require all students to take a course in data literacy, regardless of their major. What is your view?\n\nKai: I think it should be mandatory. Nearly every profession now uses data, and students who cannot interpret statistics may be misled by false claims.\n\nMaya: I disagree. The curriculum is already crowded, and a general course may not be relevant for students in fields like art or literature.\n\nWrite your contribution to the discussion.\n⏱ 10 minutes · at least 100 words",
+  "questions": [],
+  "answer": "I agree with Kai that data literacy deserves a place in every degree, but Maya raises a fair concern about overcrowded schedules. A practical compromise would be a short, flexible course that adapts its examples to each field. Art students, for instance, could analyze audience statistics for exhibitions, while literature students could study how data shapes public debates. This approach would equip graduates to evaluate claims critically without forcing them to complete material that feels irrelevant. Ultimately, the ability to question numbers is no longer a specialist skill; it is a basic requirement for informed citizenship, and universities should treat it that way.",
+  "vocab": [
+   [
+    "mandatory",
+    "compulsory",
+    "إلزامي"
+   ],
+   [
+    "literacy",
+    "basic competence",
+    "إلمام / معرفة أساسية"
+   ],
+   [
+    "regardless of",
+    "irrespective of",
+    "بغض النظر عن"
+   ],
+   [
+    "curriculum",
+    "syllabus",
+    "منهاج"
+   ],
+   [
+    "compromise",
+    "middle ground",
+    "حل وسط"
+   ],
+   [
+    "equip",
+    "prepare",
+    "يجهّز"
+   ]
+  ]
+ },
+ {
+  "type": "build_sentence",
+  "topic": "University life",
+  "text": "رتّب الكلمات لتكوّن جملة صحيحة كجواب على السؤال:\n\n1) Why didn't you attend the seminar?\nكلمات: unable / to / I / was / leave / work / early / from\n\n2) Have you decided on a research topic?\nكلمات: I / considering / still / several / am / options\n\n3) What did the committee announce?\nكلمات: will / that / the / scholarship / deadline / be / extended",
+  "questions": [],
+  "answer": "1) I was unable to leave work early.\n2) I am still considering several options.\n3) That the scholarship deadline will be extended.",
+  "vocab": [
+   [
+    "attend",
+    "be present at",
+    "يحضر"
+   ],
+   [
+    "unable",
+    "not able",
+    "غير قادر"
+   ],
+   [
+    "committee",
+    "panel",
+    "لجنة"
+   ],
+   [
+    "consider",
+    "think about",
+    "يفكّر بـ"
+   ],
+   [
+    "extend",
+    "prolong",
+    "يمدّد"
+   ]
+  ]
+ },
+ {
+  "type": "email",
+  "topic": "Recommendation letter",
+  "text": "You are applying for a master's scholarship abroad and need a recommendation letter from a former professor. Write an email to the professor. In your email:\n- remind the professor who you are\n- explain what you need\n- mention the deadline\n\n⏱ 7 minutes · 80-120 words",
+  "questions": [],
+  "answer": "Subject: Request for a recommendation letter\n\nDear Professor Hassan,\n\nI hope you are well. I was a student in your Research Methods course two years ago, and I am now applying for a master's scholarship in Europe. Would you be willing to write a letter recommending me for this program?\n\nThe application deadline is in three weeks, so I would be grateful to receive the letter by the end of next week. I can send my CV and personal statement to make the process easier.\n\nThank you for considering my request.\n\nSincerely,\nLayla",
+  "vocab": [
+   [
+    "recommendation letter",
+    "reference",
+    "خطاب توصية"
+   ],
+   [
+    "willing",
+    "ready / prepared",
+    "مستعد"
+   ],
+   [
+    "deadline",
+    "cutoff date",
+    "الموعد النهائي"
+   ],
+   [
+    "grateful",
+    "thankful",
+    "ممتن"
+   ],
+   [
+    "personal statement",
+    "motivation letter",
+    "رسالة دافع / بيان شخصي"
+   ],
+   [
+    "application",
+    "formal request",
+    "طلب تقديم"
+   ]
+  ]
+ },
+ {
+  "type": "discussion",
+  "topic": "Cars in city centers",
+  "text": "Professor: This week, consider whether cities should ban private cars from their downtown areas. What is your opinion?\n\nOmar: I support a ban. Cars cause congestion and emissions, and cities would be healthier and quieter without them.\n\nNina: I'm not convinced. Many people, such as the elderly or those with disabilities, depend on cars, and small shops might lose customers.\n\nWrite your contribution to the discussion.\n⏱ 10 minutes · at least 100 words",
+  "questions": [],
+  "answer": "Both students make valid points, but I believe a complete ban is less effective than a gradual restriction. Cities could start by limiting access during peak hours and offering exemptions for people with mobility needs, while investing in reliable public transport. This would address Omar's concerns about congestion and emissions without leaving vulnerable residents behind, as Nina fears. As for local businesses, studies in several cities suggest that pedestrian-friendly streets often attract more visitors, not fewer. Therefore, a phased approach balances environmental goals with accessibility and economic realities.",
+  "vocab": [
+   [
+    "congestion",
+    "traffic jam",
+    "ازدحام"
+   ],
+   [
+    "emissions",
+    "pollutants",
+    "انبعاثات"
+   ],
+   [
+    "exemption",
+    "special permission",
+    "استثناء"
+   ],
+   [
+    "accessibility",
+    "ease of access",
+    "سهولة الوصول"
+   ],
+   [
+    "viable",
+    "workable",
+    "قابل للتطبيق"
+   ],
+   [
+    "phased",
+    "in stages",
+    "على مراحل"
+   ]
+  ]
+ },
+ {
+  "type": "build_sentence",
+  "topic": "Library and seminars",
+  "text": "رتّب الكلمات لتكوّن جملة صحيحة كجواب على السؤال:\n\n1) Where did you find this article?\nكلمات: found / I / it / the / in / database / university\n\n2) Is the seminar mandatory?\nكلمات: attendance / isn't / required / but / it / is / strongly / encouraged\n\n3) What did the survey reveal?\nكلمات: most / students / that / commute / for / over / an / hour",
+  "questions": [],
+  "answer": "1) I found it in the university database.\n2) Attendance isn't required, but it is strongly encouraged.\n3) That most students commute for over an hour.",
+  "vocab": [
+   [
+    "database",
+    "organized data store",
+    "قاعدة بيانات"
+   ],
+   [
+    "mandatory",
+    "compulsory",
+    "إلزامي"
+   ],
+   [
+    "attendance",
+    "presence",
+    "حضور"
+   ],
+   [
+    "reveal",
+    "show",
+    "يكشف"
+   ],
+   [
+    "commute",
+    "travel to work or study",
+    "يتنقّل يومياً"
+   ]
+  ]
+ },
+ {
+  "type": "email",
+  "topic": "Changing a course section",
+  "text": "You want to change from the Tuesday section of a course to the Thursday section because of a work conflict. Write an email to the registrar. In your email:\n- explain your situation\n- ask whether there is space in the Thursday section\n- ask which documents you need to submit\n\n⏱ 7 minutes · 80-120 words",
+  "questions": [],
+  "answer": "Subject: Request to change course section\n\nDear Registrar,\n\nI am currently enrolled in the Tuesday section of Introduction to Statistics. Unfortunately, my work schedule has changed and I can no longer attend that class.\n\nCould you please let me know whether there is space in the Thursday section? I would also appreciate it if you could tell me which documents I need to submit to complete the change.\n\nThank you for your help.\n\nSincerely,\nOmar Khalil",
+  "vocab": [
+   [
+    "registrar",
+    "records office official",
+    "مسجّل الجامعة"
+   ],
+   [
+    "section",
+    "class group",
+    "شعبة"
+   ],
+   [
+    "conflict",
+    "clash",
+    "تعارض"
+   ],
+   [
+    "space",
+    "available place",
+    "مقعد شاغر"
+   ],
+   [
+    "complete",
+    "finish",
+    "يُنهي / يُكمل"
+   ]
+  ]
+ },
+ {
+  "type": "discussion",
+  "topic": "Exams vs projects",
+  "text": "Professor: This week we're discussing whether universities should replace final exams with project-based assessment. What do you think?\n\nAmira: I think projects are better. They reflect real work and let students show deeper skills than memorizing facts.\n\nJonas: I disagree. Exams are fairer because everyone works under the same conditions, and projects can be completed with help from others.\n\nWrite your contribution to the discussion.\n⏱ 10 minutes · at least 100 words",
+  "questions": [],
+  "answer": "I see merit in both views, but I believe a combination would be most effective. Projects, as Amira says, develop skills like research and collaboration that exams rarely measure. However, Jonas is right that fairness is a real concern, since it is difficult to verify individual contribution. Universities could therefore use projects for most of the grade while keeping a short supervised exam to confirm that each student understands the core concepts. This balanced approach preserves authenticity without sacrificing reliability, and it prepares students for workplaces where both independent knowledge and teamwork matter.",
+  "vocab": [
+   [
+    "assessment",
+    "evaluation",
+    "تقييم"
+   ],
+   [
+    "project-based",
+    "organized around projects",
+    "قائم على المشاريع"
+   ],
+   [
+    "fair",
+    "impartial",
+    "عادل"
+   ],
+   [
+    "verify",
+    "confirm",
+    "يتحقّق"
+   ],
+   [
+    "reliability",
+    "consistency",
+    "موثوقية"
+   ]
+  ]
+ },
+ {
+  "type": "build_sentence",
+  "topic": "Campus transport",
+  "text": "رتّب الكلمات لتكوّن جملة صحيحة كجواب على السؤال:\n\n1) Why were you late to class?\nكلمات: delayed / bus / the / by / was / twenty / minutes\n\n2) How do you usually get to campus?\nكلمات: cycle / I / unless / usually / raining / it's\n\n3) What did the notice say?\nكلمات: that / will / be / the / road / closed / tomorrow",
+  "questions": [],
+  "answer": "1) The bus was delayed by twenty minutes.\n2) I usually cycle unless it's raining.\n3) That the road will be closed tomorrow.",
+  "vocab": [
+   [
+    "delayed",
+    "made late",
+    "متأخّر"
+   ],
+   [
+    "unless",
+    "if not",
+    "إلا إذا"
+   ],
+   [
+    "usually",
+    "normally",
+    "عادةً"
+   ],
+   [
+    "notice",
+    "announcement",
+    "إشعار"
+   ],
+   [
+    "closed",
+    "shut",
+    "مغلق"
+   ]
+  ]
+ },
+ {
+  "type": "email",
+  "topic": "Feedback on a draft",
+  "text": "You have written a draft of your research proposal and want feedback from your professor before submitting it. Write an email to the professor. In your email:\n- say what you have attached\n- ask for feedback on one specific section\n- mention when you need the feedback\n\n⏱ 7 minutes · 80-120 words",
+  "questions": [],
+  "answer": "Subject: Feedback request on my research proposal draft\n\nDear Professor Lang,\n\nI have attached the first draft of my research proposal. I would be grateful for your feedback, particularly on the methodology section, as I am not sure that my sampling approach is appropriate.\n\nI plan to submit the final version by the end of next week, so any comments you could share before Wednesday would be extremely helpful. I am also happy to meet if that is easier.\n\nThank you for your time.\n\nBest regards,\nNour",
+  "vocab": [
+   [
+    "draft",
+    "preliminary version",
+    "مسودة"
+   ],
+   [
+    "proposal",
+    "plan for research",
+    "مقترح بحثي"
+   ],
+   [
+    "methodology",
+    "research methods",
+    "منهجية"
+   ],
+   [
+    "sampling",
+    "selecting participants",
+    "أخذ عيّنات"
+   ],
+   [
+    "appropriate",
+    "suitable",
+    "مناسب"
+   ]
+  ]
+ },
+ {
+  "type": "discussion",
+  "topic": "Community service",
+  "text": "Professor: Should universities require every student to complete community service before graduating?\n\nLeila: Yes. It builds social responsibility and connects students to real problems outside the classroom.\n\nMark: I'm not sure. Many students already work or care for family, and forced volunteering may defeat the purpose.\n\nWrite your contribution to the discussion.\n⏱ 10 minutes · at least 100 words",
+  "questions": [],
+  "answer": "Leila is right that community service can teach responsibility, but Mark raises a practical problem that deserves attention. Rather than imposing a rigid requirement, universities could offer flexible options, such as service-learning projects linked to courses, or credit for existing work in the community. This would respect students' time constraints while still encouraging engagement. Moreover, voluntary participation tends to be more meaningful than compulsory hours. Ultimately, the goal should be to motivate, not to force, and universities can do that by making service accessible, relevant, and recognized.",
+  "vocab": [
+   [
+    "community service",
+    "unpaid work for society",
+    "خدمة مجتمعية"
+   ],
+   [
+    "responsibility",
+    "duty",
+    "مسؤولية"
+   ],
+   [
+    "rigid",
+    "inflexible",
+    "جامد"
+   ],
+   [
+    "constraint",
+    "limit",
+    "قيد"
+   ],
+   [
+    "engagement",
+    "involvement",
+    "انخراط"
+   ]
+  ]
+ },
+ {
+  "type": "build_sentence",
+  "topic": "Group work",
+  "text": "رتّب الكلمات لتكوّن جملة صحيحة كجواب على السؤال:\n\n1) Who is responsible for the final report?\nكلمات: team / the / whole / is / responsible / for / it\n\n2) Did you meet your teammates?\nكلمات: I / yet / not / have / met / them\n\n3) What are you working on?\nكلمات: analyzing / I'm / data / the / from / survey / our",
+  "questions": [],
+  "answer": "1) The whole team is responsible for it.\n2) I have not met them yet.\n3) I'm analyzing the data from our survey.",
+  "vocab": [
+   [
+    "responsible",
+    "accountable",
+    "مسؤول"
+   ],
+   [
+    "teammate",
+    "group member",
+    "زميل فريق"
+   ],
+   [
+    "analyze",
+    "examine",
+    "يحلّل"
+   ],
+   [
+    "survey",
+    "questionnaire",
+    "استبيان"
+   ],
+   [
+    "final report",
+    "last written work",
+    "التقرير النهائي"
+   ]
+  ]
+ },
+ {
+  "type": "email",
+  "topic": "Scholarship inquiry",
+  "text": "You are interested in a scholarship offered by a foundation. Write an email to the scholarship office. In your email:\n- introduce yourself briefly\n- ask about eligibility requirements\n- ask about the application deadline and required documents\n\n⏱ 7 minutes · 80-120 words",
+  "questions": [],
+  "answer": "Subject: Inquiry about the scholarship program\n\nDear Scholarship Office,\n\nMy name is Rami Haddad, and I am a final-year student in environmental science. I am interested in applying for your scholarship program.\n\nCould you please tell me what the eligibility requirements are? I would also like to know the application deadline and which documents I should prepare, such as transcripts and recommendation letters.\n\nThank you in advance for your assistance.\n\nKind regards,\nRami Haddad",
+  "vocab": [
+   [
+    "scholarship",
+    "financial award",
+    "منحة"
+   ],
+   [
+    "eligibility",
+    "qualification",
+    "أهلية"
+   ],
+   [
+    "transcript",
+    "academic record",
+    "كشف علامات"
+   ],
+   [
+    "deadline",
+    "cutoff date",
+    "الموعد النهائي"
+   ],
+   [
+    "in advance",
+    "beforehand",
+    "مقدّماً"
+   ]
+  ]
+ },
+ {
+  "type": "discussion",
+  "topic": "Remote vs in-person classes",
+  "text": "Professor: Many universities now offer fully online degrees. Should in-person classes remain the standard?\n\nHana: Yes. Face-to-face interaction builds networks and makes discussion more natural.\n\nTim: Not necessarily. Online courses are more accessible, especially for people who work or live far away.\n\nWrite your contribution to the discussion.\n⏱ 10 minutes · at least 100 words",
+  "questions": [],
+  "answer": "Both students highlight real advantages. Hana is right that in-person classes encourage spontaneous discussion, but Tim's point about accessibility is equally important. I think the best model is a hybrid one: core seminars and lab sessions on campus, with lectures and readings available online. This would preserve the social benefits of being together while giving students flexibility. Additionally, universities should invest in good online tools and training for teachers, because the quality of the experience depends less on the format than on how carefully the course is designed.",
+  "vocab": [
+   [
+    "face-to-face",
+    "in person",
+    "وجهاً لوجه"
+   ],
+   [
+    "accessible",
+    "easy to reach",
+    "متاح / يسهل الوصول إليه"
+   ],
+   [
+    "hybrid",
+    "mixed model",
+    "مختلط"
+   ],
+   [
+    "spontaneous",
+    "unplanned",
+    "عفوي"
+   ],
+   [
+    "format",
+    "structure",
+    "صيغة / شكل"
+   ]
+  ]
+ },
+ {
+  "type": "build_sentence",
+  "topic": "Scholarship",
+  "text": "رتّب الكلمات لتكوّن جملة صحيحة كجواب على السؤال:\n\n1) Why did you apply for the scholarship?\nكلمات: afford / otherwise / couldn't / I / studying / abroad\n\n2) When is the deadline?\nكلمات: ends / the / on / application / period / Friday\n\n3) Have you prepared your documents?\nكلمات: still / need / I / my / to / transcript / request",
+  "questions": [],
+  "answer": "1) Otherwise I couldn't afford studying abroad.\n2) The application period ends on Friday.\n3) I still need to request my transcript.",
+  "vocab": [
+   [
+    "afford",
+    "have enough money for",
+    "يتحمّل مادياً"
+   ],
+   [
+    "otherwise",
+    "if not",
+    "وإلا"
+   ],
+   [
+    "application period",
+    "time to apply",
+    "فترة التقديم"
+   ],
+   [
+    "request",
+    "ask for",
+    "يطلب"
+   ],
+   [
+    "prepare",
+    "get ready",
+    "يجهّز"
+   ]
+  ]
+ },
+ {
+  "type": "email",
+  "topic": "Missing a class",
+  "text": "You missed a class because of a family emergency. Write an email to your instructor. In your email:\n- apologize and briefly explain\n- ask how to get the material you missed\n- ask whether you can still submit the assignment due that day\n\n⏱ 7 minutes · 80-120 words",
+  "questions": [],
+  "answer": "Subject: Absence from Tuesday's class\n\nDear Dr. Mason,\n\nI am writing to apologize for missing Tuesday's class due to a family emergency. I am sorry for any inconvenience this may have caused.\n\nCould you please let me know how I can access the material that was covered? I would also like to ask whether I may still submit the assignment that was due that day, and I am happy to accept a penalty if necessary.\n\nThank you for your understanding.\n\nSincerely,\nYara",
+  "vocab": [
+   [
+    "apologize",
+    "say sorry",
+    "يعتذر"
+   ],
+   [
+    "emergency",
+    "urgent situation",
+    "حالة طارئة"
+   ],
+   [
+    "inconvenience",
+    "trouble",
+    "إزعاج"
+   ],
+   [
+    "penalty",
+    "punishment",
+    "عقوبة / خصم"
+   ],
+   [
+    "understanding",
+    "sympathy",
+    "تفهّم"
+   ]
+  ]
+ },
+ {
+  "type": "discussion",
+  "topic": "AI tools in education",
+  "text": "Professor: Should students be allowed to use AI tools for writing assignments?\n\nSofia: Yes, as long as they disclose it. Professionals use these tools, so students should learn to use them well.\n\nDaniel: I disagree. If a tool writes the essay, students won't develop their own thinking.\n\nWrite your contribution to the discussion.\n⏱ 10 minutes · at least 100 words",
+  "questions": [],
+  "answer": "I think the answer depends on the purpose of the assignment. If the goal is to practice argumentation or original analysis, as Daniel points out, then outsourcing the writing defeats the purpose. But Sofia is correct that AI is now part of professional life. A reasonable policy would allow it for brainstorming, language editing, and feedback, as long as students disclose their use and complete key tasks, such as in-class writing, without assistance. This way, teachers can assess real understanding while students learn to use new tools responsibly.",
+  "vocab": [
+   [
+    "disclose",
+    "reveal",
+    "يفصح عن"
+   ],
+   [
+    "argumentation",
+    "building arguments",
+    "بناء الحجج"
+   ],
+   [
+    "outsource",
+    "hand over to others",
+    "يُسنِد لجهة أخرى"
+   ],
+   [
+    "brainstorming",
+    "generating ideas",
+    "عصف ذهني"
+   ],
+   [
+    "assist",
+    "help",
+    "يساعد"
+   ]
+  ]
+ },
+ {
+  "type": "build_sentence",
+  "topic": "Housing",
+  "text": "رتّب الكلمات لتكوّن جملة صحيحة كجواب على السؤال:\n\n1) What is wrong with your room?\nكلمات: heater / the / working / isn't / properly\n\n2) How long have you lived here?\nكلمات: since / I've / lived / here / September / last\n\n3) Who should we contact?\nكلمات: housing / the / office / contact / should / you",
+  "questions": [],
+  "answer": "1) The heater isn't working properly.\n2) I've lived here since last September.\n3) You should contact the housing office.",
+  "vocab": [
+   [
+    "heater",
+    "heating device",
+    "مدفأة"
+   ],
+   [
+    "properly",
+    "correctly",
+    "بشكل صحيح"
+   ],
+   [
+    "since",
+    "from that time",
+    "منذ"
+   ],
+   [
+    "housing office",
+    "accommodation office",
+    "مكتب السكن"
+   ],
+   [
+    "contact",
+    "get in touch with",
+    "يتواصل مع"
+   ]
+  ]
+ },
+ {
+  "type": "email",
+  "topic": "Study group proposal",
+  "text": "You want to form a study group for a difficult course. Write an email to your classmates. In your email:\n- propose forming the group\n- suggest a regular time and place\n- ask them to reply with their availability\n\n⏱ 7 minutes · 80-120 words",
+  "questions": [],
+  "answer": "Subject: Study group for Organic Chemistry\n\nHi everyone,\n\nSince the midterm is approaching, I thought it would be helpful to form a study group for Organic Chemistry. We could meet once a week, perhaps on Wednesday evenings, in the library's group study room.\n\nWe would review lecture notes and practice problems together. If you are interested, please reply by Friday with the times that suit you best, and I will arrange a schedule that works for everyone.\n\nLooking forward to hearing from you.\n\nBest,\nSami",
+  "vocab": [
+   [
+    "approach",
+    "get closer",
+    "يقترب"
+   ],
+   [
+    "review",
+    "go over again",
+    "يراجع"
+   ],
+   [
+    "arrange",
+    "organize",
+    "ينظّم / يرتّب"
+   ],
+   [
+    "suit",
+    "be convenient for",
+    "يناسب"
+   ],
+   [
+    "midterm",
+    "mid-semester exam",
+    "امتحان نصفي"
+   ]
+  ]
+ },
+ {
+  "type": "discussion",
+  "topic": "Public transport vs roads",
+  "text": "Professor: Should cities invest more in public transport than in new roads?\n\nIvan: Definitely. Roads attract more cars and traffic, while public transport serves more people and reduces emissions.\n\nElena: But in rural areas public transport is rarely practical, and people still depend on cars.\n\nWrite your contribution to the discussion.\n⏱ 10 minutes · at least 100 words",
+  "questions": [],
+  "answer": "I agree with Ivan that cities benefit more from investing in public transport, since adding roads often increases traffic rather than reducing it. Nevertheless, Elena makes a valid point about rural areas. Policy should therefore differ by context: dense cities should prioritize trams, buses, and cycling networks, while less populated regions need flexible solutions such as shared minibuses or on-demand services. Funding priorities should also consider the long-term costs of maintaining roads. In the end, an integrated approach is more realistic than treating this as an either-or choice.",
+  "vocab": [
+   [
+    "invest",
+    "put money into",
+    "يستثمر"
+   ],
+   [
+    "emissions",
+    "pollutants",
+    "انبعاثات"
+   ],
+   [
+    "practical",
+    "realistic",
+    "عملي"
+   ],
+   [
+    "dense",
+    "closely packed",
+    "كثيف"
+   ],
+   [
+    "integrated",
+    "combined",
+    "متكامل"
+   ]
+  ]
+ },
+ {
+  "type": "build_sentence",
+  "topic": "Research",
+  "text": "رتّب الكلمات لتكوّن جملة صحيحة كجواب على السؤال:\n\n1) Why did your results change?\nكلمات: larger / used / we / a / sample / time / this\n\n2) What do you plan to study?\nكلمات: how / examine / to / want / I / cities / use / data\n\n3) Have you read the report?\nكلمات: only / so / far / read / the / summary / I've",
+  "questions": [],
+  "answer": "1) This time we used a larger sample.\n2) I want to examine how cities use data.\n3) I've only read the summary so far.",
+  "vocab": [
+   [
+    "sample",
+    "selected group",
+    "عيّنة"
+   ],
+   [
+    "examine",
+    "study closely",
+    "يدرس بدقة"
+   ],
+   [
+    "results",
+    "findings",
+    "نتائج"
+   ],
+   [
+    "plan",
+    "intend",
+    "ينوي"
+   ],
+   [
+    "summary",
+    "short version",
+    "ملخّص"
+   ]
+  ]
+ },
+ {
+  "type": "email",
+  "topic": "Housing complaint",
+  "text": "Your neighbor's loud music at night has been disturbing your sleep for two weeks. Write an email to the housing office. In your email:\n- describe the problem\n- explain what you have already tried\n- request specific action\n\n⏱ 7 minutes · 80-120 words",
+  "questions": [],
+  "answer": "Subject: Ongoing noise disturbance in Room 214\n\nDear Housing Office,\n\nFor the past two weeks, loud music from the room next to mine has continued until after midnight, making it difficult for me to sleep and study. I have politely asked my neighbor to reduce the volume twice, but the problem has not been resolved.\n\nI would be grateful if you could speak with the resident or remind them of the quiet hours policy. Please let me know if any further information is needed.\n\nThank you for your attention.\n\nSincerely,\nKarim",
+  "vocab": [
+   [
+    "disturb",
+    "interrupt",
+    "يزعج"
+   ],
+   [
+    "resolve",
+    "solve",
+    "يحلّ"
+   ],
+   [
+    "quiet hours",
+    "time for silence",
+    "ساعات الهدوء"
+   ],
+   [
+    "policy",
+    "rule",
+    "سياسة / قاعدة"
+   ],
+   [
+    "attention",
+    "consideration",
+    "اهتمام"
+   ]
+  ]
+ },
+ {
+  "type": "discussion",
+  "topic": "Studying abroad",
+  "text": "Professor: Should every student spend at least one semester studying abroad?\n\nMaria: Yes. It broadens perspectives and improves language skills.\n\nTom: That's unrealistic. Studying abroad is expensive and not everyone can leave their family or job.\n\nWrite your contribution to the discussion.\n⏱ 10 minutes · at least 100 words",
+  "questions": [],
+  "answer": "Maria is right that studying abroad can be transformative, yet Tom's concern about cost and personal circumstances is equally valid. Rather than making it mandatory, universities should make it more accessible through scholarships, short-term programs, and virtual exchanges. Even a brief experience can help students develop intercultural skills. Also, institutions should recognize that international experience can take different forms, such as collaborative online projects with partner universities. By widening the options, universities can extend the benefits to students who would otherwise be excluded.",
+  "vocab": [
+   [
+    "broaden",
+    "widen",
+    "يوسّع"
+   ],
+   [
+    "transformative",
+    "life-changing",
+    "محوِّل"
+   ],
+   [
+    "circumstances",
+    "conditions",
+    "ظروف"
+   ],
+   [
+    "intercultural",
+    "between cultures",
+    "بين الثقافات"
+   ],
+   [
+    "excluded",
+    "left out",
+    "مُستبعَد"
+   ]
+  ]
+ },
+ {
+  "type": "build_sentence",
+  "topic": "Language course",
+  "text": "رتّب الكلمات لتكوّن جملة صحيحة كجواب على السؤال:\n\n1) Is your English improving?\nكلمات: noticeably / has / my / improved / speaking\n\n2) Why do you want to study there?\nكلمات: program / the / is / known / for / its / research\n\n3) When will you take the exam?\nكلمات: it / hope / I / next / month / take / to",
+  "questions": [],
+  "answer": "1) My speaking has improved noticeably.\n2) The program is known for its research.\n3) I hope to take it next month.",
+  "vocab": [
+   [
+    "noticeably",
+    "clearly",
+    "بشكل ملحوظ"
+   ],
+   [
+    "improve",
+    "get better",
+    "يتحسّن"
+   ],
+   [
+    "known for",
+    "famous for",
+    "معروف بـ"
+   ],
+   [
+    "program",
+    "course of study",
+    "برنامج"
+   ],
+   [
+    "hope to",
+    "wish to",
+    "يأمل أن"
+   ]
+  ]
+ },
+ {
+  "type": "email",
+  "topic": "Proposal to a program director",
+  "text": "You are applying to a master's program and have a question about the curriculum. Write an email to the program director. In your email:\n- introduce yourself and your interest\n- ask a specific question about courses\n- ask if a meeting is possible\n\n⏱ 7 minutes · 80-120 words",
+  "questions": [],
+  "answer": "Subject: Question about the curriculum\n\nDear Professor Weber,\n\nMy name is Lina Saad, and I am applying to your master's program in sustainable policy. I am particularly interested in the data governance modules.\n\nCould you tell me whether students can choose elective courses from other departments? I would also appreciate a short online meeting if you have time in the coming weeks.\n\nThank you for your time and consideration.\n\nBest regards,\nLina Saad",
+  "vocab": [
+   [
+    "curriculum",
+    "set of courses",
+    "المنهاج"
+   ],
+   [
+    "module",
+    "course unit",
+    "وحدة دراسية"
+   ],
+   [
+    "elective",
+    "optional course",
+    "مادة اختيارية"
+   ],
+   [
+    "director",
+    "head",
+    "مدير"
+   ],
+   [
+    "consideration",
+    "thoughtful attention",
+    "اهتمام"
+   ]
+  ]
+ },
+ {
+  "type": "discussion",
+  "topic": "Social media limits",
+  "text": "Professor: Should governments restrict social media use for teenagers?\n\nRuth: Yes. Excessive use harms attention and mental well-being, so rules are justified.\n\nAdam: I disagree. Restrictions are hard to enforce, and teenagers also use social media to learn and connect.\n\nWrite your contribution to the discussion.\n⏱ 10 minutes · at least 100 words",
+  "questions": [],
+  "answer": "Ruth raises a legitimate concern about well-being, but Adam is correct that blanket restrictions may be impractical and could limit useful learning. A more balanced policy would focus on design and education rather than bans. For example, platforms could be required to limit addictive features for minors, while schools teach digital literacy and healthy habits. Parents and teachers also play a crucial role in guidance. This approach addresses the risks without removing the benefits that young people gain from online communities and information.",
+  "vocab": [
+   [
+    "restrict",
+    "limit",
+    "يقيّد"
+   ],
+   [
+    "justified",
+    "reasonable",
+    "مبرَّر"
+   ],
+   [
+    "enforce",
+    "apply a rule",
+    "يفرض / ينفّذ"
+   ],
+   [
+    "blanket",
+    "covering everything",
+    "شامل"
+   ],
+   [
+    "addictive",
+    "habit-forming",
+    "مسبّب للإدمان"
+   ]
+  ]
+ },
+ {
+  "type": "build_sentence",
+  "topic": "Workplace",
+  "text": "رتّب الكلمات لتكوّن جملة صحيحة كجواب على السؤال:\n\n1) Why did you leave your last job?\nكلمات: chance / wanted / to / I / grow / a / professionally\n\n2) What's the main challenge?\nكلمات: managing / is / time / hardest / the / part\n\n3) How was the meeting?\nكلمات: productive / than / expected / more / was / it",
+  "questions": [],
+  "answer": "1) I wanted a chance to grow professionally.\n2) Managing time is the hardest part.\n3) It was more productive than expected.",
+  "vocab": [
+   [
+    "professionally",
+    "in one's career",
+    "مهنياً"
+   ],
+   [
+    "challenge",
+    "difficulty",
+    "تحدٍّ"
+   ],
+   [
+    "productive",
+    "efficient",
+    "مُنتج"
+   ],
+   [
+    "manage",
+    "organize",
+    "يدير"
+   ],
+   [
+    "expected",
+    "anticipated",
+    "متوقَّع"
+   ]
+  ]
+ },
+ {
+  "type": "email",
+  "topic": "Enrollment letter request",
+  "text": "You need an official letter confirming your enrollment for a visa application. Write an email to the student services office. In your email:\n- state what you need\n- explain why you need it\n- ask how long it takes\n\n⏱ 7 minutes · 80-120 words",
+  "questions": [],
+  "answer": "Subject: Request for an enrollment confirmation letter\n\nDear Student Services,\n\nI would like to request an official letter confirming my enrollment as a full-time student. I need it to support my visa application for an exchange semester abroad.\n\nCould you please tell me how long it takes to prepare the letter and whether I should pick it up in person or receive it by email? My application deadline is in two weeks.\n\nThank you for your help.\n\nSincerely,\nFadi Nasser",
+  "vocab": [
+   [
+    "enrollment",
+    "registration",
+    "قيد / تسجيل"
+   ],
+   [
+    "confirm",
+    "verify",
+    "يؤكّد"
+   ],
+   [
+    "full-time",
+    "studying all day",
+    "دوام كامل"
+   ],
+   [
+    "support",
+    "back up",
+    "يدعم"
+   ],
+   [
+    "prepare",
+    "get ready",
+    "يُعدّ"
+   ]
+  ]
+ },
+ {
+  "type": "discussion",
+  "topic": "Free university education",
+  "text": "Professor: Should university education be free for all students?\n\nNadia: Yes. Education is a public good, and free tuition promotes equality of opportunity.\n\nPeter: I disagree. Free tuition is expensive for taxpayers and may not reach those who need help most.\n\nWrite your contribution to the discussion.\n⏱ 10 minutes · at least 100 words",
+  "questions": [],
+  "answer": "Nadia is right that access to education should not depend on family income, yet Peter's concern about costs deserves attention. One option is a system in which tuition is free or very low for everyone, funded progressively through taxation, with extra support for living expenses for students from lower-income families. This would limit the burden on taxpayers while still promoting equal opportunity. Countries that have adopted such models also report higher participation. Therefore, the debate should focus not only on whether tuition is free, but on how the system is financed and who benefits.",
+  "vocab": [
+   [
+    "tuition",
+    "teaching fees",
+    "رسوم دراسية"
+   ],
+   [
+    "opportunity",
+    "chance",
+    "فرصة"
+   ],
+   [
+    "taxpayer",
+    "citizen who pays tax",
+    "دافع ضرائب"
+   ],
+   [
+    "progressively",
+    "in proportion to income",
+    "تصاعدياً"
+   ],
+   [
+    "finance",
+    "fund",
+    "يموّل"
+   ]
+  ]
+ }
+]
