@@ -1,19 +1,20 @@
 """
 TOEFL iBT (2026 format) practice poster for a Telegram channel. No AI API needed.
-4 posts a day (Damascus time), each one dedicated to a single section:
-  07:00 Reading | 12:00 Listening | 16:00 Writing | 21:00 Speaking
+4 posts a day (Damascus time), each one dedicated to a single section and
+containing ALL task types of that section (like the real exam section):
+  07:00 Reading (3 tasks) | 12:00 Listening (4) | 16:00 Writing (3) | 21:00 Speaking (2)
 - First post of the day: good-morning + countdown + goal reminder
-- Every post: header with countdown, the task, quiz polls, spoiler answers,
-  then a vocabulary list (English synonym + Arabic translation)
+- Every post: section intro (countdown + goal), then each task with quiz polls,
+  spoiler answers and a vocabulary list (English synonym + Arabic translation)
 - Last post of the day: farewell
-Exercises come from reading*.json, listening*.json, writing*.json, speaking*.json
-(30 exercises each = one month; day N uses exercise N of every section).
+Exercises come from reading*.json, listening*.json, writing*.json, speaking*.json.
+Day N uses item N of each task type (the list repeats when it runs out).
 
 Env vars: TELEGRAM_BOT_TOKEN, TELEGRAM_CHANNEL
 Optional: START_DATE (default 2026-10-29), TARGET_DATE (default 2026-11-20),
           DRY_RUN=1 (print only, no sending)
 """
-import os, io, json, glob, html, datetime, requests
+import os, io, json, glob, html, time, datetime, requests
 from zoneinfo import ZoneInfo
 
 DRY = os.environ.get("DRY_RUN") == "1"
@@ -25,6 +26,15 @@ SLOTS = [(7, "reading"), (12, "listening"), (16, "writing"), (21, "speaking")]
 API = f"https://api.telegram.org/bot{TOKEN}"
 TLD = {"us": "com", "uk": "co.uk", "au": "com.au"}
 GOAL = "🎯 هدفك: التقديم لمنحة إيراسموس موندوس (Erasmus Mundus)"
+SECTION_TYPES = {
+    "reading": ["complete_words", "daily_life", "academic_passage"],
+    "listening": ["listen_response", "listen_conversation", "listen_announcement", "listen_talk"],
+    "writing": ["build_sentence", "email", "discussion"],
+    "speaking": ["listen_repeat", "interview"],
+}
+SECTION_NAMES = {"reading": "Reading 📖", "listening": "Listening 🎧",
+                 "writing": "Writing ✍️", "speaking": "Speaking 🎤"}
+PAUSE = 0 if DRY else 1.3   # seconds between Telegram messages (rate limits)
 
 TYPES = {
     "complete_words": ("Reading 📖", "Complete the Words",
@@ -71,9 +81,19 @@ def send(method, files=None, **kw):
     if DRY:
         print(f"[{method}]", {k: (v if len(str(v)) < 80 else str(v)[:80] + '…') for k, v in kw.items()})
         return
-    r = requests.post(f"{API}/{method}", data=kw, files=files, timeout=90)
-    if not r.ok:
+    for attempt in range(5):
+        r = requests.post(f"{API}/{method}", data=kw, files=files, timeout=90)
+        if r.ok:
+            time.sleep(PAUSE)
+            return
+        if r.status_code == 429:
+            wait = r.json().get("parameters", {}).get("retry_after", 5)
+            time.sleep(wait + 1)
+            if files:  # rewind file-like data before retrying
+                files = {k: (v[0], v[1], v[2]) for k, v in files.items()}
+            continue
         raise SystemExit(f"Telegram error: {r.text}")
+    raise SystemExit("Telegram error: too many retries")
 
 
 def msg(text, html_mode=False):
@@ -119,11 +139,11 @@ def countdown(today):
     return f"⏳ عدّى موعد {label}، كمّل بنفس الجدّية"
 
 
-def post_item(item, today, day_no):
+def post_item(item, today, day_no, i=1, n=1):
     section, task, tip = TYPES[item["type"]]
     t = item["type"]
-    msg(f"📚 <b>TOEFL – {section}</b>\n{task} · {html.escape(item['topic'])} · يوم {day_no}\n"
-        f"{countdown(today)} · {GOAL}\n\n💡 {tip}", html_mode=True)
+    msg(f"📌 <b>مهمة {i}/{n}</b> · {section}\n{task} · {html.escape(item['topic'])}\n\n💡 {tip}",
+        html_mode=True)
 
     segs = item.get("audio")
     if segs:
@@ -153,19 +173,28 @@ def post_item(item, today, day_no):
     msg("📖 مفردات التمرين (كلمة — مرادف بالإنكليزي — ترجمة):\n" + "\n".join(lines))
 
 
+def tasks_for(section, day):
+    """One item per task type of the section (day N -> item N of each type)."""
+    pool = load_pool(section)
+    by_type = {t: [x for x in pool if x["type"] == t] for t in SECTION_TYPES[section]}
+    return [items[day % len(items)] for items in by_type.values() if items]
+
+
 def main():
     now = datetime.datetime.now(ZoneInfo("Asia/Damascus"))
     today = now.date()
     day = max((today - START).days, 0)
     slot = max([i for i, (h, _) in enumerate(SLOTS) if now.hour >= h] or [0])
     section = SLOTS[slot][1]
-
-    pool = load_pool(section)
-    item = pool[day % len(pool)]
+    tasks = tasks_for(section, day)
 
     if slot == 0:
         msg(GREETINGS[day % len(GREETINGS)] + "\n\n" + countdown(today) + "\n" + GOAL)
-    post_item(item, today, day + 1)
+    msg(f"📚 <b>TOEFL – {SECTION_NAMES[section]}</b> · يوم {day + 1}\n"
+        f"{len(tasks)} مهام اليوم، حلّها بالترتيب متل الامتحان.\n"
+        f"{countdown(today)} · {GOAL}", html_mode=True)
+    for i, item in enumerate(tasks, 1):
+        post_item(item, today, day + 1, i, len(tasks))
     if slot == len(SLOTS) - 1:
         msg(FAREWELLS[day % len(FAREWELLS)])
 
