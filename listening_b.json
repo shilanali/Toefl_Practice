@@ -1,0 +1,6296 @@
+[
+ {
+  "type": "listen_response",
+  "topic": "Seat",
+  "audio": [
+   [
+    "us",
+    "Excuse me, is this seat taken?"
+   ]
+  ],
+  "questions": [
+   {
+    "q": "Choose the best response.",
+    "options": [
+     "Yes, I took the bus here.",
+     "The lecture starts at ten.",
+     "I prefer sitting near the front.",
+     "No, please go ahead and sit down."
+    ],
+    "correct": 3,
+    "explanation": "السؤال هل المقعد مشغول، فالرد المنطقي هو إذن بالجلوس."
+   }
+  ],
+  "vocab": [
+   [
+    "taken",
+    "occupied",
+    "مشغول"
+   ],
+   [
+    "go ahead",
+    "proceed",
+    "تفضّل"
+   ],
+   [
+    "seat",
+    "chair",
+    "مقعد"
+   ],
+   [
+    "prefer",
+    "like better",
+    "يفضّل"
+   ]
+  ]
+ },
+ {
+  "type": "listen_response",
+  "topic": "Missing a meeting",
+  "audio": [
+   [
+    "uk",
+    "I'm afraid I won't be able to attend tomorrow's meeting."
+   ]
+  ],
+  "questions": [
+   {
+    "q": "Choose the best response.",
+    "options": [
+     "The meeting was very long.",
+     "That's all right. I'll send you the notes afterward.",
+     "I never take notes.",
+     "Please attend it yesterday."
+    ],
+    "correct": 1,
+    "explanation": "الشخص بيعتذر عن الحضور، فالرد المناسب هو تفهّم مع حل عملي."
+   }
+  ],
+  "vocab": [
+   [
+    "attend",
+    "be present at",
+    "يحضر"
+   ],
+   [
+    "afterward",
+    "later",
+    "بعد ذلك"
+   ],
+   [
+    "I'm afraid",
+    "unfortunately",
+    "للأسف"
+   ],
+   [
+    "notes",
+    "written record",
+    "ملاحظات"
+   ]
+  ]
+ },
+ {
+  "type": "listen_response",
+  "topic": "Cafeteria plan",
+  "audio": [
+   [
+    "au",
+    "How about meeting at the cafeteria after class?"
+   ]
+  ],
+  "questions": [
+   {
+    "q": "Choose the best response.",
+    "options": [
+     "The cafeteria serves lunch at noon.",
+     "Class was cancelled last week.",
+     "I met him after class.",
+     "Sounds good. Does four o'clock work for you?"
+    ],
+    "correct": 3,
+    "explanation": "اقتراح لقاء، فالرد الطبيعي هو موافقة وتحديد وقت."
+   }
+  ],
+  "vocab": [
+   [
+    "sounds good",
+    "I agree",
+    "تمام"
+   ],
+   [
+    "work for you",
+    "suit you",
+    "يناسبك"
+   ],
+   [
+    "cancelled",
+    "called off",
+    "ملغى"
+   ],
+   [
+    "cafeteria",
+    "dining hall",
+    "كافيتريا"
+   ]
+  ]
+ },
+ {
+  "type": "listen_response",
+  "topic": "Course advice",
+  "audio": [
+   [
+    "us",
+    "Do you think I should take the advanced statistics course?"
+   ]
+  ],
+  "questions": [
+   {
+    "q": "Choose the best response.",
+    "options": [
+     "Statistics is on the third floor.",
+     "It depends on your goals, but it would help with research.",
+     "I think you took the course.",
+     "The course is too expensive for me."
+    ],
+    "correct": 1,
+    "explanation": "سؤال طلب رأي، فالجواب المناسب هو نصيحة مع مبرّر."
+   }
+  ],
+  "vocab": [
+   [
+    "advanced",
+    "higher-level",
+    "متقدّم"
+   ],
+   [
+    "it depends",
+    "it varies",
+    "يعتمد"
+   ],
+   [
+    "goal",
+    "aim",
+    "هدف"
+   ],
+   [
+    "research",
+    "investigation",
+    "بحث"
+   ]
+  ]
+ },
+ {
+  "type": "listen_response",
+  "topic": "Lost ID",
+  "audio": [
+   [
+    "uk",
+    "I can't find my student ID anywhere."
+   ]
+  ],
+  "questions": [
+   {
+    "q": "Choose the best response.",
+    "options": [
+     "I found mine in my bag yesterday.",
+     "IDs are used for the library.",
+     "Have you checked the lost-and-found office?",
+     "The student is unknown."
+    ],
+    "correct": 2,
+    "explanation": "الشخص عنده مشكلة، فالرد الأنسب هو اقتراح عملي للحل."
+   }
+  ],
+  "vocab": [
+   [
+    "lost-and-found",
+    "office for missing items",
+    "مكتب المفقودات"
+   ],
+   [
+    "anywhere",
+    "in any place",
+    "في أي مكان"
+   ],
+   [
+    "check",
+    "look",
+    "يتحقق"
+   ],
+   [
+    "ID",
+    "identity card",
+    "هوية"
+   ]
+  ]
+ },
+ {
+  "type": "listen_response",
+  "topic": "Essay review",
+  "audio": [
+   [
+    "au",
+    "Would you like me to review your essay before you submit it?"
+   ]
+  ],
+  "questions": [
+   {
+    "q": "Choose the best response.",
+    "options": [
+     "I'll view it on the screen.",
+     "The essay is due Friday.",
+     "I submitted it yesterday.",
+     "That would be great. I'd really appreciate it."
+    ],
+    "correct": 3,
+    "explanation": "عرض مساعدة، فالرد المنطقي هو قبول وشكر."
+   }
+  ],
+  "vocab": [
+   [
+    "review",
+    "go over",
+    "يراجع"
+   ],
+   [
+    "submit",
+    "hand in",
+    "يسلّم"
+   ],
+   [
+    "appreciate",
+    "be thankful for",
+    "يقدّر"
+   ],
+   [
+    "essay",
+    "short composition",
+    "مقال"
+   ]
+  ]
+ },
+ {
+  "type": "listen_response",
+  "topic": "Extra example",
+  "audio": [
+   [
+    "us",
+    "Why don't we ask the professor for an extra example?"
+   ]
+  ],
+  "questions": [
+   {
+    "q": "Choose the best response.",
+    "options": [
+     "The professor lives nearby.",
+     "We asked her last year.",
+     "Good idea. I'm still confused about that part.",
+     "Examples are on page ten."
+    ],
+    "correct": 2,
+    "explanation": "اقتراح، والرد الطبيعي موافقة مع سبب."
+   }
+  ],
+  "vocab": [
+   [
+    "extra",
+    "additional",
+    "إضافي"
+   ],
+   [
+    "confused",
+    "unclear",
+    "محتار"
+   ],
+   [
+    "example",
+    "illustration",
+    "مثال"
+   ],
+   [
+    "part",
+    "section",
+    "جزء"
+   ]
+  ]
+ },
+ {
+  "type": "listen_response",
+  "topic": "Bookstore sale",
+  "audio": [
+   [
+    "uk",
+    "I heard the bookstore is having a sale this week."
+   ]
+  ],
+  "questions": [
+   {
+    "q": "Choose the best response.",
+    "options": [
+     "I sold my bookstore last week.",
+     "The sale is on the weekend of last year.",
+     "I don't know any weeks.",
+     "Really? I'd better go before the best books are gone."
+    ],
+    "correct": 3,
+    "explanation": "خبر جديد، فالرد المناسب هو اهتمام وردّ فعل."
+   }
+  ],
+  "vocab": [
+   [
+    "sale",
+    "discount event",
+    "تخفيضات"
+   ],
+   [
+    "I'd better",
+    "I should",
+    "الأفضل أن"
+   ],
+   [
+    "gone",
+    "finished",
+    "انتهى / نفد"
+   ],
+   [
+    "bookstore",
+    "book shop",
+    "مكتبة بيع"
+   ]
+  ]
+ },
+ {
+  "type": "listen_response",
+  "topic": "Late arrival",
+  "audio": [
+   [
+    "au",
+    "Sorry I'm late. The bus broke down."
+   ]
+  ],
+  "questions": [
+   {
+    "q": "Choose the best response.",
+    "options": [
+     "I broke the bus yesterday.",
+     "The bus is on time.",
+     "No worries. We've only just started.",
+     "Late is a good time to start."
+    ],
+    "correct": 2,
+    "explanation": "اعتذار عن التأخر، فالرد اللطيف هو تطمين."
+   }
+  ],
+  "vocab": [
+   [
+    "break down",
+    "stop working",
+    "يتعطل"
+   ],
+   [
+    "no worries",
+    "it's fine",
+    "ولا يهمّك"
+   ],
+   [
+    "late",
+    "after the time",
+    "متأخر"
+   ],
+   [
+    "just",
+    "recently",
+    "للتو"
+   ]
+  ]
+ },
+ {
+  "type": "listen_response",
+  "topic": "Directions",
+  "audio": [
+   [
+    "us",
+    "Could you tell me how to get to the science building?"
+   ]
+  ],
+  "questions": [
+   {
+    "q": "Choose the best response.",
+    "options": [
+     "Sure. Go straight, then turn left at the library.",
+     "The science is difficult.",
+     "I built this building.",
+     "Yes, the building is big."
+    ],
+    "correct": 0,
+    "explanation": "السؤال عن الطريق، فالجواب هو وصف اتجاهات."
+   }
+  ],
+  "vocab": [
+   [
+    "get to",
+    "reach",
+    "يصل إلى"
+   ],
+   [
+    "straight",
+    "directly ahead",
+    "مباشرة"
+   ],
+   [
+    "turn left",
+    "go left",
+    "يلف يساراً"
+   ],
+   [
+    "building",
+    "structure",
+    "مبنى"
+   ]
+  ]
+ },
+ {
+  "type": "listen_response",
+  "topic": "Changing majors",
+  "audio": [
+   [
+    "uk",
+    "I'm thinking about switching my major to geography."
+   ]
+  ],
+  "questions": [
+   {
+    "q": "Choose the best response.",
+    "options": [
+     "My major is in the basement.",
+     "Geography was invented in Greece.",
+     "I'd rather not switch seats.",
+     "Interesting. What made you consider that?"
+    ],
+    "correct": 3,
+    "explanation": "خبر شخصي، فالرد الطبيعي هو سؤال عن السبب."
+   }
+  ],
+  "vocab": [
+   [
+    "switch",
+    "change",
+    "يبدّل"
+   ],
+   [
+    "major",
+    "main subject",
+    "تخصّص"
+   ],
+   [
+    "consider",
+    "think about",
+    "يفكّر في"
+   ],
+   [
+    "geography",
+    "study of places",
+    "جغرافيا"
+   ]
+  ]
+ },
+ {
+  "type": "listen_response",
+  "topic": "Recording lectures",
+  "audio": [
+   [
+    "au",
+    "Is it okay if I record the lecture?"
+   ]
+  ],
+  "questions": [
+   {
+    "q": "Choose the best response.",
+    "options": [
+     "The record is very old.",
+     "You'll need to ask the professor for permission first.",
+     "I lectured last night.",
+     "Yes, I'm okay today."
+    ],
+    "correct": 1,
+    "explanation": "سؤال عن السماح، والجواب بيحدد الإذن المطلوب."
+   }
+  ],
+  "vocab": [
+   [
+    "record",
+    "capture on audio",
+    "يسجّل"
+   ],
+   [
+    "permission",
+    "approval",
+    "إذن"
+   ],
+   [
+    "lecture",
+    "academic talk",
+    "محاضرة"
+   ],
+   [
+    "first",
+    "before",
+    "أولاً"
+   ]
+  ]
+ },
+ {
+  "type": "listen_response",
+  "topic": "Assignment",
+  "audio": [
+   [
+    "us",
+    "Did you get a chance to look at the assignment?"
+   ]
+  ],
+  "questions": [
+   {
+    "q": "Choose the best response.",
+    "options": [
+     "The assignment is a chance.",
+     "I chanced on the library.",
+     "Looking is easier than walking.",
+     "Not yet, but I'm planning to do it tonight."
+    ],
+    "correct": 3,
+    "explanation": "سؤال عن إنجاز، فالجواب بيعطي الحالة والخطة."
+   }
+  ],
+  "vocab": [
+   [
+    "get a chance",
+    "have the opportunity",
+    "يتسنّى له"
+   ],
+   [
+    "assignment",
+    "homework task",
+    "واجب"
+   ],
+   [
+    "not yet",
+    "still not",
+    "لسه"
+   ],
+   [
+    "plan to",
+    "intend to",
+    "ينوي"
+   ]
+  ]
+ },
+ {
+  "type": "listen_response",
+  "topic": "Membership",
+  "audio": [
+   [
+    "uk",
+    "I'd like to cancel my gym membership."
+   ]
+  ],
+  "questions": [
+   {
+    "q": "Choose the best response.",
+    "options": [
+     "The gym is open until ten.",
+     "I'm a member of the choir.",
+     "Cancel your plans for tonight.",
+     "Certainly. I'll need your membership card, please."
+    ],
+    "correct": 3,
+    "explanation": "طلب إلغاء، فالرد الأنسب هو موافقة وطلب المستندات."
+   }
+  ],
+  "vocab": [
+   [
+    "cancel",
+    "end",
+    "يلغي"
+   ],
+   [
+    "membership",
+    "being a member",
+    "عضوية"
+   ],
+   [
+    "certainly",
+    "of course",
+    "بالتأكيد"
+   ],
+   [
+    "card",
+    "identity item",
+    "بطاقة"
+   ]
+  ]
+ },
+ {
+  "type": "listen_response",
+  "topic": "Guest lecture",
+  "audio": [
+   [
+    "au",
+    "What did you think of the guest lecture?"
+   ]
+  ],
+  "questions": [
+   {
+    "q": "Choose the best response.",
+    "options": [
+     "It was fascinating, especially the part about climate data.",
+     "The guest arrived by train.",
+     "I think so, thanks.",
+     "The lecture hall is empty."
+    ],
+    "correct": 0,
+    "explanation": "سؤال عن الرأي، فالجواب هو تقييم مع تفصيل."
+   }
+  ],
+  "vocab": [
+   [
+    "guest lecture",
+    "talk by a visitor",
+    "محاضرة ضيف"
+   ],
+   [
+    "fascinating",
+    "very interesting",
+    "مذهل"
+   ],
+   [
+    "especially",
+    "particularly",
+    "خصوصاً"
+   ],
+   [
+    "data",
+    "information",
+    "بيانات"
+   ]
+  ]
+ },
+ {
+  "type": "listen_response",
+  "topic": "Borrowing notes",
+  "audio": [
+   [
+    "us",
+    "Could I borrow your notes from yesterday's class?"
+   ]
+  ],
+  "questions": [
+   {
+    "q": "Choose the best response.",
+    "options": [
+     "Yesterday was a holiday for me.",
+     "I borrowed a pen.",
+     "Notes are written in ink.",
+     "Of course. I'll scan them and send them to you."
+    ],
+    "correct": 3,
+    "explanation": "طلب استعارة، فالرد هو موافقة وطريقة التسليم."
+   }
+  ],
+  "vocab": [
+   [
+    "borrow",
+    "take temporarily",
+    "يستعير"
+   ],
+   [
+    "scan",
+    "copy digitally",
+    "يمسح ضوئياً"
+   ],
+   [
+    "of course",
+    "certainly",
+    "طبعاً"
+   ],
+   [
+    "notes",
+    "class record",
+    "ملاحظات"
+   ]
+  ]
+ },
+ {
+  "type": "listen_response",
+  "topic": "Reminder",
+  "audio": [
+   [
+    "uk",
+    "Don't forget that the project proposal is due on Monday."
+   ]
+  ],
+  "questions": [
+   {
+    "q": "Choose the best response.",
+    "options": [
+     "I forgot my keys on Monday.",
+     "Thanks for the reminder. I'm almost done with it.",
+     "Proposals are always accepted.",
+     "The project is in the box."
+    ],
+    "correct": 1,
+    "explanation": "تذكير بموعد، فالرد هو شكر وبيان وضع العمل."
+   }
+  ],
+  "vocab": [
+   [
+    "due",
+    "expected by",
+    "مستحق"
+   ],
+   [
+    "reminder",
+    "prompt",
+    "تذكير"
+   ],
+   [
+    "proposal",
+    "plan",
+    "مقترح"
+   ],
+   [
+    "almost",
+    "nearly",
+    "تقريباً"
+   ]
+  ]
+ },
+ {
+  "type": "listen_response",
+  "topic": "Where to study",
+  "audio": [
+   [
+    "au",
+    "Would you rather study in the library or at the café?"
+   ]
+  ],
+  "questions": [
+   {
+    "q": "Choose the best response.",
+    "options": [
+     "I'd rather not study today.",
+     "The café opens at six.",
+     "The library, I think. It's quieter there.",
+     "I have a library card."
+    ],
+    "correct": 2,
+    "explanation": "سؤال خيار بين شيئين، فالجواب بيختار واحد ويعلّل."
+   }
+  ],
+  "vocab": [
+   [
+    "would rather",
+    "prefer to",
+    "يفضّل"
+   ],
+   [
+    "quieter",
+    "less noisy",
+    "أهدأ"
+   ],
+   [
+    "café",
+    "coffee shop",
+    "مقهى"
+   ],
+   [
+    "library",
+    "book collection",
+    "مكتبة"
+   ]
+  ]
+ },
+ {
+  "type": "listen_response",
+  "topic": "Chapter trouble",
+  "audio": [
+   [
+    "us",
+    "I'm having trouble understanding this chapter."
+   ]
+  ],
+  "questions": [
+   {
+    "q": "Choose the best response.",
+    "options": [
+     "The chapter is on page nine.",
+     "I read the chapter too fast.",
+     "Trouble is a bad word.",
+     "Maybe we could go over it together this afternoon."
+    ],
+    "correct": 3,
+    "explanation": "شخص عنده صعوبة، فالرد المتوقع هو عرض للمساعدة."
+   }
+  ],
+  "vocab": [
+   [
+    "trouble",
+    "difficulty",
+    "صعوبة"
+   ],
+   [
+    "go over",
+    "review",
+    "يراجع"
+   ],
+   [
+    "chapter",
+    "book section",
+    "فصل"
+   ],
+   [
+    "together",
+    "jointly",
+    "معاً"
+   ]
+  ]
+ },
+ {
+  "type": "listen_response",
+  "topic": "Application time",
+  "audio": [
+   [
+    "uk",
+    "How long does the application process usually take?"
+   ]
+  ],
+  "questions": [
+   {
+    "q": "Choose the best response.",
+    "options": [
+     "I process my applications daily.",
+     "Applications are made of paper.",
+     "I usually take the bus.",
+     "Usually about two weeks, but it can vary."
+    ],
+    "correct": 3,
+    "explanation": "سؤال عن المدة، فالجواب هو مدة تقريبية."
+   }
+  ],
+  "vocab": [
+   [
+    "process",
+    "procedure",
+    "إجراء / عملية"
+   ],
+   [
+    "usually",
+    "normally",
+    "عادةً"
+   ],
+   [
+    "vary",
+    "change",
+    "يتفاوت"
+   ],
+   [
+    "application",
+    "formal request",
+    "طلب"
+   ]
+  ]
+ },
+ {
+  "type": "listen_response",
+  "topic": "Printer problem",
+  "audio": [
+   [
+    "au",
+    "The printer on the second floor isn't working again."
+   ]
+  ],
+  "questions": [
+   {
+    "q": "Choose the best response.",
+    "options": [
+     "I printed it on the second floor.",
+     "The floor is working fine.",
+     "The second is better.",
+     "I'll report it to the IT office right away."
+    ],
+    "correct": 3,
+    "explanation": "شكوى عن عطل، فالرد هو إجراء لحل المشكلة."
+   }
+  ],
+  "vocab": [
+   [
+    "report",
+    "inform",
+    "يبلّغ"
+   ],
+   [
+    "right away",
+    "immediately",
+    "فوراً"
+   ],
+   [
+    "IT office",
+    "technology support",
+    "قسم الدعم التقني"
+   ],
+   [
+    "again",
+    "once more",
+    "مرة أخرى"
+   ]
+  ]
+ },
+ {
+  "type": "listen_response",
+  "topic": "Study group",
+  "audio": [
+   [
+    "us",
+    "Do you mind if I join your study group?"
+   ]
+  ],
+  "questions": [
+   {
+    "q": "Choose the best response.",
+    "options": [
+     "I mind the group is small.",
+     "Studying is group work.",
+     "Join the gym instead.",
+     "Not at all. We meet on Tuesdays at six."
+    ],
+    "correct": 3,
+    "explanation": "Do you mind تعني هل تمانع، والرد بـ Not at all معناه ما في مانع."
+   }
+  ],
+  "vocab": [
+   [
+    "mind",
+    "object",
+    "يمانع"
+   ],
+   [
+    "join",
+    "become part of",
+    "ينضم"
+   ],
+   [
+    "not at all",
+    "of course not",
+    "ولا أبداً"
+   ],
+   [
+    "study group",
+    "learning team",
+    "مجموعة دراسة"
+   ]
+  ]
+ },
+ {
+  "type": "listen_conversation",
+  "topic": "Roommates",
+  "audio": [
+   [
+    "us",
+    "Hey, would you mind if I used the kitchen table to study tonight?"
+   ],
+   [
+    "uk",
+    "Not really, but I'm having friends over around eight."
+   ],
+   [
+    "us",
+    "Oh, I didn't know. How long will they stay?"
+   ],
+   [
+    "uk",
+    "Probably until ten. You could use the library instead."
+   ],
+   [
+    "us",
+    "That's fine. It's open late this week anyway."
+   ]
+  ],
+  "questions": [
+   {
+    "q": "What does the man want to do?",
+    "options": [
+     "Cook dinner",
+     "Use the kitchen table to study",
+     "Invite friends",
+     "Move rooms"
+    ],
+    "correct": 1,
+    "explanation": "سأل إذا بيقدر يستخدم طاولة المطبخ للدراسة."
+   },
+   {
+    "q": "Why might it be a problem?",
+    "options": [
+     "The woman will have guests",
+     "The table is broken",
+     "The kitchen is closed",
+     "The woman is studying"
+    ],
+    "correct": 0,
+    "explanation": "المرأة عندها أصدقاء الساعة 8."
+   },
+   {
+    "q": "What will the man probably do?",
+    "options": [
+     "Ask them to leave",
+     "Study at the library",
+     "Cancel his plans",
+     "Eat out"
+    ],
+    "correct": 1,
+    "explanation": "قال إنو المكتبة خيار مناسب لأنها مفتوحة لوقت متأخر."
+   }
+  ],
+  "vocab": [
+   [
+    "would you mind",
+    "do you object",
+    "هل تمانع"
+   ],
+   [
+    "have friends over",
+    "host friends",
+    "يستضيف أصدقاء"
+   ],
+   [
+    "instead",
+    "as an alternative",
+    "بدلاً من ذلك"
+   ],
+   [
+    "anyway",
+    "in any case",
+    "على كل حال"
+   ],
+   [
+    "probably",
+    "likely",
+    "غالباً"
+   ]
+  ]
+ },
+ {
+  "type": "listen_conversation",
+  "topic": "Interlibrary loan",
+  "audio": [
+   [
+    "au",
+    "Hello, I need a book that our library doesn't have. Is there any way to get it?"
+   ],
+   [
+    "us",
+    "Yes, we can request it through interlibrary loan. It usually takes about five days."
+   ],
+   [
+    "au",
+    "That's fine. Is there a fee?"
+   ],
+   [
+    "us",
+    "No, it's free for students, but you must return it on time or pay a late fee."
+   ],
+   [
+    "au",
+    "Great. Can I fill out the form now?"
+   ],
+   [
+    "us",
+    "Of course. I'll get it for you."
+   ]
+  ],
+  "questions": [
+   {
+    "q": "What does the student want?",
+    "options": [
+     "A book from another library",
+     "A study room",
+     "A refund",
+     "A job"
+    ],
+    "correct": 0,
+    "explanation": "الكتاب مو موجود بمكتبتهم، فبيطلبه من مكتبة تانية."
+   },
+   {
+    "q": "What is true about the service?",
+    "options": [
+     "It costs ten dollars",
+     "It is free for students",
+     "It takes a month",
+     "It is only for professors"
+    ],
+    "correct": 1,
+    "explanation": "مجاني للطلاب بس لازم يرجّعوا الكتاب بالوقت."
+   },
+   {
+    "q": "What will the librarian do next?",
+    "options": [
+     "Close the library",
+     "Bring the form",
+     "Call the author",
+     "Check his ID card"
+    ],
+    "correct": 1,
+    "explanation": "قالت I'll get it for you، يعني بتجيبله الاستمارة."
+   }
+  ],
+  "vocab": [
+   [
+    "interlibrary loan",
+    "borrowing from other libraries",
+    "إعارة بين المكتبات"
+   ],
+   [
+    "request",
+    "ask for",
+    "يطلب"
+   ],
+   [
+    "fee",
+    "charge",
+    "رسم"
+   ],
+   [
+    "late fee",
+    "penalty for delay",
+    "غرامة تأخير"
+   ],
+   [
+    "fill out",
+    "complete",
+    "يعبّي"
+   ]
+  ]
+ },
+ {
+  "type": "listen_conversation",
+  "topic": "Choosing an internship",
+  "audio": [
+   [
+    "uk",
+    "I got two internship offers, and I can't decide."
+   ],
+   [
+    "us",
+    "Congratulations! What are they?"
+   ],
+   [
+    "uk",
+    "One is at a large company, the other at a small nonprofit."
+   ],
+   [
+    "us",
+    "Which one would give you more responsibility?"
+   ],
+   [
+    "uk",
+    "Probably the nonprofit, but the company pays better."
+   ],
+   [
+    "us",
+    "Since you want experience, I'd lean toward the nonprofit."
+   ]
+  ],
+  "questions": [
+   {
+    "q": "What is the woman's problem?",
+    "options": [
+     "She has no offers",
+     "She must choose between two offers",
+     "She was rejected",
+     "She lost her CV"
+    ],
+    "correct": 1,
+    "explanation": "عندها عرضين ومو قادرة تقرر."
+   },
+   {
+    "q": "What is an advantage of the nonprofit?",
+    "options": [
+     "More responsibility",
+     "Higher salary",
+     "Better location",
+     "Shorter hours"
+    ],
+    "correct": 0,
+    "explanation": "قالت probably the nonprofit يعطيها مسؤولية أكبر."
+   },
+   {
+    "q": "What does the man recommend?",
+    "options": [
+     "The company",
+     "The nonprofit",
+     "Waiting",
+     "Rejecting both"
+    ],
+    "correct": 1,
+    "explanation": "قال I'd lean toward the nonprofit لأنها بدها خبرة."
+   }
+  ],
+  "vocab": [
+   [
+    "internship",
+    "work placement",
+    "تدريب"
+   ],
+   [
+    "nonprofit",
+    "charity organization",
+    "منظمة غير ربحية"
+   ],
+   [
+    "responsibility",
+    "duty",
+    "مسؤولية"
+   ],
+   [
+    "lean toward",
+    "favor",
+    "يميل إلى"
+   ],
+   [
+    "offer",
+    "proposal",
+    "عرض"
+   ]
+  ]
+ },
+ {
+  "type": "listen_conversation",
+  "topic": "Grade explanation",
+  "audio": [
+   [
+    "us",
+    "Professor, could I ask about my grade on the midterm?"
+   ],
+   [
+    "au",
+    "Certainly. What would you like to know?"
+   ],
+   [
+    "us",
+    "I thought my answer on question four was correct, but I lost points."
+   ],
+   [
+    "au",
+    "Let's see. You gave the right conclusion, but you didn't show your calculations."
+   ],
+   [
+    "us",
+    "Ah, I see. So I needed to include the steps."
+   ],
+   [
+    "au",
+    "Exactly. Next time, remember that the method counts as much as the result."
+   ]
+  ],
+  "questions": [
+   {
+    "q": "Why did the student visit the professor?",
+    "options": [
+     "To discuss a grade",
+     "To ask for a job",
+     "To borrow a book",
+     "To change courses"
+    ],
+    "correct": 0,
+    "explanation": "سأل عن علامته بالامتحان النصفي."
+   },
+   {
+    "q": "Why did he lose points?",
+    "options": [
+     "Wrong conclusion",
+     "No calculations shown",
+     "He arrived late",
+     "He copied"
+    ],
+    "correct": 1,
+    "explanation": "الجواب كان صح بس ما كتب الخطوات الحسابية."
+   },
+   {
+    "q": "What does the professor stress?",
+    "options": [
+     "Method counts as much as the result",
+     "Speed matters most",
+     "Guessing is fine",
+     "Questions are optional"
+    ],
+    "correct": 0,
+    "explanation": "قالت إنو الطريقة بتحسب متل النتيجة."
+   }
+  ],
+  "vocab": [
+   [
+    "midterm",
+    "mid-semester exam",
+    "امتحان نصفي"
+   ],
+   [
+    "conclusion",
+    "final answer",
+    "استنتاج"
+   ],
+   [
+    "calculation",
+    "mathematical working",
+    "عملية حسابية"
+   ],
+   [
+    "method",
+    "approach",
+    "طريقة"
+   ],
+   [
+    "points",
+    "marks",
+    "درجات"
+   ]
+  ]
+ },
+ {
+  "type": "listen_conversation",
+  "topic": "Club budget",
+  "audio": [
+   [
+    "uk",
+    "Our film club needs funding for the festival next month."
+   ],
+   [
+    "us",
+    "How much do you need?"
+   ],
+   [
+    "uk",
+    "About five hundred dollars for rights and equipment."
+   ],
+   [
+    "us",
+    "The student council can cover half if you submit a budget by Friday."
+   ],
+   [
+    "uk",
+    "I'll prepare one tonight. Do I need a faculty signature?"
+   ],
+   [
+    "us",
+    "Yes, from your club advisor."
+   ]
+  ],
+  "questions": [
+   {
+    "q": "What does the club need?",
+    "options": [
+     "A new member",
+     "Funding for a festival",
+     "A room",
+     "A professor"
+    ],
+    "correct": 1,
+    "explanation": "بدهم تمويل للمهرجان الشهر الجاي."
+   },
+   {
+    "q": "What can the council do?",
+    "options": [
+     "Cover half the cost",
+     "Pay everything",
+     "Cancel the festival",
+     "Provide equipment"
+    ],
+    "correct": 0,
+    "explanation": "المجلس بيغطي نص المبلغ إذا قدّموا ميزانية."
+   },
+   {
+    "q": "What is required?",
+    "options": [
+     "A budget and an advisor's signature",
+     "A video",
+     "A fee",
+     "A petition"
+    ],
+    "correct": 0,
+    "explanation": "ميزانية قبل الجمعة وتوقيع مشرف النادي."
+   }
+  ],
+  "vocab": [
+   [
+    "funding",
+    "financial support",
+    "تمويل"
+   ],
+   [
+    "student council",
+    "student government",
+    "مجلس الطلبة"
+   ],
+   [
+    "cover",
+    "pay for",
+    "يغطّي"
+   ],
+   [
+    "budget",
+    "spending plan",
+    "ميزانية"
+   ],
+   [
+    "signature",
+    "written name",
+    "توقيع"
+   ]
+  ]
+ },
+ {
+  "type": "listen_conversation",
+  "topic": "Shift swap",
+  "audio": [
+   [
+    "us",
+    "Hi Karen, could I swap my Thursday shift with someone? I have an exam on Friday."
+   ],
+   [
+    "uk",
+    "Let me check the schedule. Maybe Josh can take it."
+   ],
+   [
+    "us",
+    "He did me a favor last month, so I owe him one."
+   ],
+   [
+    "uk",
+    "Okay. If he agrees, send me an email so it's official."
+   ],
+   [
+    "us",
+    "Will do. Thanks for being flexible."
+   ]
+  ],
+  "questions": [
+   {
+    "q": "What does the student want?",
+    "options": [
+     "More hours",
+     "To swap a shift",
+     "A raise",
+     "A holiday"
+    ],
+    "correct": 1,
+    "explanation": "بدو يبدّل دوام الخميس بسبب امتحان الجمعة."
+   },
+   {
+    "q": "Who might take the shift?",
+    "options": [
+     "Karen",
+     "Josh",
+     "The manager",
+     "Nobody"
+    ],
+    "correct": 1,
+    "explanation": "المشرفة اقترحت جوش."
+   },
+   {
+    "q": "What must the student do?",
+    "options": [
+     "Send an email",
+     "Sign a form",
+     "Call the manager",
+     "Skip the exam"
+    ],
+    "correct": 0,
+    "explanation": "لازم يبعت إيميل بعد موافقة جوش."
+   }
+  ],
+  "vocab": [
+   [
+    "swap",
+    "exchange",
+    "يبدّل"
+   ],
+   [
+    "shift",
+    "work period",
+    "دوام"
+   ],
+   [
+    "owe",
+    "be in debt to",
+    "مدين لـ"
+   ],
+   [
+    "official",
+    "formally approved",
+    "رسمي"
+   ],
+   [
+    "flexible",
+    "accommodating",
+    "مرن"
+   ]
+  ]
+ },
+ {
+  "type": "listen_conversation",
+  "topic": "Field trip",
+  "audio": [
+   [
+    "au",
+    "Have you thought about where we should go for the geology field trip?"
+   ],
+   [
+    "us",
+    "I was considering the canyon, but it's two hours away."
+   ],
+   [
+    "au",
+    "That's far. What about the quarry near campus?"
+   ],
+   [
+    "us",
+    "Good idea. We could take the university van and save money."
+   ],
+   [
+    "au",
+    "I'll ask the department if the van is available."
+   ]
+  ],
+  "questions": [
+   {
+    "q": "What are they planning?",
+    "options": [
+     "A field trip",
+     "A conference",
+     "A party",
+     "An exam"
+    ],
+    "correct": 0,
+    "explanation": "عم يخططوا لرحلة ميدانية بالجيولوجيا."
+   },
+   {
+    "q": "Why does the woman reject the canyon?",
+    "options": [
+     "It's too far",
+     "It's closed",
+     "It's dangerous",
+     "It's expensive"
+    ],
+    "correct": 0,
+    "explanation": "قالت That's far لأنو ساعتين بالطريق."
+   },
+   {
+    "q": "What will she do?",
+    "options": [
+     "Rent a bus",
+     "Ask about the van",
+     "Cancel the trip",
+     "Visit the quarry now"
+    ],
+    "correct": 1,
+    "explanation": "رح تسأل القسم إذا الفان متاح."
+   }
+  ],
+  "vocab": [
+   [
+    "geology",
+    "study of the earth",
+    "جيولوجيا"
+   ],
+   [
+    "field trip",
+    "educational outing",
+    "رحلة ميدانية"
+   ],
+   [
+    "quarry",
+    "stone mine",
+    "محجر"
+   ],
+   [
+    "available",
+    "free to use",
+    "متاح"
+   ],
+   [
+    "considering",
+    "thinking about",
+    "يفكّر في"
+   ]
+  ]
+ },
+ {
+  "type": "listen_conversation",
+  "topic": "IT support",
+  "audio": [
+   [
+    "us",
+    "I can't connect to the campus Wi-Fi on my laptop."
+   ],
+   [
+    "uk",
+    "Have you updated your password this semester?"
+   ],
+   [
+    "us",
+    "I don't think so."
+   ],
+   [
+    "uk",
+    "That's probably the issue. Passwords expire every six months."
+   ],
+   [
+    "us",
+    "How do I reset it?"
+   ],
+   [
+    "uk",
+    "Go to the IT website and click on account settings."
+   ]
+  ],
+  "questions": [
+   {
+    "q": "What is the student's problem?",
+    "options": [
+     "He can't connect to Wi-Fi",
+     "His laptop is lost",
+     "He forgot a deadline",
+     "The printer is broken"
+    ],
+    "correct": 0,
+    "explanation": "ما عم يقدر يتصل بالواي فاي."
+   },
+   {
+    "q": "What is the likely cause?",
+    "options": [
+     "Expired password",
+     "A virus",
+     "Bad weather",
+     "A broken router"
+    ],
+    "correct": 0,
+    "explanation": "كلمات المرور بتنتهي كل 6 أشهر."
+   },
+   {
+    "q": "How can he fix it?",
+    "options": [
+     "Visit the IT website's account settings",
+     "Buy a new laptop",
+     "Call his professor",
+     "Wait a day"
+    ],
+    "correct": 0,
+    "explanation": "موقع الدعم التقني > إعدادات الحساب لإعادة ضبطها."
+   }
+  ],
+  "vocab": [
+   [
+    "connect",
+    "link up",
+    "يتصل"
+   ],
+   [
+    "expire",
+    "become invalid",
+    "تنتهي صلاحيتها"
+   ],
+   [
+    "reset",
+    "set again",
+    "يعيد ضبط"
+   ],
+   [
+    "issue",
+    "problem",
+    "مشكلة"
+   ],
+   [
+    "settings",
+    "options",
+    "إعدادات"
+   ]
+  ]
+ },
+ {
+  "type": "listen_conversation",
+  "topic": "Registration hold",
+  "audio": [
+   [
+    "uk",
+    "I tried to register for classes, but the system won't let me."
+   ],
+   [
+    "us",
+    "It looks like there's a hold on your account."
+   ],
+   [
+    "uk",
+    "A hold? What for?"
+   ],
+   [
+    "us",
+    "An unpaid library fine of twelve dollars."
+   ],
+   [
+    "uk",
+    "Oh no. Can I pay it here?"
+   ],
+   [
+    "us",
+    "The cashier's office is next door. Once you pay, I'll remove the hold."
+   ]
+  ],
+  "questions": [
+   {
+    "q": "What is the problem?",
+    "options": [
+     "A hold on her account",
+     "A wrong password",
+     "A closed course",
+     "A full classroom"
+    ],
+    "correct": 0,
+    "explanation": "في إيقاف على حسابها بالنظام."
+   },
+   {
+    "q": "What caused it?",
+    "options": [
+     "An unpaid library fine",
+     "A late application",
+     "Missing grades",
+     "A visa issue"
+    ],
+    "correct": 0,
+    "explanation": "غرامة مكتبة بـ 12 دولار ما انسددت."
+   },
+   {
+    "q": "What should she do?",
+    "options": [
+     "Pay at the cashier's office",
+     "Email the library",
+     "Drop out",
+     "Change majors"
+    ],
+    "correct": 0,
+    "explanation": "مكتب أمين الصندوق جنب، وبعد الدفع بيزيلوا الإيقاف."
+   }
+  ],
+  "vocab": [
+   [
+    "register",
+    "enroll",
+    "يسجّل"
+   ],
+   [
+    "hold",
+    "restriction",
+    "إيقاف / حجز"
+   ],
+   [
+    "unpaid",
+    "not yet paid",
+    "غير مدفوع"
+   ],
+   [
+    "cashier",
+    "payment clerk",
+    "أمين الصندوق"
+   ],
+   [
+    "remove",
+    "take off",
+    "يزيل"
+   ]
+  ]
+ },
+ {
+  "type": "listen_conversation",
+  "topic": "Climate lecture",
+  "audio": [
+   [
+    "us",
+    "Did you go to the climate lecture yesterday?"
+   ],
+   [
+    "au",
+    "Yes. The speaker said coastal cities may need new flood defenses within twenty years."
+   ],
+   [
+    "us",
+    "That's soon. Did she mention costs?"
+   ],
+   [
+    "au",
+    "She did. Prevention is cheaper than repairing damage afterward."
+   ],
+   [
+    "us",
+    "That makes sense. I should read her paper."
+   ],
+   [
+    "au",
+    "I can send you the link."
+   ]
+  ],
+  "questions": [
+   {
+    "q": "What did the speaker say about coastal cities?",
+    "options": [
+     "They may need flood defenses soon",
+     "They will disappear",
+     "They need more tourists",
+     "They are safe"
+    ],
+    "correct": 0,
+    "explanation": "قالت ممكن يحتاجوا حماية من الفيضانات خلال 20 سنة."
+   },
+   {
+    "q": "What did she say about costs?",
+    "options": [
+     "Prevention is cheaper than repair",
+     "Repair is cheaper",
+     "Costs are unknown",
+     "Costs are irrelevant"
+    ],
+    "correct": 0,
+    "explanation": "الوقاية أرخص من إصلاح الضرر بعدين."
+   },
+   {
+    "q": "What will the woman do?",
+    "options": [
+     "Send a link",
+     "Write a paper",
+     "Visit the speaker",
+     "Skip class"
+    ],
+    "correct": 0,
+    "explanation": "قالت I can send you the link."
+   }
+  ],
+  "vocab": [
+   [
+    "coastal",
+    "near the sea",
+    "ساحلي"
+   ],
+   [
+    "flood defenses",
+    "protection against floods",
+    "دفاعات ضد الفيضان"
+   ],
+   [
+    "prevention",
+    "stopping before it happens",
+    "وقاية"
+   ],
+   [
+    "damage",
+    "harm",
+    "ضرر"
+   ],
+   [
+    "mention",
+    "refer to",
+    "يذكر"
+   ]
+  ]
+ },
+ {
+  "type": "listen_conversation",
+  "topic": "Career counselor",
+  "audio": [
+   [
+    "uk",
+    "I'm not sure which career suits me. I like both writing and data."
+   ],
+   [
+    "us",
+    "Have you considered data journalism?"
+   ],
+   [
+    "uk",
+    "I've heard of it, but I don't know what it involves."
+   ],
+   [
+    "us",
+    "Journalists analyze datasets to find stories, then explain them clearly."
+   ],
+   [
+    "uk",
+    "That sounds perfect. How do I get started?"
+   ],
+   [
+    "us",
+    "Take a statistics course and build a small portfolio."
+   ]
+  ],
+  "questions": [
+   {
+    "q": "What is the student unsure about?",
+    "options": [
+     "Her career path",
+     "Her housing",
+     "Her visa",
+     "Her grade"
+    ],
+    "correct": 0,
+    "explanation": "مو متأكدة أي مهنة بتناسبها."
+   },
+   {
+    "q": "What does the counselor suggest?",
+    "options": [
+     "Data journalism",
+     "Medicine",
+     "Law",
+     "Teaching"
+    ],
+    "correct": 0,
+    "explanation": "اقترح صحافة البيانات لأنها بتجمع الكتابة والبيانات."
+   },
+   {
+    "q": "How can she get started?",
+    "options": [
+     "Take statistics and build a portfolio",
+     "Apply for a loan",
+     "Move abroad",
+     "Wait a year"
+    ],
+    "correct": 0,
+    "explanation": "دورة إحصاء ومعرض أعمال صغير."
+   }
+  ],
+  "vocab": [
+   [
+    "career",
+    "profession",
+    "مهنة"
+   ],
+   [
+    "suit",
+    "be right for",
+    "يناسب"
+   ],
+   [
+    "involve",
+    "include",
+    "يتضمّن"
+   ],
+   [
+    "portfolio",
+    "collection of work",
+    "ملف أعمال"
+   ],
+   [
+    "dataset",
+    "set of data",
+    "مجموعة بيانات"
+   ]
+  ]
+ },
+ {
+  "type": "listen_conversation",
+  "topic": "Lab safety",
+  "audio": [
+   [
+    "us",
+    "Before we begin, did everyone read the safety instructions?"
+   ],
+   [
+    "au",
+    "I did, but I have a question about the chemical waste."
+   ],
+   [
+    "us",
+    "Go ahead."
+   ],
+   [
+    "au",
+    "Where do we put solutions that contain heavy metals?"
+   ],
+   [
+    "us",
+    "In the red container, never down the sink."
+   ],
+   [
+    "au",
+    "Got it. Thanks."
+   ]
+  ],
+  "questions": [
+   {
+    "q": "What is the woman asking about?",
+    "options": [
+     "Chemical waste",
+     "Grades",
+     "Equipment cost",
+     "Parking"
+    ],
+    "correct": 0,
+    "explanation": "سألت عن النفايات الكيميائية."
+   },
+   {
+    "q": "Where should solutions with heavy metals go?",
+    "options": [
+     "Red container",
+     "The sink",
+     "The trash",
+     "Outside"
+    ],
+    "correct": 0,
+    "explanation": "بالحاوية الحمراء وليس بالمغسلة."
+   },
+   {
+    "q": "What can be inferred about the instructor?",
+    "options": [
+     "He expects students to follow rules",
+     "He is careless",
+     "He is new",
+     "He dislikes questions"
+    ],
+    "correct": 0,
+    "explanation": "شدّد على القاعدة وما بيسمح بتجاوزها."
+   }
+  ],
+  "vocab": [
+   [
+    "safety instructions",
+    "rules for staying safe",
+    "تعليمات السلامة"
+   ],
+   [
+    "chemical waste",
+    "used chemicals",
+    "نفايات كيميائية"
+   ],
+   [
+    "heavy metals",
+    "toxic metals",
+    "معادن ثقيلة"
+   ],
+   [
+    "container",
+    "box or vessel",
+    "حاوية"
+   ],
+   [
+    "solution",
+    "liquid mixture",
+    "محلول"
+   ]
+  ]
+ },
+ {
+  "type": "listen_conversation",
+  "topic": "Noise complaint",
+  "audio": [
+   [
+    "uk",
+    "Hi, I live next door. Could you keep the music down after ten?"
+   ],
+   [
+    "us",
+    "Oh, I'm sorry. I didn't realize it was so loud."
+   ],
+   [
+    "uk",
+    "It's fine, I just have an early class."
+   ],
+   [
+    "us",
+    "I'll use headphones from now on."
+   ],
+   [
+    "uk",
+    "Thank you. I really appreciate it."
+   ]
+  ],
+  "questions": [
+   {
+    "q": "Why does the woman visit?",
+    "options": [
+     "To complain about noise",
+     "To borrow something",
+     "To invite him",
+     "To sell something"
+    ],
+    "correct": 0,
+    "explanation": "بدها يخفّض الموسيقى بعد العاشرة."
+   },
+   {
+    "q": "Why does she ask?",
+    "options": [
+     "She has an early class",
+     "She is sick",
+     "She is moving",
+     "She dislikes music"
+    ],
+    "correct": 0,
+    "explanation": "عندها محاضرة بدري."
+   },
+   {
+    "q": "What will the man do?",
+    "options": [
+     "Use headphones",
+     "Move out",
+     "Stop listening to music",
+     "Talk to the landlord"
+    ],
+    "correct": 0,
+    "explanation": "وعد يستخدم سماعات."
+   }
+  ],
+  "vocab": [
+   [
+    "keep down",
+    "reduce volume",
+    "يخفّض"
+   ],
+   [
+    "realize",
+    "become aware",
+    "يدرك"
+   ],
+   [
+    "early class",
+    "morning lecture",
+    "محاضرة صباحية"
+   ],
+   [
+    "from now on",
+    "in the future",
+    "من الآن فصاعداً"
+   ],
+   [
+    "appreciate",
+    "be grateful for",
+    "يقدّر"
+   ]
+  ]
+ },
+ {
+  "type": "listen_conversation",
+  "topic": "Writing center",
+  "audio": [
+   [
+    "us",
+    "I've written my essay, but it doesn't flow well."
+   ],
+   [
+    "au",
+    "Let's read it together. Hmm, your paragraphs jump between ideas."
+   ],
+   [
+    "us",
+    "How can I fix that?"
+   ],
+   [
+    "au",
+    "Start each paragraph with a clear topic sentence, and use transitions."
+   ],
+   [
+    "us",
+    "Could you give me an example of a transition?"
+   ],
+   [
+    "au",
+    "Sure. Words like however, therefore, and in addition."
+   ]
+  ],
+  "questions": [
+   {
+    "q": "What is wrong with the essay?",
+    "options": [
+     "It doesn't flow well",
+     "It is too short",
+     "It has no thesis",
+     "It is off-topic"
+    ],
+    "correct": 0,
+    "explanation": "قال إنو المقال ما بيتدفّق بسلاسة."
+   },
+   {
+    "q": "What does the tutor advise?",
+    "options": [
+     "Use topic sentences and transitions",
+     "Shorten paragraphs",
+     "Remove examples",
+     "Rewrite everything"
+    ],
+    "correct": 0,
+    "explanation": "جملة موضوع واضحة بكل فقرة وكلمات ربط."
+   },
+   {
+    "q": "What example does she give?",
+    "options": [
+     "However and therefore",
+     "First and last",
+     "Yes and no",
+     "Maybe and perhaps"
+    ],
+    "correct": 0,
+    "explanation": "أعطت however وtherefore وin addition."
+   }
+  ],
+  "vocab": [
+   [
+    "flow",
+    "move smoothly",
+    "يتدفّق / ينساب"
+   ],
+   [
+    "topic sentence",
+    "main sentence of a paragraph",
+    "جملة الفكرة"
+   ],
+   [
+    "transition",
+    "linking word",
+    "أداة ربط"
+   ],
+   [
+    "paragraph",
+    "text block",
+    "فقرة"
+   ],
+   [
+    "fix",
+    "correct",
+    "يصلح"
+   ]
+  ]
+ },
+ {
+  "type": "listen_conversation",
+  "topic": "Scholarship essay",
+  "audio": [
+   [
+    "uk",
+    "I'm stuck on my scholarship essay. I don't know how to begin."
+   ],
+   [
+    "us",
+    "Try starting with a short story about why this topic matters to you."
+   ],
+   [
+    "uk",
+    "But the essay is only five hundred words."
+   ],
+   [
+    "us",
+    "A short anecdote of three sentences is enough."
+   ],
+   [
+    "uk",
+    "I'll give it a try and show you tomorrow."
+   ]
+  ],
+  "questions": [
+   {
+    "q": "What is the woman's problem?",
+    "options": [
+     "She doesn't know how to begin",
+     "She lacks time",
+     "She lost her essay",
+     "She has no topic"
+    ],
+    "correct": 0,
+    "explanation": "مو عارفة كيف تبدأ."
+   },
+   {
+    "q": "What does the man suggest?",
+    "options": [
+     "A short personal anecdote",
+     "A long quote",
+     "A statistic",
+     "A joke"
+    ],
+    "correct": 0,
+    "explanation": "قصة قصيرة شخصية بثلاث جمل."
+   },
+   {
+    "q": "What will she do?",
+    "options": [
+     "Show him a draft tomorrow",
+     "Quit",
+     "Ask for an extension",
+     "Use a template"
+    ],
+    "correct": 0,
+    "explanation": "قالت رح تجرّب وتوريه بكرا."
+   }
+  ],
+  "vocab": [
+   [
+    "stuck",
+    "unable to progress",
+    "عالق"
+   ],
+   [
+    "anecdote",
+    "short story",
+    "حكاية قصيرة"
+   ],
+   [
+    "matter",
+    "be important",
+    "يهمّ"
+   ],
+   [
+    "word limit",
+    "maximum length",
+    "حد الكلمات"
+   ],
+   [
+    "give it a try",
+    "attempt",
+    "يجرّب"
+   ]
+  ]
+ },
+ {
+  "type": "listen_conversation",
+  "topic": "Recommendation request",
+  "audio": [
+   [
+    "us",
+    "Professor Grant, I'm applying for a master's program and need two recommendation letters."
+   ],
+   [
+    "au",
+    "I'd be glad to write one. When is the deadline?"
+   ],
+   [
+    "us",
+    "In three weeks. I can send my CV and statement of purpose."
+   ],
+   [
+    "au",
+    "Please do, and remind me one week before the deadline."
+   ],
+   [
+    "us",
+    "Thank you so much."
+   ]
+  ],
+  "questions": [
+   {
+    "q": "Why does the student visit?",
+    "options": [
+     "To request a recommendation letter",
+     "To discuss a grade",
+     "To change courses",
+     "To report a problem"
+    ],
+    "correct": 0,
+    "explanation": "بدو رسالة توصية لبرنامج ماجستير."
+   },
+   {
+    "q": "What will he send?",
+    "options": [
+     "His CV and statement of purpose",
+     "A transcript only",
+     "A payment",
+     "A form"
+    ],
+    "correct": 0,
+    "explanation": "قال رح يبعت السيرة الذاتية ورسالة الدافع."
+   },
+   {
+    "q": "What does the professor ask?",
+    "options": [
+     "A reminder a week before",
+     "A gift",
+     "A meeting daily",
+     "A longer deadline"
+    ],
+    "correct": 0,
+    "explanation": "طلبت تذكير قبل الموعد بأسبوع."
+   }
+  ],
+  "vocab": [
+   [
+    "recommendation letter",
+    "reference",
+    "رسالة توصية"
+   ],
+   [
+    "master's program",
+    "postgraduate course",
+    "برنامج ماجستير"
+   ],
+   [
+    "statement of purpose",
+    "motivation letter",
+    "رسالة دافع"
+   ],
+   [
+    "remind",
+    "prompt",
+    "يذكّر"
+   ],
+   [
+    "deadline",
+    "cutoff date",
+    "الموعد النهائي"
+   ]
+  ]
+ },
+ {
+  "type": "listen_conversation",
+  "topic": "Group conflict",
+  "audio": [
+   [
+    "au",
+    "Our teammate hasn't done his part of the project, and the deadline is Friday."
+   ],
+   [
+    "us",
+    "Have you talked to him?"
+   ],
+   [
+    "au",
+    "Twice, but he keeps saying he's busy."
+   ],
+   [
+    "us",
+    "Maybe you should speak to the professor."
+   ],
+   [
+    "au",
+    "I'd prefer to give him one more chance first."
+   ],
+   [
+    "us",
+    "That's fair, but set a clear deadline for him."
+   ]
+  ],
+  "questions": [
+   {
+    "q": "What is the problem?",
+    "options": [
+     "A teammate is not contributing",
+     "The project is cancelled",
+     "The professor is absent",
+     "The topic is too hard"
+    ],
+    "correct": 0,
+    "explanation": "زميلهم ما سوّى حصته."
+   },
+   {
+    "q": "What does the man suggest?",
+    "options": [
+     "Talk to the professor",
+     "Quit the group",
+     "Do the work herself",
+     "Ignore it"
+    ],
+    "correct": 0,
+    "explanation": "قال يمكن تحكي مع الدكتور."
+   },
+   {
+    "q": "What does the woman decide?",
+    "options": [
+     "Give him one more chance",
+     "Report him now",
+     "Change teams",
+     "Do nothing"
+    ],
+    "correct": 0,
+    "explanation": "فضّلت تعطيه فرصة أخيرة."
+   }
+  ],
+  "vocab": [
+   [
+    "contribute",
+    "add one's share",
+    "يساهم"
+   ],
+   [
+    "teammate",
+    "group member",
+    "زميل فريق"
+   ],
+   [
+    "keep saying",
+    "repeat",
+    "يظل يقول"
+   ],
+   [
+    "fair",
+    "reasonable",
+    "منصف"
+   ],
+   [
+    "set a deadline",
+    "fix a due date",
+    "يحدد موعداً نهائياً"
+   ]
+  ]
+ },
+ {
+  "type": "listen_conversation",
+  "topic": "Textbook edition",
+  "audio": [
+   [
+    "us",
+    "I need the chemistry textbook, but I bought the old edition by mistake."
+   ],
+   [
+    "uk",
+    "The professor requires the newest edition."
+   ],
+   [
+    "us",
+    "Is the difference big?"
+   ],
+   [
+    "uk",
+    "The problem sets are different, so yes."
+   ],
+   [
+    "us",
+    "Can I exchange it?"
+   ],
+   [
+    "uk",
+    "You have until the end of the week with the receipt."
+   ]
+  ],
+  "questions": [
+   {
+    "q": "What mistake did the student make?",
+    "options": [
+     "Bought the wrong edition",
+     "Lost his book",
+     "Missed class",
+     "Paid too much"
+    ],
+    "correct": 0,
+    "explanation": "اشترى طبعة قديمة بالغلط."
+   },
+   {
+    "q": "Why does it matter?",
+    "options": [
+     "Problem sets are different",
+     "The cover is different",
+     "The price is different",
+     "The author changed"
+    ],
+    "correct": 0,
+    "explanation": "الفرق بمجموعات المسائل، يعني الواجبات مختلفة."
+   },
+   {
+    "q": "What is required to exchange?",
+    "options": [
+     "The receipt",
+     "A letter",
+     "A student ID photo",
+     "Nothing"
+    ],
+    "correct": 0,
+    "explanation": "لازم الإيصال وخلال نهاية الأسبوع."
+   }
+  ],
+  "vocab": [
+   [
+    "edition",
+    "version",
+    "طبعة"
+   ],
+   [
+    "by mistake",
+    "accidentally",
+    "بالغلط"
+   ],
+   [
+    "problem set",
+    "exercise collection",
+    "مجموعة تمارين"
+   ],
+   [
+    "exchange",
+    "swap",
+    "يبدّل"
+   ],
+   [
+    "receipt",
+    "proof of purchase",
+    "إيصال"
+   ]
+  ]
+ },
+ {
+  "type": "listen_conversation",
+  "topic": "Rental agreement",
+  "audio": [
+   [
+    "uk",
+    "I'd like to ask about the lease. Does it include utilities?"
+   ],
+   [
+    "us",
+    "Water and heating are included, but electricity isn't."
+   ],
+   [
+    "uk",
+    "And what happens if I need to leave early?"
+   ],
+   [
+    "us",
+    "You must give sixty days' notice or pay a penalty."
+   ],
+   [
+    "uk",
+    "Okay. I'll think about it and come back tomorrow."
+   ]
+  ],
+  "questions": [
+   {
+    "q": "What is the woman asking about?",
+    "options": [
+     "A lease",
+     "A bus pass",
+     "A scholarship",
+     "A class"
+    ],
+    "correct": 0,
+    "explanation": "عم تسأل عن عقد الإيجار."
+   },
+   {
+    "q": "What is not included?",
+    "options": [
+     "Electricity",
+     "Water",
+     "Heating",
+     "Internet and water"
+    ],
+    "correct": 0,
+    "explanation": "الكهرباء مو مشمولة."
+   },
+   {
+    "q": "What is required to leave early?",
+    "options": [
+     "Sixty days' notice or a penalty",
+     "A refund",
+     "A new tenant",
+     "A doctor's note"
+    ],
+    "correct": 0,
+    "explanation": "إشعار 60 يوم أو دفع غرامة."
+   }
+  ],
+  "vocab": [
+   [
+    "lease",
+    "rental contract",
+    "عقد إيجار"
+   ],
+   [
+    "utilities",
+    "water, power, etc.",
+    "خدمات (ماء وكهرباء)"
+   ],
+   [
+    "notice",
+    "formal warning",
+    "إشعار"
+   ],
+   [
+    "penalty",
+    "fine",
+    "غرامة"
+   ],
+   [
+    "include",
+    "contain",
+    "يشمل"
+   ]
+  ]
+ },
+ {
+  "type": "listen_conversation",
+  "topic": "Research ethics form",
+  "audio": [
+   [
+    "us",
+    "I need ethics approval before I interview participants, right?"
+   ],
+   [
+    "au",
+    "Correct. You must submit a form describing your questions and how you'll protect confidentiality."
+   ],
+   [
+    "us",
+    "How long does approval take?"
+   ],
+   [
+    "au",
+    "About three weeks, so submit it soon."
+   ],
+   [
+    "us",
+    "I'll do it this week."
+   ]
+  ],
+  "questions": [
+   {
+    "q": "What does the student need?",
+    "options": [
+     "Ethics approval",
+     "A grant",
+     "A new advisor",
+     "A laptop"
+    ],
+    "correct": 0,
+    "explanation": "موافقة أخلاقية قبل مقابلة المشاركين."
+   },
+   {
+    "q": "What must the form describe?",
+    "options": [
+     "Questions and confidentiality protection",
+     "The budget",
+     "The results",
+     "The timeline only"
+    ],
+    "correct": 0,
+    "explanation": "الأسئلة وكيف بيحمي سرية المشاركين."
+   },
+   {
+    "q": "How long does approval take?",
+    "options": [
+     "About three weeks",
+     "One day",
+     "Three months",
+     "One hour"
+    ],
+    "correct": 0,
+    "explanation": "حوالي ثلاثة أسابيع، فلازم يقدّم بسرعة."
+   }
+  ],
+  "vocab": [
+   [
+    "ethics approval",
+    "permission on ethical grounds",
+    "موافقة أخلاقية"
+   ],
+   [
+    "participant",
+    "study subject",
+    "مشارك"
+   ],
+   [
+    "confidentiality",
+    "privacy",
+    "سرّية"
+   ],
+   [
+    "submit",
+    "hand in",
+    "يقدّم"
+   ],
+   [
+    "approval",
+    "permission",
+    "موافقة"
+   ]
+  ]
+ },
+ {
+  "type": "listen_conversation",
+  "topic": "Citation style",
+  "audio": [
+   [
+    "uk",
+    "Which citation style does your department use?"
+   ],
+   [
+    "au",
+    "Mostly APA, but history uses Chicago."
+   ],
+   [
+    "uk",
+    "Is there a tool to format references automatically?"
+   ],
+   [
+    "au",
+    "Yes, reference managers help, but check the results manually."
+   ],
+   [
+    "uk",
+    "Why manually?"
+   ],
+   [
+    "au",
+    "They often make small mistakes with names and dates."
+   ]
+  ],
+  "questions": [
+   {
+    "q": "Which style does history use?",
+    "options": [
+     "Chicago",
+     "APA",
+     "MLA",
+     "IEEE"
+    ],
+    "correct": 0,
+    "explanation": "قسم التاريخ بيستخدم Chicago، والباقي غالباً APA."
+   },
+   {
+    "q": "What can reference managers do?",
+    "options": [
+     "Format references automatically",
+     "Write essays",
+     "Find sources",
+     "Check grammar"
+    ],
+    "correct": 0,
+    "explanation": "بينسّقوا المراجع تلقائياً."
+   },
+   {
+    "q": "Why should the results be checked?",
+    "options": [
+     "They make small mistakes",
+     "They are expensive",
+     "They are slow",
+     "They are forbidden"
+    ],
+    "correct": 0,
+    "explanation": "بيغلطوا أحياناً بالأسماء والتواريخ."
+   }
+  ],
+  "vocab": [
+   [
+    "citation",
+    "reference to a source",
+    "استشهاد / توثيق"
+   ],
+   [
+    "style",
+    "format",
+    "نمط / أسلوب"
+   ],
+   [
+    "reference manager",
+    "tool for sources",
+    "برنامج إدارة المراجع"
+   ],
+   [
+    "manually",
+    "by hand",
+    "يدوياً"
+   ],
+   [
+    "automatically",
+    "by itself",
+    "تلقائياً"
+   ]
+  ]
+ },
+ {
+  "type": "listen_announcement",
+  "topic": "Career fair",
+  "audio": [
+   [
+    "us",
+    "Attention students. The annual career fair will take place next Thursday in the main gymnasium from ten to four. More than sixty employers will attend, including several technology and environmental firms. Bring multiple copies of your résumé, and dress professionally. Workshops on interview skills will run every hour in Room 201. Registration is free at the careers office website."
+   ]
+  ],
+  "questions": [
+   {
+    "q": "Where is the career fair?",
+    "options": [
+     "The main gymnasium",
+     "Room 201",
+     "The library",
+     "The student union"
+    ],
+    "correct": 0,
+    "explanation": "المعرض بالصالة الرياضية الرئيسية."
+   },
+   {
+    "q": "What should students bring?",
+    "options": [
+     "Copies of their résumé",
+     "Their transcripts",
+     "A laptop",
+     "Cash"
+    ],
+    "correct": 0,
+    "explanation": "نسخ متعددة من السيرة الذاتية مع لباس رسمي."
+   },
+   {
+    "q": "What happens in Room 201?",
+    "options": [
+     "Interview skills workshops",
+     "Registration",
+     "A lecture",
+     "A film"
+    ],
+    "correct": 0,
+    "explanation": "ورش عن مهارات المقابلة كل ساعة."
+   }
+  ],
+  "vocab": [
+   [
+    "career fair",
+    "job exhibition",
+    "معرض وظائف"
+   ],
+   [
+    "employer",
+    "hiring company",
+    "جهة توظيف"
+   ],
+   [
+    "résumé",
+    "CV",
+    "سيرة ذاتية"
+   ],
+   [
+    "professionally",
+    "in a business manner",
+    "بشكل رسمي"
+   ],
+   [
+    "workshop",
+    "practical session",
+    "ورشة"
+   ]
+  ]
+ },
+ {
+  "type": "listen_announcement",
+  "topic": "Parking",
+  "audio": [
+   [
+    "au",
+    "Good morning. Beginning Monday, the north parking lot will be closed for resurfacing. Drivers should use the east lot or the parking garage on Maple Street. Shuttle service will run from the garage to the main entrance every ten minutes. Permit holders do not need to purchase new permits. We expect the work to be completed in two weeks."
+   ]
+  ],
+  "questions": [
+   {
+    "q": "Why is the north lot closing?",
+    "options": [
+     "Resurfacing",
+     "A construction fair",
+     "A festival",
+     "A security issue"
+    ],
+    "correct": 0,
+    "explanation": "بدهم يعيدوا تعبيد السطح."
+   },
+   {
+    "q": "What alternatives are offered?",
+    "options": [
+     "East lot or Maple Street garage",
+     "Only street parking",
+     "The stadium",
+     "Nothing"
+    ],
+    "correct": 0,
+    "explanation": "الموقف الشرقي أو مرآب شارع Maple."
+   },
+   {
+    "q": "What is said about permits?",
+    "options": [
+     "No new permit is needed",
+     "New permits are required",
+     "Permits are cancelled",
+     "Permits double in price"
+    ],
+    "correct": 0,
+    "explanation": "حاملو التصاريح ما بدهم شراء جديد."
+   }
+  ],
+  "vocab": [
+   [
+    "resurface",
+    "lay a new surface",
+    "يعيد تعبيد"
+   ],
+   [
+    "garage",
+    "parking building",
+    "مرآب"
+   ],
+   [
+    "permit",
+    "authorization",
+    "تصريح"
+   ],
+   [
+    "purchase",
+    "buy",
+    "يشتري"
+   ],
+   [
+    "complete",
+    "finish",
+    "يُنجز"
+   ]
+  ]
+ },
+ {
+  "type": "listen_announcement",
+  "topic": "Cafeteria",
+  "audio": [
+   [
+    "uk",
+    "Hello, diners. This week the cafeteria is introducing a new plant-based menu every Wednesday. Dishes include lentil stew, vegetable curry, and roasted chickpea salad. All meals cost the same as regular options. Feedback forms are available at the exit, and your comments will help us decide which items to keep."
+   ]
+  ],
+  "questions": [
+   {
+    "q": "What is new this week?",
+    "options": [
+     "A plant-based menu on Wednesdays",
+     "Longer hours",
+     "Free meals",
+     "A new chef"
+    ],
+    "correct": 0,
+    "explanation": "قائمة نباتية كل أربعاء."
+   },
+   {
+    "q": "How much do the dishes cost?",
+    "options": [
+     "Same as regular meals",
+     "Double",
+     "Free",
+     "Half price"
+    ],
+    "correct": 0,
+    "explanation": "نفس سعر الوجبات العادية."
+   },
+   {
+    "q": "What is the purpose of feedback forms?",
+    "options": [
+     "To decide which items to keep",
+     "To collect fees",
+     "To reserve seats",
+     "To hire staff"
+    ],
+    "correct": 0,
+    "explanation": "ملاحظاتكم بتحدد شو الأطباق اللي بتضل."
+   }
+  ],
+  "vocab": [
+   [
+    "plant-based",
+    "vegetarian",
+    "نباتي"
+   ],
+   [
+    "lentil",
+    "pulse",
+    "عدس"
+   ],
+   [
+    "chickpea",
+    "garbanzo",
+    "حمّص"
+   ],
+   [
+    "feedback",
+    "comments",
+    "ملاحظات"
+   ],
+   [
+    "regular",
+    "standard",
+    "عادي"
+   ]
+  ]
+ },
+ {
+  "type": "listen_announcement",
+  "topic": "Guest speaker",
+  "audio": [
+   [
+    "us",
+    "Students of the Environmental Studies department are invited to a talk by Dr. Maria Santos, a marine biologist, on Wednesday at five p.m. in the Science Auditorium. She will discuss coral restoration projects and take questions afterward. Seating is limited, so please arrive early. A reception with refreshments will follow."
+   ]
+  ],
+  "questions": [
+   {
+    "q": "Who is the speaker?",
+    "options": [
+     "A marine biologist",
+     "A chemist",
+     "An engineer",
+     "A journalist"
+    ],
+    "correct": 0,
+    "explanation": "الدكتورة سانتوس عالمة أحياء بحرية."
+   },
+   {
+    "q": "What will she discuss?",
+    "options": [
+     "Coral restoration projects",
+     "Ocean law",
+     "Fishing",
+     "Pollution laws"
+    ],
+    "correct": 0,
+    "explanation": "مشاريع ترميم الشعاب المرجانية."
+   },
+   {
+    "q": "Why should students come early?",
+    "options": [
+     "Seating is limited",
+     "Doors close at four",
+     "Tickets sell out",
+     "Parking is full"
+    ],
+    "correct": 0,
+    "explanation": "المقاعد محدودة."
+   }
+  ],
+  "vocab": [
+   [
+    "marine biologist",
+    "sea scientist",
+    "عالم أحياء بحرية"
+   ],
+   [
+    "auditorium",
+    "large hall",
+    "مدرّج"
+   ],
+   [
+    "restoration",
+    "repair",
+    "ترميم"
+   ],
+   [
+    "seating",
+    "places to sit",
+    "المقاعد"
+   ],
+   [
+    "reception",
+    "social gathering",
+    "حفل استقبال"
+   ]
+  ]
+ },
+ {
+  "type": "listen_announcement",
+  "topic": "Power outage",
+  "audio": [
+   [
+    "au",
+    "Attention residents of Hillside Hall. Due to scheduled electrical maintenance, power will be off on Saturday from eight a.m. to noon. Elevators will not operate, so please plan accordingly. Refrigerated food may stay cold if doors remain closed. The dining hall will serve brunch in the student center during this period."
+   ]
+  ],
+  "questions": [
+   {
+    "q": "When will the power be off?",
+    "options": [
+     "Saturday morning",
+     "Sunday",
+     "Friday night",
+     "All week"
+    ],
+    "correct": 0,
+    "explanation": "السبت من 8 صباحاً للظهر."
+   },
+   {
+    "q": "What won't work?",
+    "options": [
+     "Elevators",
+     "Water",
+     "Heating",
+     "Internet only"
+    ],
+    "correct": 0,
+    "explanation": "المصاعد ما بتشتغل."
+   },
+   {
+    "q": "Where will brunch be served?",
+    "options": [
+     "The student center",
+     "The dining hall",
+     "The library",
+     "Outside"
+    ],
+    "correct": 0,
+    "explanation": "بمركز الطلبة خلال هالفترة."
+   }
+  ],
+  "vocab": [
+   [
+    "outage",
+    "power cut",
+    "انقطاع"
+   ],
+   [
+    "scheduled",
+    "planned",
+    "مجدول"
+   ],
+   [
+    "accordingly",
+    "appropriately",
+    "بناءً على ذلك"
+   ],
+   [
+    "refrigerated",
+    "kept cold",
+    "مبرَّد"
+   ],
+   [
+    "period",
+    "time span",
+    "فترة"
+   ]
+  ]
+ },
+ {
+  "type": "listen_announcement",
+  "topic": "Campus tour",
+  "audio": [
+   [
+    "uk",
+    "Welcome, new students. Campus tours depart from the visitor center every half hour starting at nine. Each tour lasts about forty-five minutes and covers the library, the science complex, and the sports facilities. Comfortable shoes are recommended. If it rains, tours will move indoors and use a shorter route."
+   ]
+  ],
+  "questions": [
+   {
+    "q": "How often do tours depart?",
+    "options": [
+     "Every half hour",
+     "Every hour",
+     "Once a day",
+     "Every ten minutes"
+    ],
+    "correct": 0,
+    "explanation": "كل نص ساعة من التاسعة."
+   },
+   {
+    "q": "How long is each tour?",
+    "options": [
+     "About forty-five minutes",
+     "Two hours",
+     "Ten minutes",
+     "All day"
+    ],
+    "correct": 0,
+    "explanation": "حوالي 45 دقيقة."
+   },
+   {
+    "q": "What happens if it rains?",
+    "options": [
+     "Tours move indoors on a shorter route",
+     "Tours are cancelled",
+     "Tours get longer",
+     "Nothing changes"
+    ],
+    "correct": 0,
+    "explanation": "الجولة بتنتقل للداخل بمسار أقصر."
+   }
+  ],
+  "vocab": [
+   [
+    "depart",
+    "leave",
+    "ينطلق"
+   ],
+   [
+    "visitor center",
+    "information desk",
+    "مركز الزوار"
+   ],
+   [
+    "complex",
+    "group of buildings",
+    "مجمّع"
+   ],
+   [
+    "facilities",
+    "amenities",
+    "مرافق"
+   ],
+   [
+    "route",
+    "path",
+    "مسار"
+   ]
+  ]
+ },
+ {
+  "type": "listen_announcement",
+  "topic": "Fire drill",
+  "audio": [
+   [
+    "us",
+    "This is a reminder that a fire drill will take place tomorrow at eleven a.m. in all academic buildings. When the alarm sounds, leave immediately by the nearest exit and gather at the assembly point on the main lawn. Do not use elevators. Faculty will take attendance. The drill should last no more than fifteen minutes."
+   ]
+  ],
+  "questions": [
+   {
+    "q": "When is the fire drill?",
+    "options": [
+     "Tomorrow at 11",
+     "Today at noon",
+     "Friday",
+     "Next week"
+    ],
+    "correct": 0,
+    "explanation": "بكرا الساعة 11 صباحاً."
+   },
+   {
+    "q": "Where should people gather?",
+    "options": [
+     "On the main lawn",
+     "In the lobby",
+     "At the parking lot",
+     "In the classroom"
+    ],
+    "correct": 0,
+    "explanation": "نقطة التجمع هي العشب الرئيسي."
+   },
+   {
+    "q": "What should people avoid?",
+    "options": [
+     "Using elevators",
+     "Walking",
+     "Talking",
+     "Using stairs"
+    ],
+    "correct": 0,
+    "explanation": "ممنوع استخدام المصاعد."
+   }
+  ],
+  "vocab": [
+   [
+    "fire drill",
+    "evacuation practice",
+    "تمرين إخلاء"
+   ],
+   [
+    "alarm",
+    "warning sound",
+    "إنذار"
+   ],
+   [
+    "assembly point",
+    "meeting place",
+    "نقطة تجمّع"
+   ],
+   [
+    "attendance",
+    "roll call",
+    "تسجيل حضور"
+   ],
+   [
+    "immediately",
+    "right away",
+    "فوراً"
+   ]
+  ]
+ },
+ {
+  "type": "listen_announcement",
+  "topic": "Scholarship session",
+  "audio": [
+   [
+    "au",
+    "Students interested in international scholarships are invited to an information session on Tuesday at four in Room 305. Representatives will explain eligibility criteria and the application process. Participants will receive a checklist of required documents. Early registration is encouraged, and refreshments will be available."
+   ]
+  ],
+  "questions": [
+   {
+    "q": "What is the session about?",
+    "options": [
+     "International scholarships",
+     "Housing",
+     "Jobs",
+     "Visas"
+    ],
+    "correct": 0,
+    "explanation": "منح دراسية دولية."
+   },
+   {
+    "q": "What will participants receive?",
+    "options": [
+     "A checklist of documents",
+     "A scholarship",
+     "A certificate",
+     "A book"
+    ],
+    "correct": 0,
+    "explanation": "قائمة مراجعة بالمستندات المطلوبة."
+   },
+   {
+    "q": "What is encouraged?",
+    "options": [
+     "Early registration",
+     "Late arrival",
+     "Bringing guests",
+     "Taking photos"
+    ],
+    "correct": 0,
+    "explanation": "بيشجّعوا التسجيل المبكر."
+   }
+  ],
+  "vocab": [
+   [
+    "information session",
+    "briefing",
+    "جلسة معلومات"
+   ],
+   [
+    "representative",
+    "delegate",
+    "ممثّل"
+   ],
+   [
+    "eligibility criteria",
+    "qualification rules",
+    "معايير الأهلية"
+   ],
+   [
+    "checklist",
+    "list to tick",
+    "قائمة تدقيق"
+   ],
+   [
+    "encouraged",
+    "recommended",
+    "مُشجَّع"
+   ]
+  ]
+ },
+ {
+  "type": "listen_announcement",
+  "topic": "Wi-Fi maintenance",
+  "audio": [
+   [
+    "uk",
+    "Please be advised that campus Wi-Fi will be unavailable on Sunday between two and six a.m. while we upgrade network equipment. Wired connections in the library and computer labs will not be affected. If you have an online exam scheduled during that time, contact your instructor to arrange an alternative."
+   ]
+  ],
+  "questions": [
+   {
+    "q": "When will Wi-Fi be unavailable?",
+    "options": [
+     "Sunday 2 to 6 a.m.",
+     "Saturday evening",
+     "All weekend",
+     "Monday morning"
+    ],
+    "correct": 0,
+    "explanation": "الأحد من 2 لـ 6 صباحاً."
+   },
+   {
+    "q": "What won't be affected?",
+    "options": [
+     "Wired connections in library and labs",
+     "Phones",
+     "Printers",
+     "Classrooms"
+    ],
+    "correct": 0,
+    "explanation": "الاتصالات السلكية بالمكتبة والمختبرات."
+   },
+   {
+    "q": "What should students with online exams do?",
+    "options": [
+     "Contact their instructor",
+     "Wait",
+     "Go to the library",
+     "Cancel the exam"
+    ],
+    "correct": 0,
+    "explanation": "يتواصلوا مع المدرّس لترتيب بديل."
+   }
+  ],
+  "vocab": [
+   [
+    "unavailable",
+    "not accessible",
+    "غير متاح"
+   ],
+   [
+    "upgrade",
+    "improve",
+    "يطوّر"
+   ],
+   [
+    "wired",
+    "using cables",
+    "سلكي"
+   ],
+   [
+    "affected",
+    "impacted",
+    "متأثر"
+   ],
+   [
+    "arrange",
+    "organize",
+    "يرتّب"
+   ]
+  ]
+ },
+ {
+  "type": "listen_announcement",
+  "topic": "Exam schedule",
+  "audio": [
+   [
+    "us",
+    "The final exam schedule has been posted on the registrar's website. Please check for conflicts, especially if two exams are scheduled at the same time. Students with three exams in one day may request a rescheduling by Friday. Late requests will not be considered. Exam rooms will be announced one week before the first exam."
+   ]
+  ],
+  "questions": [
+   {
+    "q": "Where is the schedule posted?",
+    "options": [
+     "Registrar's website",
+     "Library",
+     "Dining hall",
+     "Student union"
+    ],
+    "correct": 0,
+    "explanation": "موقع مكتب التسجيل."
+   },
+   {
+    "q": "Who may request rescheduling?",
+    "options": [
+     "Students with three exams in one day",
+     "Everyone",
+     "Only seniors",
+     "Nobody"
+    ],
+    "correct": 0,
+    "explanation": "اللي عندهم ثلاثة امتحانات بنفس اليوم."
+   },
+   {
+    "q": "What happens to late requests?",
+    "options": [
+     "They won't be considered",
+     "They are accepted",
+     "They cost money",
+     "They need approval"
+    ],
+    "correct": 0,
+    "explanation": "الطلبات المتأخرة ما بتنقبل."
+   }
+  ],
+  "vocab": [
+   [
+    "registrar",
+    "records office",
+    "مكتب التسجيل"
+   ],
+   [
+    "conflict",
+    "clash",
+    "تعارض"
+   ],
+   [
+    "request",
+    "ask for",
+    "يطلب"
+   ],
+   [
+    "rescheduling",
+    "changing the time",
+    "إعادة جدولة"
+   ],
+   [
+    "announce",
+    "make public",
+    "يعلن"
+   ]
+  ]
+ },
+ {
+  "type": "listen_announcement",
+  "topic": "Sports event",
+  "audio": [
+   [
+    "au",
+    "The university basketball team will host its first home game this Friday at seven p.m. Students get free admission with a valid ID. Doors open at six, and the first five hundred fans receive a free T-shirt. Food stands will be open throughout the game. Please note that large bags are not permitted."
+   ]
+  ],
+  "questions": [
+   {
+    "q": "What is happening Friday?",
+    "options": [
+     "A home basketball game",
+     "A concert",
+     "A lecture",
+     "An exam"
+    ],
+    "correct": 0,
+    "explanation": "أول مباراة على أرضهم بكرة السلة."
+   },
+   {
+    "q": "Who gets free admission?",
+    "options": [
+     "Students with a valid ID",
+     "Everyone",
+     "Staff only",
+     "Alumni"
+    ],
+    "correct": 0,
+    "explanation": "الطلاب بهوية سارية."
+   },
+   {
+    "q": "What is not permitted?",
+    "options": [
+     "Large bags",
+     "Food",
+     "Phones",
+     "Cameras"
+    ],
+    "correct": 0,
+    "explanation": "الحقائب الكبيرة ممنوعة."
+   }
+  ],
+  "vocab": [
+   [
+    "host",
+    "organize at home",
+    "يستضيف"
+   ],
+   [
+    "admission",
+    "entry",
+    "دخول"
+   ],
+   [
+    "valid",
+    "not expired",
+    "ساري"
+   ],
+   [
+    "fan",
+    "supporter",
+    "مشجّع"
+   ],
+   [
+    "permitted",
+    "allowed",
+    "مسموح"
+   ]
+  ]
+ },
+ {
+  "type": "listen_announcement",
+  "topic": "Art exhibit",
+  "audio": [
+   [
+    "uk",
+    "The Student Art Gallery is now showing an exhibit called Urban Reflections, featuring photography and sculpture by graduating seniors. The exhibit is open daily from noon to six through the end of the month. Admission is free, and guided tours are offered on Saturdays at two. Visitors are asked not to touch the artwork."
+   ]
+  ],
+  "questions": [
+   {
+    "q": "What is the exhibit called?",
+    "options": [
+     "Urban Reflections",
+     "City Lights",
+     "Student Voices",
+     "Modern Forms"
+    ],
+    "correct": 0,
+    "explanation": "اسم المعرض Urban Reflections."
+   },
+   {
+    "q": "When are guided tours offered?",
+    "options": [
+     "Saturdays at two",
+     "Daily at noon",
+     "Sundays at six",
+     "Fridays at four"
+    ],
+    "correct": 0,
+    "explanation": "الجولات يوم السبت الساعة 2."
+   },
+   {
+    "q": "What are visitors asked to do?",
+    "options": [
+     "Not touch the artwork",
+     "Take photos",
+     "Pay a fee",
+     "Bring a guide"
+    ],
+    "correct": 0,
+    "explanation": "ممنوع لمس الأعمال الفنية."
+   }
+  ],
+  "vocab": [
+   [
+    "exhibit",
+    "display",
+    "معرض"
+   ],
+   [
+    "sculpture",
+    "3D artwork",
+    "منحوتة"
+   ],
+   [
+    "graduating",
+    "finishing studies",
+    "متخرّج"
+   ],
+   [
+    "guided tour",
+    "tour with a guide",
+    "جولة مع مرشد"
+   ],
+   [
+    "artwork",
+    "piece of art",
+    "عمل فني"
+   ]
+  ]
+ },
+ {
+  "type": "listen_announcement",
+  "topic": "Library holiday hours",
+  "audio": [
+   [
+    "us",
+    "Please note the library's holiday hours. On Thursday and Friday, the library will close at four p.m. On Saturday and Sunday, it will remain closed. Regular hours resume on Monday at eight a.m. Items due during the closure will be automatically extended until Tuesday, and no fines will be charged."
+   ]
+  ],
+  "questions": [
+   {
+    "q": "When does the library close Thursday and Friday?",
+    "options": [
+     "Four p.m.",
+     "Midnight",
+     "Noon",
+     "Eight p.m."
+    ],
+    "correct": 0,
+    "explanation": "الساعة 4 مساءً."
+   },
+   {
+    "q": "When do regular hours resume?",
+    "options": [
+     "Monday at eight",
+     "Saturday",
+     "Tuesday",
+     "Sunday"
+    ],
+    "correct": 0,
+    "explanation": "الإثنين الساعة 8 صباحاً."
+   },
+   {
+    "q": "What happens to items due during the closure?",
+    "options": [
+     "They are extended until Tuesday",
+     "They are fined",
+     "They are lost",
+     "They must be returned early"
+    ],
+    "correct": 0,
+    "explanation": "تتمدّد تلقائياً لحد الثلاثاء بدون غرامة."
+   }
+  ],
+  "vocab": [
+   [
+    "resume",
+    "restart",
+    "يستأنف"
+   ],
+   [
+    "closure",
+    "period of being closed",
+    "إغلاق"
+   ],
+   [
+    "extend",
+    "lengthen",
+    "يمدّد"
+   ],
+   [
+    "fine",
+    "penalty",
+    "غرامة"
+   ],
+   [
+    "regular hours",
+    "normal opening times",
+    "الدوام الاعتيادي"
+   ]
+  ]
+ },
+ {
+  "type": "listen_announcement",
+  "topic": "Airport shuttle",
+  "audio": [
+   [
+    "au",
+    "Students traveling during the winter break can use the airport shuttle service. Departures are at six, nine, and noon from the north gate. Tickets cost fifteen dollars and must be reserved at least twenty-four hours in advance. Luggage is limited to two bags per passenger. No refunds are available after booking."
+   ]
+  ],
+  "questions": [
+   {
+    "q": "Where does the shuttle depart from?",
+    "options": [
+     "The north gate",
+     "The library",
+     "The airport",
+     "The dining hall"
+    ],
+    "correct": 0,
+    "explanation": "من البوابة الشمالية."
+   },
+   {
+    "q": "How early must tickets be reserved?",
+    "options": [
+     "24 hours",
+     "One week",
+     "One hour",
+     "Same day"
+    ],
+    "correct": 0,
+    "explanation": "قبل 24 ساعة على الأقل."
+   },
+   {
+    "q": "What is the luggage limit?",
+    "options": [
+     "Two bags",
+     "One bag",
+     "Four bags",
+     "No limit"
+    ],
+    "correct": 0,
+    "explanation": "حقيبتين لكل راكب."
+   }
+  ],
+  "vocab": [
+   [
+    "shuttle",
+    "short-route bus",
+    "حافلة مكوكية"
+   ],
+   [
+    "departure",
+    "leaving time",
+    "إقلاع / مغادرة"
+   ],
+   [
+    "reserve",
+    "book",
+    "يحجز"
+   ],
+   [
+    "luggage",
+    "baggage",
+    "أمتعة"
+   ],
+   [
+    "refund",
+    "money back",
+    "استرداد"
+   ]
+  ]
+ },
+ {
+  "type": "listen_announcement",
+  "topic": "Research symposium",
+  "audio": [
+   [
+    "us",
+    "Undergraduate students are invited to submit abstracts for the annual research symposium. Abstracts must be limited to two hundred fifty words and submitted online by March first. Selected participants will give a ten-minute presentation or present a poster. Faculty mentors may help with preparation. Certificates will be given to all presenters."
+   ]
+  ],
+  "questions": [
+   {
+    "q": "What is the abstract word limit?",
+    "options": [
+     "250",
+     "100",
+     "500",
+     "1000"
+    ],
+    "correct": 0,
+    "explanation": "250 كلمة بحد أقصى."
+   },
+   {
+    "q": "What is the deadline?",
+    "options": [
+     "March 1",
+     "April 1",
+     "February 1",
+     "May 1"
+    ],
+    "correct": 0,
+    "explanation": "أول آذار عبر الإنترنت."
+   },
+   {
+    "q": "What will selected participants do?",
+    "options": [
+     "Give a presentation or poster",
+     "Write a paper",
+     "Take an exam",
+     "Teach a class"
+    ],
+    "correct": 0,
+    "explanation": "عرض عشر دقايق أو ملصق."
+   }
+  ],
+  "vocab": [
+   [
+    "symposium",
+    "academic conference",
+    "ندوة / مؤتمر"
+   ],
+   [
+    "abstract",
+    "short summary",
+    "ملخّص بحثي"
+   ],
+   [
+    "undergraduate",
+    "bachelor's student",
+    "طالب بكالوريوس"
+   ],
+   [
+    "poster",
+    "visual display",
+    "ملصق علمي"
+   ],
+   [
+    "mentor",
+    "adviser",
+    "مرشد"
+   ]
+  ]
+ },
+ {
+  "type": "listen_announcement",
+  "topic": "Study rooms",
+  "audio": [
+   [
+    "uk",
+    "The library has introduced a new online system for reserving group study rooms. Rooms can be booked for up to two hours per day, and bookings must be made at least one hour in advance. If you do not arrive within ten minutes of your reservation, the room will be released to others. The system also sends reminder emails."
+   ]
+  ],
+  "questions": [
+   {
+    "q": "How long can a room be booked per day?",
+    "options": [
+     "Up to two hours",
+     "Up to four hours",
+     "One hour",
+     "All day"
+    ],
+    "correct": 0,
+    "explanation": "حتى ساعتين باليوم."
+   },
+   {
+    "q": "What happens if you arrive late?",
+    "options": [
+     "The room is released after ten minutes",
+     "You pay a fee",
+     "You lose your account",
+     "Nothing"
+    ],
+    "correct": 0,
+    "explanation": "بعد 10 دقايق بيعطوا الغرفة لغيرك."
+   },
+   {
+    "q": "What else does the system do?",
+    "options": [
+     "Sends reminder emails",
+     "Prints notes",
+     "Records lectures",
+     "Gives grades"
+    ],
+    "correct": 0,
+    "explanation": "بيبعت إيميلات تذكير."
+   }
+  ],
+  "vocab": [
+   [
+    "introduce",
+    "launch",
+    "يطلق"
+   ],
+   [
+    "book",
+    "reserve",
+    "يحجز"
+   ],
+   [
+    "in advance",
+    "beforehand",
+    "مسبقاً"
+   ],
+   [
+    "release",
+    "give up",
+    "يُفرَج عن"
+   ],
+   [
+    "reminder",
+    "prompt",
+    "تذكير"
+   ]
+  ]
+ },
+ {
+  "type": "listen_announcement",
+  "topic": "Bike registration",
+  "audio": [
+   [
+    "au",
+    "All students who bring bicycles to campus must register them with campus safety. Registration is free and takes five minutes. You will receive a numbered sticker, which helps recover stolen bikes. Unregistered bikes may be removed from racks after the end of the month. Locks are sold at the bookstore at a discount."
+   ]
+  ],
+  "questions": [
+   {
+    "q": "What must students do with bikes?",
+    "options": [
+     "Register them",
+     "Store them",
+     "Sell them",
+     "Paint them"
+    ],
+    "correct": 0,
+    "explanation": "لازم يسجّلوها عند أمن الحرم."
+   },
+   {
+    "q": "Why is the sticker useful?",
+    "options": [
+     "Helps recover stolen bikes",
+     "Allows parking",
+     "Gives discounts",
+     "Provides insurance"
+    ],
+    "correct": 0,
+    "explanation": "بتساعد باسترجاع الدراجات المسروقة."
+   },
+   {
+    "q": "What may happen to unregistered bikes?",
+    "options": [
+     "Removed from racks",
+     "Fined",
+     "Donated",
+     "Washed"
+    ],
+    "correct": 0,
+    "explanation": "ممكن ينشالوا من الحوامل بعد آخر الشهر."
+   }
+  ],
+  "vocab": [
+   [
+    "register",
+    "officially record",
+    "يسجّل"
+   ],
+   [
+    "rack",
+    "storage stand",
+    "حامل"
+   ],
+   [
+    "recover",
+    "get back",
+    "يستعيد"
+   ],
+   [
+    "campus safety",
+    "security office",
+    "أمن الحرم"
+   ],
+   [
+    "lock",
+    "security device",
+    "قفل"
+   ]
+  ]
+ },
+ {
+  "type": "listen_announcement",
+  "topic": "Student election",
+  "audio": [
+   [
+    "us",
+    "Voting for student government representatives will take place online next Monday through Wednesday. Every enrolled student is eligible to vote. Candidate profiles are available on the student portal, and a debate will be held tomorrow at six in the student union. Results will be announced on Thursday morning."
+   ]
+  ],
+  "questions": [
+   {
+    "q": "How will voting take place?",
+    "options": [
+     "Online",
+     "In person only",
+     "By mail",
+     "By phone"
+    ],
+    "correct": 0,
+    "explanation": "التصويت أونلاين."
+   },
+   {
+    "q": "Who can vote?",
+    "options": [
+     "Every enrolled student",
+     "Only seniors",
+     "Only candidates",
+     "Staff"
+    ],
+    "correct": 0,
+    "explanation": "كل طالب مسجّل."
+   },
+   {
+    "q": "When will results be announced?",
+    "options": [
+     "Thursday morning",
+     "Monday",
+     "Wednesday night",
+     "Next week"
+    ],
+    "correct": 0,
+    "explanation": "صباح الخميس."
+   }
+  ],
+  "vocab": [
+   [
+    "representative",
+    "delegate",
+    "ممثّل"
+   ],
+   [
+    "eligible",
+    "qualified",
+    "مؤهَّل"
+   ],
+   [
+    "candidate",
+    "person running",
+    "مرشّح"
+   ],
+   [
+    "debate",
+    "structured argument",
+    "مناظرة"
+   ],
+   [
+    "profile",
+    "summary of a person",
+    "ملف تعريفي"
+   ]
+  ]
+ },
+ {
+  "type": "listen_announcement",
+  "topic": "Blood drive",
+  "audio": [
+   [
+    "uk",
+    "The Red Cross will hold a blood drive in the student union on Wednesday from ten to three. Donors should eat a meal beforehand and drink plenty of water. Appointments are recommended but walk-ins are welcome. Each donor receives a voucher for a free coffee. The donation takes about thirty minutes."
+   ]
+  ],
+  "questions": [
+   {
+    "q": "Where will the blood drive be held?",
+    "options": [
+     "Student union",
+     "Library",
+     "Gym",
+     "Cafeteria"
+    ],
+    "correct": 0,
+    "explanation": "بمبنى اتحاد الطلبة."
+   },
+   {
+    "q": "What should donors do beforehand?",
+    "options": [
+     "Eat a meal and drink water",
+     "Fast",
+     "Exercise",
+     "Take medicine"
+    ],
+    "correct": 0,
+    "explanation": "ياكلوا وجبة ويشربوا مي كتير."
+   },
+   {
+    "q": "What does each donor receive?",
+    "options": [
+     "A coffee voucher",
+     "A T-shirt",
+     "Cash",
+     "A certificate"
+    ],
+    "correct": 0,
+    "explanation": "قسيمة قهوة مجانية."
+   }
+  ],
+  "vocab": [
+   [
+    "blood drive",
+    "donation event",
+    "حملة تبرع بالدم"
+   ],
+   [
+    "donor",
+    "giver",
+    "متبرّع"
+   ],
+   [
+    "beforehand",
+    "in advance",
+    "مسبقاً"
+   ],
+   [
+    "walk-in",
+    "visitor without appointment",
+    "بدون موعد"
+   ],
+   [
+    "voucher",
+    "coupon",
+    "قسيمة"
+   ]
+  ]
+ },
+ {
+  "type": "listen_announcement",
+  "topic": "Recycling",
+  "audio": [
+   [
+    "au",
+    "The university is launching a new recycling program in all residence halls. Blue bins are for paper and plastic, green bins for glass, and gray bins for general waste. Please rinse containers before recycling. Contaminated items may be rejected. Educational posters will be placed near each bin to help you sort correctly."
+   ]
+  ],
+  "questions": [
+   {
+    "q": "What goes in blue bins?",
+    "options": [
+     "Paper and plastic",
+     "Glass",
+     "General waste",
+     "Metal"
+    ],
+    "correct": 0,
+    "explanation": "الأزرق للورق والبلاستيك."
+   },
+   {
+    "q": "What should be done before recycling containers?",
+    "options": [
+     "Rinse them",
+     "Crush them",
+     "Label them",
+     "Freeze them"
+    ],
+    "correct": 0,
+    "explanation": "اشطفوها."
+   },
+   {
+    "q": "Why will posters be placed near bins?",
+    "options": [
+     "To help sort correctly",
+     "To advertise",
+     "To warn",
+     "To decorate"
+    ],
+    "correct": 0,
+    "explanation": "لمساعدة الفرز الصحيح."
+   }
+  ],
+  "vocab": [
+   [
+    "launch",
+    "start",
+    "يطلق"
+   ],
+   [
+    "bin",
+    "container",
+    "حاوية"
+   ],
+   [
+    "rinse",
+    "wash lightly",
+    "يشطف"
+   ],
+   [
+    "contaminated",
+    "polluted",
+    "ملوَّث"
+   ],
+   [
+    "sort",
+    "separate",
+    "يفرز"
+   ]
+  ]
+ },
+ {
+  "type": "listen_announcement",
+  "topic": "Language exchange",
+  "audio": [
+   [
+    "us",
+    "The International Office is organizing a language exchange evening this Friday at six in the student center. Students can practice Spanish, Arabic, French, and Mandarin with native speakers. Conversation partners will be matched by language level. Snacks from different cultures will be served. No registration is needed, just come and join."
+   ]
+  ],
+  "questions": [
+   {
+    "q": "When is the language exchange?",
+    "options": [
+     "Friday at six",
+     "Thursday at six",
+     "Saturday morning",
+     "Monday"
+    ],
+    "correct": 0,
+    "explanation": "الجمعة الساعة 6 مساءً."
+   },
+   {
+    "q": "How are partners matched?",
+    "options": [
+     "By language level",
+     "By major",
+     "By age",
+     "Randomly"
+    ],
+    "correct": 0,
+    "explanation": "حسب مستوى اللغة."
+   },
+   {
+    "q": "What is required?",
+    "options": [
+     "No registration",
+     "An ID",
+     "A fee",
+     "A reference"
+    ],
+    "correct": 0,
+    "explanation": "ما في تسجيل، بس تعال وانضمّ."
+   }
+  ],
+  "vocab": [
+   [
+    "exchange",
+    "mutual practice",
+    "تبادل"
+   ],
+   [
+    "native speaker",
+    "mother-tongue speaker",
+    "متحدّث أصلي"
+   ],
+   [
+    "matched",
+    "paired",
+    "مطابَق"
+   ],
+   [
+    "level",
+    "degree",
+    "مستوى"
+   ],
+   [
+    "snack",
+    "light food",
+    "وجبة خفيفة"
+   ]
+  ]
+ },
+ {
+  "type": "listen_announcement",
+  "topic": "Graduation rehearsal",
+  "audio": [
+   [
+    "uk",
+    "Graduating students, your rehearsal will be held on Thursday at two p.m. in the stadium. Attendance is mandatory, because we will practice entering and receiving diplomas. Caps and gowns can be picked up at the bookstore beginning Monday. Each graduate may reserve four guest tickets through the online system."
+   ]
+  ],
+  "questions": [
+   {
+    "q": "Where is the rehearsal?",
+    "options": [
+     "The stadium",
+     "The library",
+     "A classroom",
+     "The gym"
+    ],
+    "correct": 0,
+    "explanation": "بالملعب."
+   },
+   {
+    "q": "Why is attendance mandatory?",
+    "options": [
+     "To practice the ceremony",
+     "To pay fees",
+     "To sign forms",
+     "To pick caps"
+    ],
+    "correct": 0,
+    "explanation": "لتدرّب الدخول واستلام الشهادات."
+   },
+   {
+    "q": "How many guest tickets can each graduate reserve?",
+    "options": [
+     "Four",
+     "Two",
+     "Six",
+     "One"
+    ],
+    "correct": 0,
+    "explanation": "أربع تذاكر."
+   }
+  ],
+  "vocab": [
+   [
+    "rehearsal",
+    "practice",
+    "بروفة"
+   ],
+   [
+    "mandatory",
+    "compulsory",
+    "إلزامي"
+   ],
+   [
+    "diploma",
+    "degree certificate",
+    "شهادة تخرّج"
+   ],
+   [
+    "gown",
+    "academic robe",
+    "رداء أكاديمي"
+   ],
+   [
+    "guest",
+    "visitor",
+    "ضيف"
+   ]
+  ]
+ },
+ {
+  "type": "listen_announcement",
+  "topic": "Course registration",
+  "audio": [
+   [
+    "au",
+    "Course registration for next semester opens on Monday at eight a.m. Registration times are assigned by credit hours, with seniors going first. Please meet with your advisor before registering to confirm your plan. Waitlists will be available for full courses. Changes can be made until the end of the first week of classes."
+   ]
+  ],
+  "questions": [
+   {
+    "q": "When does registration open?",
+    "options": [
+     "Monday at eight",
+     "Friday",
+     "Tuesday at ten",
+     "Next month"
+    ],
+    "correct": 0,
+    "explanation": "الإثنين الساعة 8 صباحاً."
+   },
+   {
+    "q": "Who registers first?",
+    "options": [
+     "Seniors",
+     "Freshmen",
+     "Transfers",
+     "Staff"
+    ],
+    "correct": 0,
+    "explanation": "طلاب السنة الأخيرة."
+   },
+   {
+    "q": "What should students do before registering?",
+    "options": [
+     "Meet their advisor",
+     "Pay fees",
+     "Buy books",
+     "Visit the dean"
+    ],
+    "correct": 0,
+    "explanation": "يقابلوا مرشدهم الأكاديمي."
+   }
+  ],
+  "vocab": [
+   [
+    "registration",
+    "enrollment",
+    "تسجيل"
+   ],
+   [
+    "credit hours",
+    "course units",
+    "ساعات معتمدة"
+   ],
+   [
+    "advisor",
+    "guide",
+    "مرشد"
+   ],
+   [
+    "waitlist",
+    "queue for places",
+    "قائمة انتظار"
+   ],
+   [
+    "confirm",
+    "verify",
+    "يؤكّد"
+   ]
+  ]
+ },
+ {
+  "type": "listen_talk",
+  "topic": "Ocean acidification",
+  "audio": [
+   [
+    "us",
+    "Today I'd like to discuss ocean acidification. When the ocean absorbs carbon dioxide from the atmosphere, a chemical reaction lowers the water's pH, making it more acidic. This matters because many marine organisms, such as oysters and corals, build shells and skeletons from calcium carbonate. In more acidic water, this material dissolves more easily, making it harder for these animals to grow. Studies in coastal hatcheries have already reported declines in young oysters. Scientists emphasize, however, that effects vary by species, and some organisms may adapt over time."
+   ]
+  ],
+  "questions": [
+   {
+    "q": "What causes ocean acidification?",
+    "options": [
+     "Absorption of carbon dioxide",
+     "Oil spills",
+     "Overfishing",
+     "Warm currents"
+    ],
+    "correct": 0,
+    "explanation": "المحيط بيمتص ثاني أكسيد الكربون وهالشي بيخفّض الـ pH."
+   },
+   {
+    "q": "Why are shell-building animals affected?",
+    "options": [
+     "Calcium carbonate dissolves more easily",
+     "They lose food",
+     "They cannot swim",
+     "They overheat"
+    ],
+    "correct": 0,
+    "explanation": "كربونات الكالسيوم بتذوب بسهولة بالماء الحمضي."
+   },
+   {
+    "q": "What does the professor say about effects?",
+    "options": [
+     "They vary by species",
+     "They are identical",
+     "They are reversible quickly",
+     "They are exaggerated"
+    ],
+    "correct": 0,
+    "explanation": "قال التأثيرات بتختلف حسب النوع وبعضها ممكن يتكيّف."
+   }
+  ],
+  "vocab": [
+   [
+    "acidification",
+    "becoming acidic",
+    "تحمّض"
+   ],
+   [
+    "absorb",
+    "take in",
+    "يمتص"
+   ],
+   [
+    "calcium carbonate",
+    "chalk-like compound",
+    "كربونات الكالسيوم"
+   ],
+   [
+    "dissolve",
+    "break down in liquid",
+    "يذوب"
+   ],
+   [
+    "hatchery",
+    "breeding facility",
+    "مفقس"
+   ]
+  ]
+ },
+ {
+  "type": "listen_talk",
+  "topic": "The Silk Road",
+  "audio": [
+   [
+    "uk",
+    "The Silk Road was not a single road but a network of trade routes connecting China, Central Asia, the Middle East, and Europe. Although silk was a famous export, merchants also traded spices, metals, and glass. Equally important, the routes carried ideas, religions, and technologies, such as paper making. Historians note that few merchants traveled the full distance; goods usually passed through many intermediaries. This system made cities along the route, like Samarkand, wealthy and cosmopolitan centers of learning."
+   ]
+  ],
+  "questions": [
+   {
+    "q": "What was the Silk Road?",
+    "options": [
+     "A network of trade routes",
+     "One highway",
+     "A canal",
+     "A river"
+    ],
+    "correct": 0,
+    "explanation": "شبكة طرق تجارية مو طريق واحد."
+   },
+   {
+    "q": "What else traveled along it besides goods?",
+    "options": [
+     "Ideas, religions, and technologies",
+     "Armies only",
+     "Animals only",
+     "Money only"
+    ],
+    "correct": 0,
+    "explanation": "كمان أفكار وأديان وتقنيات متل صناعة الورق."
+   },
+   {
+    "q": "How did goods usually travel?",
+    "options": [
+     "Through many intermediaries",
+     "By one merchant",
+     "By sea only",
+     "By air"
+    ],
+    "correct": 0,
+    "explanation": "قليل من التجار قطعوا المسافة كاملة."
+   }
+  ],
+  "vocab": [
+   [
+    "network",
+    "connected system",
+    "شبكة"
+   ],
+   [
+    "merchant",
+    "trader",
+    "تاجر"
+   ],
+   [
+    "intermediary",
+    "middleman",
+    "وسيط"
+   ],
+   [
+    "cosmopolitan",
+    "international in character",
+    "عالمي / متعدد الثقافات"
+   ],
+   [
+    "export",
+    "goods sent abroad",
+    "صادرات"
+   ]
+  ]
+ },
+ {
+  "type": "listen_talk",
+  "topic": "Cognitive dissonance",
+  "audio": [
+   [
+    "au",
+    "Cognitive dissonance is the discomfort we feel when our beliefs and our actions conflict. For example, a person who values health but smokes experiences tension. To reduce this discomfort, people often change their beliefs rather than their behavior, perhaps by convincing themselves that the risks are exaggerated. In a classic experiment, participants who were paid very little to lie about a boring task later rated the task as more enjoyable than those paid a lot. The small payment gave them no external justification, so they changed their attitude instead."
+   ]
+  ],
+  "questions": [
+   {
+    "q": "What is cognitive dissonance?",
+    "options": [
+     "Discomfort when beliefs and actions conflict",
+     "A memory disorder",
+     "A learning style",
+     "A type of intelligence"
+    ],
+    "correct": 0,
+    "explanation": "الانزعاج لما معتقداتنا وتصرفاتنا ما بتتوافق."
+   },
+   {
+    "q": "How do people reduce it?",
+    "options": [
+     "Often by changing beliefs",
+     "Always by changing behavior",
+     "By ignoring others",
+     "By sleeping"
+    ],
+    "correct": 0,
+    "explanation": "غالباً بيغيّروا معتقداتهم بدل سلوكهم."
+   },
+   {
+    "q": "What did the experiment show?",
+    "options": [
+     "Small payment led to changed attitudes",
+     "Large payment improved enjoyment",
+     "Participants refused to lie",
+     "Tasks were interesting"
+    ],
+    "correct": 0,
+    "explanation": "اللي أخدوا مبلغ صغير غيّروا موقفهم تجاه المهمة."
+   }
+  ],
+  "vocab": [
+   [
+    "dissonance",
+    "inner conflict",
+    "تنافر"
+   ],
+   [
+    "tension",
+    "strain",
+    "توتّر"
+   ],
+   [
+    "exaggerate",
+    "overstate",
+    "يبالغ"
+   ],
+   [
+    "justification",
+    "reason",
+    "مبرّر"
+   ],
+   [
+    "attitude",
+    "opinion",
+    "موقف / اتجاه"
+   ]
+  ]
+ },
+ {
+  "type": "listen_talk",
+  "topic": "Price ceilings",
+  "audio": [
+   [
+    "us",
+    "A price ceiling is a legal maximum price, often imposed to protect consumers. Rent control is a common example. In the short term, tenants benefit from lower rents. However, economists warn about side effects. When prices are held below the market level, demand rises while supply falls, because landlords earn less profit and may reduce maintenance or convert units to other uses. The result can be shortages and long waiting lists. Supporters argue that well-designed policies, combined with new construction, can limit these problems."
+   ]
+  ],
+  "questions": [
+   {
+    "q": "What is a price ceiling?",
+    "options": [
+     "A legal maximum price",
+     "A minimum wage",
+     "A tax",
+     "A subsidy"
+    ],
+    "correct": 0,
+    "explanation": "سقف قانوني للسعر."
+   },
+   {
+    "q": "What problem might it cause?",
+    "options": [
+     "Shortages",
+     "Surpluses",
+     "Lower demand",
+     "Higher quality"
+    ],
+    "correct": 0,
+    "explanation": "الطلب بيرتفع والعرض بيقلّ فبتحصل نقص."
+   },
+   {
+    "q": "What do supporters suggest?",
+    "options": [
+     "Combine it with new construction",
+     "Abolish rent",
+     "Raise prices",
+     "Ignore landlords"
+    ],
+    "correct": 0,
+    "explanation": "سياسات مصمّمة جيداً مع بناء جديد."
+   }
+  ],
+  "vocab": [
+   [
+    "price ceiling",
+    "maximum price limit",
+    "سقف سعري"
+   ],
+   [
+    "impose",
+    "enforce",
+    "يفرض"
+   ],
+   [
+    "supply",
+    "amount offered",
+    "عرض"
+   ],
+   [
+    "shortage",
+    "lack",
+    "نقص"
+   ],
+   [
+    "maintenance",
+    "upkeep",
+    "صيانة"
+   ]
+  ]
+ },
+ {
+  "type": "listen_talk",
+  "topic": "Mangrove forests",
+  "audio": [
+   [
+    "uk",
+    "Mangrove forests grow along tropical coastlines where fresh and salt water mix. Their dense roots slow waves, protecting shorelines from storms and erosion. They also store large amounts of carbon, often more per hectare than inland forests. Moreover, the roots provide nursery habitat for young fish, supporting local fisheries. Despite these benefits, mangroves are cleared for shrimp farms and development. Restoration projects have shown promise, but replanting works best when local hydrology is restored first."
+   ]
+  ],
+  "questions": [
+   {
+    "q": "How do mangroves protect coastlines?",
+    "options": [
+     "Roots slow waves",
+     "Leaves block wind",
+     "They absorb oil",
+     "They create salt"
+    ],
+    "correct": 0,
+    "explanation": "الجذور الكثيفة بتبطّئ الأمواج."
+   },
+   {
+    "q": "Why are they valuable for climate?",
+    "options": [
+     "They store large amounts of carbon",
+     "They emit methane",
+     "They cool the ocean",
+     "They block sunlight"
+    ],
+    "correct": 0,
+    "explanation": "بتخزّن كربون أكتر من غابات اليابسة."
+   },
+   {
+    "q": "What is said about restoration?",
+    "options": [
+     "Works best when hydrology is restored first",
+     "Always succeeds",
+     "Is impossible",
+     "Needs only seeds"
+    ],
+    "correct": 0,
+    "explanation": "بتنجح أكتر لما نصلّح الجريان المائي أول."
+   }
+  ],
+  "vocab": [
+   [
+    "mangrove",
+    "coastal tree",
+    "شجر القرم (المانغروف)"
+   ],
+   [
+    "shoreline",
+    "coast",
+    "خط الساحل"
+   ],
+   [
+    "hectare",
+    "land unit",
+    "هكتار"
+   ],
+   [
+    "hydrology",
+    "water movement",
+    "الهيدرولوجيا"
+   ],
+   [
+    "restoration",
+    "repair",
+    "ترميم"
+   ]
+  ]
+ },
+ {
+  "type": "listen_talk",
+  "topic": "Public goods",
+  "audio": [
+   [
+    "au",
+    "Economists define public goods as goods that are non-excludable and non-rivalrous. Non-excludable means it is difficult to prevent people from using them, and non-rivalrous means one person's use does not reduce another's. National defense and clean air are classic examples. These goods create the free-rider problem: individuals benefit without paying, so private markets tend to under-supply them. That is why governments typically provide public goods using tax revenue, although communities sometimes organize voluntary alternatives."
+   ]
+  ],
+  "questions": [
+   {
+    "q": "What characterizes public goods?",
+    "options": [
+     "Non-excludable and non-rivalrous",
+     "Expensive and rare",
+     "Private and exclusive",
+     "Luxury and limited"
+    ],
+    "correct": 0,
+    "explanation": "ما بنقدر نمنع أحد منها واستخدام شخص ما بيقلل على التاني."
+   },
+   {
+    "q": "What is the free-rider problem?",
+    "options": [
+     "People benefit without paying",
+     "People pay twice",
+     "People avoid taxes illegally",
+     "People travel free"
+    ],
+    "correct": 0,
+    "explanation": "ناس بتستفيد بدون ما تدفع."
+   },
+   {
+    "q": "Why does government usually provide them?",
+    "options": [
+     "Private markets under-supply them",
+     "They are cheap",
+     "They are illegal",
+     "They are optional"
+    ],
+    "correct": 0,
+    "explanation": "الأسواق الخاصة بتقدّم منها أقل من اللازم."
+   }
+  ],
+  "vocab": [
+   [
+    "public good",
+    "shared resource",
+    "سلعة عامة"
+   ],
+   [
+    "non-excludable",
+    "can't be restricted",
+    "لا يمكن استثناء أحد"
+   ],
+   [
+    "free-rider",
+    "non-payer who benefits",
+    "المنتفع المجاني"
+   ],
+   [
+    "revenue",
+    "income",
+    "إيرادات"
+   ],
+   [
+    "voluntary",
+    "by choice",
+    "طوعي"
+   ]
+  ]
+ },
+ {
+  "type": "listen_talk",
+  "topic": "The bilingual brain",
+  "audio": [
+   [
+    "us",
+    "Research on bilingualism suggests that knowing two languages may strengthen executive control, the mental processes that manage attention and switching tasks. Bilinguals constantly suppress one language while using the other, which acts like mental training. Some studies report that bilingual individuals show symptoms of age-related decline slightly later. Nevertheless, scientists disagree about the size of these effects, and some large studies have found little difference. The consensus is cautious: bilingualism has clear social and cultural benefits, with cognitive advantages still debated."
+   ]
+  ],
+  "questions": [
+   {
+    "q": "What may bilingualism strengthen?",
+    "options": [
+     "Executive control",
+     "Eyesight",
+     "Hearing",
+     "Muscles"
+    ],
+    "correct": 0,
+    "explanation": "التحكم التنفيذي: إدارة الانتباه وتبديل المهام."
+   },
+   {
+    "q": "Why is it like mental training?",
+    "options": [
+     "Bilinguals suppress one language while using the other",
+     "They memorize more words",
+     "They read more",
+     "They sleep less"
+    ],
+    "correct": 0,
+    "explanation": "بيكبتوا لغة وهنّ عم يستخدموا التانية."
+   },
+   {
+    "q": "What is the current consensus?",
+    "options": [
+     "Cognitive benefits are still debated",
+     "Benefits are proven",
+     "No benefits at all",
+     "Only children benefit"
+    ],
+    "correct": 0,
+    "explanation": "الفوائد المعرفية لسه محل نقاش."
+   }
+  ],
+  "vocab": [
+   [
+    "bilingualism",
+    "speaking two languages",
+    "ثنائية اللغة"
+   ],
+   [
+    "executive control",
+    "mental management",
+    "التحكم التنفيذي"
+   ],
+   [
+    "suppress",
+    "hold back",
+    "يكبح"
+   ],
+   [
+    "consensus",
+    "general agreement",
+    "إجماع"
+   ],
+   [
+    "cautious",
+    "careful",
+    "حذر"
+   ]
+  ]
+ },
+ {
+  "type": "listen_talk",
+  "topic": "Radiocarbon dating",
+  "audio": [
+   [
+    "uk",
+    "Archaeologists estimate the age of organic materials, such as wood and bone, using radiocarbon dating. Living organisms absorb a small amount of radioactive carbon-14. After death, this isotope decays at a known rate, with a half-life of about 5,700 years. By measuring how much remains, scientists can calculate when the organism died. The method works up to roughly fifty thousand years. However, results must be calibrated, because atmospheric carbon levels have varied over time, and contamination can distort measurements."
+   ]
+  ],
+  "questions": [
+   {
+    "q": "What does radiocarbon dating measure?",
+    "options": [
+     "Remaining carbon-14",
+     "Soil acidity",
+     "Water content",
+     "Metal traces"
+    ],
+    "correct": 0,
+    "explanation": "كمية كربون-14 المتبقية."
+   },
+   {
+    "q": "What is the half-life of carbon-14?",
+    "options": [
+     "About 5,700 years",
+     "About 570 years",
+     "About 50,000 years",
+     "About 57 years"
+    ],
+    "correct": 0,
+    "explanation": "حوالي 5700 سنة."
+   },
+   {
+    "q": "Why must results be calibrated?",
+    "options": [
+     "Atmospheric carbon levels have varied",
+     "Machines are inaccurate",
+     "Wood changes color",
+     "Time is relative"
+    ],
+    "correct": 0,
+    "explanation": "مستويات الكربون بالجو تغيّرت عبر الزمن."
+   }
+  ],
+  "vocab": [
+   [
+    "radiocarbon dating",
+    "age measuring by carbon-14",
+    "التأريخ بالكربون المشع"
+   ],
+   [
+    "isotope",
+    "atom variant",
+    "نظير"
+   ],
+   [
+    "decay",
+    "break down",
+    "يتحلل"
+   ],
+   [
+    "calibrate",
+    "adjust for accuracy",
+    "يعاير"
+   ],
+   [
+    "contamination",
+    "pollution",
+    "تلوث"
+   ]
+  ]
+ },
+ {
+  "type": "listen_talk",
+  "topic": "Volcanoes and climate",
+  "audio": [
+   [
+    "us",
+    "Large volcanic eruptions can temporarily cool the planet. When a volcano erupts, it releases sulfur dioxide into the stratosphere, where it forms tiny particles that reflect sunlight. After the 1991 eruption of Mount Pinatubo, global temperatures dropped by about half a degree Celsius for roughly a year. The effect is short-lived, because particles gradually fall out. In contrast, carbon dioxide from human activity remains in the atmosphere for centuries, so volcanic cooling cannot offset long-term warming."
+   ]
+  ],
+  "questions": [
+   {
+    "q": "How do eruptions cool the planet?",
+    "options": [
+     "Particles reflect sunlight",
+     "Ash blocks wind",
+     "Lava cools oceans",
+     "Smoke absorbs heat"
+    ],
+    "correct": 0,
+    "explanation": "جزيئات الكبريت بتعكس ضوء الشمس."
+   },
+   {
+    "q": "What happened after Pinatubo?",
+    "options": [
+     "Temperatures dropped for about a year",
+     "Temperatures rose",
+     "Nothing",
+     "Ice melted"
+    ],
+    "correct": 0,
+    "explanation": "انخفضت الحرارة حوالي نص درجة لسنة تقريباً."
+   },
+   {
+    "q": "Why can't volcanic cooling offset warming?",
+    "options": [
+     "It is short-lived",
+     "It is too small to measure",
+     "It only occurs in winter",
+     "It is illegal"
+    ],
+    "correct": 0,
+    "explanation": "تأثيرها قصير، بينما CO₂ البشري بيضل لقرون."
+   }
+  ],
+  "vocab": [
+   [
+    "eruption",
+    "volcanic explosion",
+    "ثوران"
+   ],
+   [
+    "stratosphere",
+    "upper atmosphere layer",
+    "الستراتوسفير"
+   ],
+   [
+    "reflect",
+    "bounce back",
+    "يعكس"
+   ],
+   [
+    "short-lived",
+    "temporary",
+    "قصير الأمد"
+   ],
+   [
+    "offset",
+    "compensate for",
+    "يعوّض"
+   ]
+  ]
+ },
+ {
+  "type": "listen_talk",
+  "topic": "Gene editing ethics",
+  "audio": [
+   [
+    "au",
+    "New gene-editing tools allow scientists to modify DNA with unprecedented precision. Supporters highlight the potential to prevent inherited diseases and improve crops. Critics raise ethical concerns, particularly about editing embryos, because changes would be passed to future generations who cannot consent. There is also a fear of inequality if access is limited to wealthy families. Many countries have therefore adopted strict regulations, and scientific bodies call for broad public discussion before any application beyond treatment of serious conditions."
+   ]
+  ],
+  "questions": [
+   {
+    "q": "What do supporters highlight?",
+    "options": [
+     "Preventing inherited diseases and improving crops",
+     "Reducing costs",
+     "Creating new species",
+     "Speeding up evolution"
+    ],
+    "correct": 0,
+    "explanation": "الوقاية من الأمراض الوراثية وتحسين المحاصيل."
+   },
+   {
+    "q": "Why is embryo editing controversial?",
+    "options": [
+     "Changes pass to future generations who can't consent",
+     "It is cheap",
+     "It is slow",
+     "It requires large labs"
+    ],
+    "correct": 0,
+    "explanation": "التغييرات بتنتقل للأجيال القادمة اللي ما بتقدر توافق."
+   },
+   {
+    "q": "What do scientific bodies call for?",
+    "options": [
+     "Broad public discussion",
+     "A total ban",
+     "Faster approval",
+     "Secret trials"
+    ],
+    "correct": 0,
+    "explanation": "نقاش مجتمعي واسع قبل أي تطبيق إضافي."
+   }
+  ],
+  "vocab": [
+   [
+    "gene editing",
+    "DNA modification",
+    "تحرير جيني"
+   ],
+   [
+    "precision",
+    "accuracy",
+    "دقة"
+   ],
+   [
+    "embryo",
+    "early-stage organism",
+    "جنين"
+   ],
+   [
+    "consent",
+    "agree",
+    "يوافق"
+   ],
+   [
+    "regulation",
+    "rule",
+    "تنظيم / قاعدة"
+   ]
+  ]
+ },
+ {
+  "type": "listen_talk",
+  "topic": "Pollination",
+  "audio": [
+   [
+    "uk",
+    "Pollinators, especially bees, are essential for many food crops. When a bee visits a flower, it transfers pollen from one plant to another, enabling fertilization. Scientists estimate that around three quarters of leading crops depend at least partly on animal pollination. Yet pollinator populations are declining due to habitat loss, pesticides, and disease. Farmers can help by planting wildflower strips, reducing pesticide use, and keeping hedgerows that offer shelter. Such measures often cost little but can raise yields."
+   ]
+  ],
+  "questions": [
+   {
+    "q": "What do bees transfer?",
+    "options": [
+     "Pollen",
+     "Seeds",
+     "Water",
+     "Nectar only"
+    ],
+    "correct": 0,
+    "explanation": "بينقلوا حبوب اللقاح بين النباتات."
+   },
+   {
+    "q": "What threatens pollinators?",
+    "options": [
+     "Habitat loss, pesticides, and disease",
+     "Cold weather only",
+     "Too many flowers",
+     "Noise"
+    ],
+    "correct": 0,
+    "explanation": "فقدان المواطن والمبيدات والأمراض."
+   },
+   {
+    "q": "What can farmers do?",
+    "options": [
+     "Plant wildflower strips and reduce pesticides",
+     "Cut hedgerows",
+     "Use more sprays",
+     "Move hives"
+    ],
+    "correct": 0,
+    "explanation": "زراعة أشرطة أزهار برية وتقليل المبيدات."
+   }
+  ],
+  "vocab": [
+   [
+    "pollinator",
+    "pollen carrier",
+    "ملقّح"
+   ],
+   [
+    "pollen",
+    "flower powder",
+    "حبوب اللقاح"
+   ],
+   [
+    "fertilization",
+    "reproduction process",
+    "إخصاب"
+   ],
+   [
+    "pesticide",
+    "insect poison",
+    "مبيد"
+   ],
+   [
+    "yield",
+    "harvest amount",
+    "محصول"
+   ]
+  ]
+ },
+ {
+  "type": "listen_talk",
+  "topic": "Social capital",
+  "audio": [
+   [
+    "us",
+    "Sociologists use the term social capital to describe the networks, trust, and norms that enable people to cooperate. Communities with high social capital often show lower crime, better public health, and stronger local economies. Robert Putnam argued that social capital in the United States declined as people joined fewer clubs and associations. Critics reply that new forms of connection, such as online communities, may replace older ones. The debate shows that measuring social capital is difficult because it depends on how connection is defined."
+   ]
+  ],
+  "questions": [
+   {
+    "q": "What is social capital?",
+    "options": [
+     "Networks, trust, and norms that enable cooperation",
+     "Money invested in society",
+     "Wealth of cities",
+     "Government funding"
+    ],
+    "correct": 0,
+    "explanation": "الشبكات والثقة والأعراف اللي بتسهّل التعاون."
+   },
+   {
+    "q": "What argument did Putnam make?",
+    "options": [
+     "It declined as people joined fewer groups",
+     "It increased",
+     "It is unmeasurable",
+     "It causes crime"
+    ],
+    "correct": 0,
+    "explanation": "قال تراجع لأنو الناس انضمّت لنوادي أقل."
+   },
+   {
+    "q": "What do critics say?",
+    "options": [
+     "Online communities may replace older forms",
+     "Social capital is useless",
+     "Clubs are growing",
+     "Trust is falling"
+    ],
+    "correct": 0,
+    "explanation": "ممكن أشكال جديدة متل المجتمعات الرقمية تعوّض."
+   }
+  ],
+  "vocab": [
+   [
+    "social capital",
+    "value of social networks",
+    "رأس المال الاجتماعي"
+   ],
+   [
+    "norm",
+    "accepted rule",
+    "عُرف"
+   ],
+   [
+    "cooperate",
+    "work together",
+    "يتعاون"
+   ],
+   [
+    "association",
+    "organization",
+    "جمعية"
+   ],
+   [
+    "define",
+    "explain meaning",
+    "يعرّف"
+   ]
+  ]
+ },
+ {
+  "type": "listen_talk",
+  "topic": "Transit and land use",
+  "audio": [
+   [
+    "au",
+    "Urban planners have long known that transportation and land use influence each other. When a new rail line opens, nearby land becomes more valuable, and developers build denser housing and shops around stations. This is called transit-oriented development. It can reduce car use because daily destinations are within walking distance. However, rising property values may displace long-term residents. To address this, some cities require a share of new housing near stations to be affordable."
+   ]
+  ],
+  "questions": [
+   {
+    "q": "What happens when a rail line opens?",
+    "options": [
+     "Nearby land becomes more valuable",
+     "Land becomes cheaper",
+     "Shops close",
+     "Roads widen"
+    ],
+    "correct": 0,
+    "explanation": "الأراضي القريبة بترتفع قيمتها."
+   },
+   {
+    "q": "What is a benefit of transit-oriented development?",
+    "options": [
+     "Less car use",
+     "Higher traffic",
+     "More parking",
+     "Longer commutes"
+    ],
+    "correct": 0,
+    "explanation": "الوجهات اليومية قريبة فبيقلّ استخدام السيارة."
+   },
+   {
+    "q": "How can displacement be addressed?",
+    "options": [
+     "Require affordable housing near stations",
+     "Ban new trains",
+     "Raise rents",
+     "Build highways"
+    ],
+    "correct": 0,
+    "explanation": "فرض نسبة من السكن الميسور قرب المحطات."
+   }
+  ],
+  "vocab": [
+   [
+    "land use",
+    "use of land",
+    "استخدام الأراضي"
+   ],
+   [
+    "developer",
+    "property builder",
+    "مطوّر عقاري"
+   ],
+   [
+    "dense",
+    "closely packed",
+    "كثيف"
+   ],
+   [
+    "displace",
+    "force out",
+    "يُزيح / يهجّر"
+   ],
+   [
+    "affordable",
+    "reasonably priced",
+    "ميسور"
+   ]
+  ]
+ },
+ {
+  "type": "listen_talk",
+  "topic": "The memory palace",
+  "audio": [
+   [
+    "uk",
+    "The memory palace is an ancient technique for memorizing information. Users imagine walking through a familiar place, such as their home, and mentally place vivid images representing each item along the route. To recall the list, they simply walk through the place again and observe the images. The method works because the brain remembers spatial layouts and striking images better than abstract lists. Competitors in memory championships rely on it, and students can use it to learn vocabulary or historical dates."
+   ]
+  ],
+  "questions": [
+   {
+    "q": "What is a memory palace?",
+    "options": [
+     "A technique using imagined places and images",
+     "A building",
+     "A computer program",
+     "A game"
+    ],
+    "correct": 0,
+    "explanation": "تقنية بتستخدم مكان مألوف وصور ذهنية."
+   },
+   {
+    "q": "Why does it work?",
+    "options": [
+     "The brain remembers spatial layouts and striking images well",
+     "It requires no effort",
+     "It uses repetition only",
+     "It avoids images"
+    ],
+    "correct": 0,
+    "explanation": "الدماغ بيتذكّر الأماكن والصور القوية أحسن من القوائم المجرّدة."
+   },
+   {
+    "q": "Who uses it?",
+    "options": [
+     "Memory competitors and students",
+     "Only artists",
+     "Only children",
+     "Only architects"
+    ],
+    "correct": 0,
+    "explanation": "متسابقو الذاكرة والطلاب."
+   }
+  ],
+  "vocab": [
+   [
+    "memorize",
+    "learn by heart",
+    "يحفظ"
+   ],
+   [
+    "vivid",
+    "striking",
+    "حيّ / واضح"
+   ],
+   [
+    "recall",
+    "remember",
+    "يستذكر"
+   ],
+   [
+    "spatial",
+    "about space",
+    "مكاني"
+   ],
+   [
+    "abstract",
+    "not concrete",
+    "مجرّد"
+   ]
+  ]
+ },
+ {
+  "type": "listen_talk",
+  "topic": "Perspective in Renaissance art",
+  "audio": [
+   [
+    "us",
+    "Before the fifteenth century, most European paintings looked flat because artists did not use a consistent system to show depth. The architect Filippo Brunelleschi demonstrated linear perspective, in which parallel lines appear to meet at a single vanishing point on the horizon. Artists such as Masaccio quickly adopted it, producing scenes with convincing space. Historians argue that perspective reflected a wider shift toward measurement and observation in Renaissance culture, anticipating developments in science."
+   ]
+  ],
+  "questions": [
+   {
+    "q": "Why did early paintings look flat?",
+    "options": [
+     "No consistent system to show depth",
+     "Poor paint",
+     "Small canvases",
+     "Bad light"
+    ],
+    "correct": 0,
+    "explanation": "ما كان في نظام موحّد لإظهار العمق."
+   },
+   {
+    "q": "What is linear perspective?",
+    "options": [
+     "Parallel lines appear to meet at a vanishing point",
+     "Using bright colors",
+     "Painting only portraits",
+     "Using thick lines"
+    ],
+    "correct": 0,
+    "explanation": "الخطوط المتوازية بتبدو كأنها بتلتقي بنقطة تلاشي."
+   },
+   {
+    "q": "What do historians suggest?",
+    "options": [
+     "It reflected a shift toward measurement and observation",
+     "It was accidental",
+     "It was ignored",
+     "It hindered science"
+    ],
+    "correct": 0,
+    "explanation": "عكس اتجاه عام نحو القياس والملاحظة."
+   }
+  ],
+  "vocab": [
+   [
+    "perspective",
+    "depiction of depth",
+    "المنظور"
+   ],
+   [
+    "vanishing point",
+    "where lines meet",
+    "نقطة التلاشي"
+   ],
+   [
+    "horizon",
+    "skyline",
+    "أفق"
+   ],
+   [
+    "convincing",
+    "believable",
+    "مقنع"
+   ],
+   [
+    "anticipate",
+    "foreshadow",
+    "يستبق"
+   ]
+  ]
+ },
+ {
+  "type": "listen_talk",
+  "topic": "Natural monopolies",
+  "audio": [
+   [
+    "au",
+    "A natural monopoly occurs when a single firm can supply a market at lower cost than several competitors. This typically happens in industries with high fixed costs, such as water distribution or electricity grids, because duplicating the infrastructure would be wasteful. Left unregulated, a monopolist may charge high prices. Governments therefore either own such firms or regulate their prices. Regulators face a challenge: setting prices low enough to protect consumers but high enough to let the firm invest in maintenance."
+   ]
+  ],
+  "questions": [
+   {
+    "q": "What is a natural monopoly?",
+    "options": [
+     "One firm can supply the market at lower cost",
+     "A firm that cheats",
+     "A foreign company",
+     "A temporary shop"
+    ],
+    "correct": 0,
+    "explanation": "شركة وحدة بتغطي السوق بكلفة أقل من عدة منافسين."
+   },
+   {
+    "q": "Why is duplication wasteful?",
+    "options": [
+     "High fixed infrastructure costs",
+     "Low demand",
+     "Poor quality",
+     "Taxes"
+    ],
+    "correct": 0,
+    "explanation": "بنية تحتية مكلفة جداً (ماء وكهرباء)."
+   },
+   {
+    "q": "What challenge do regulators face?",
+    "options": [
+     "Protect consumers while allowing investment",
+     "Increase competition",
+     "Lower wages",
+     "Stop innovation"
+    ],
+    "correct": 0,
+    "explanation": "أسعار منخفضة لحماية المستهلك وعالية كفاية للصيانة."
+   }
+  ],
+  "vocab": [
+   [
+    "monopoly",
+    "sole supplier",
+    "احتكار"
+   ],
+   [
+    "fixed cost",
+    "unchanging expense",
+    "تكلفة ثابتة"
+   ],
+   [
+    "grid",
+    "network",
+    "شبكة"
+   ],
+   [
+    "regulate",
+    "control by rules",
+    "ينظّم"
+   ],
+   [
+    "duplicate",
+    "copy",
+    "يكرّر"
+   ]
+  ]
+ },
+ {
+  "type": "listen_talk",
+  "topic": "Desalination",
+  "audio": [
+   [
+    "uk",
+    "Desalination removes salt from seawater to produce drinking water. The most common method today is reverse osmosis, in which water is forced through a membrane that blocks salt. It supplies water to arid regions with limited rainfall. However, the process is energy-intensive, and the concentrated brine returned to the sea can harm marine life if not diluted. Researchers are developing more efficient membranes and exploring renewable energy to power plants, which could lower both costs and environmental impact."
+   ]
+  ],
+  "questions": [
+   {
+    "q": "What is reverse osmosis?",
+    "options": [
+     "Forcing water through a membrane that blocks salt",
+     "Boiling water",
+     "Freezing seawater",
+     "Filtering with sand"
+    ],
+    "correct": 0,
+    "explanation": "دفع الماء عبر غشاء بيحجز الملح."
+   },
+   {
+    "q": "What are two drawbacks?",
+    "options": [
+     "High energy use and brine",
+     "Low quality and noise",
+     "Cost and taste",
+     "Slowness and size"
+    ],
+    "correct": 0,
+    "explanation": "استهلاك طاقة كبير وملح مركّز بيضر الحياة البحرية."
+   },
+   {
+    "q": "What are researchers developing?",
+    "options": [
+     "More efficient membranes and renewable-powered plants",
+     "Bigger pipes",
+     "Cheaper salt",
+     "New seas"
+    ],
+    "correct": 0,
+    "explanation": "أغشية أكفأ وطاقة متجددة."
+   }
+  ],
+  "vocab": [
+   [
+    "desalination",
+    "removing salt",
+    "تحلية"
+   ],
+   [
+    "membrane",
+    "thin filter",
+    "غشاء"
+   ],
+   [
+    "arid",
+    "very dry",
+    "جاف"
+   ],
+   [
+    "brine",
+    "very salty water",
+    "محلول ملحي"
+   ],
+   [
+    "dilute",
+    "make weaker",
+    "يخفّف"
+   ]
+  ]
+ },
+ {
+  "type": "listen_talk",
+  "topic": "Bird migration",
+  "audio": [
+   [
+    "us",
+    "Every year, billions of birds migrate between breeding and wintering grounds. Scientists have discovered that birds navigate using multiple cues, including the position of the sun, the stars, and Earth's magnetic field. Some species can travel thousands of kilometers without stopping, relying on fat reserves. Climate change complicates migration, because the timing of insect emergence may shift, leaving birds to arrive when food is scarce. Conservationists therefore protect stopover habitats where birds can rest and refuel."
+   ]
+  ],
+  "questions": [
+   {
+    "q": "What cues do birds use to navigate?",
+    "options": [
+     "Sun, stars, and magnetic field",
+     "Roads",
+     "Rivers only",
+     "Sound only"
+    ],
+    "correct": 0,
+    "explanation": "الشمس والنجوم والمجال المغناطيسي."
+   },
+   {
+    "q": "How does climate change complicate migration?",
+    "options": [
+     "Insect timing shifts",
+     "Winds disappear",
+     "Birds forget routes",
+     "Nights get longer"
+    ],
+    "correct": 0,
+    "explanation": "توقيت ظهور الحشرات بيتغيّر والطيور بتوصل لما الأكل قليل."
+   },
+   {
+    "q": "Why are stopover habitats important?",
+    "options": [
+     "Birds rest and refuel",
+     "Birds breed",
+     "Birds sleep permanently",
+     "Birds avoid humans"
+    ],
+    "correct": 0,
+    "explanation": "بتلزم للراحة وإعادة التزود بالطاقة."
+   }
+  ],
+  "vocab": [
+   [
+    "migrate",
+    "move seasonally",
+    "يهاجر"
+   ],
+   [
+    "navigate",
+    "find the way",
+    "يتنقّل / يهتدي"
+   ],
+   [
+    "magnetic field",
+    "Earth's magnetism",
+    "المجال المغناطيسي"
+   ],
+   [
+    "reserve",
+    "stored amount",
+    "مخزون"
+   ],
+   [
+    "stopover",
+    "rest stop",
+    "محطة توقف"
+   ]
+  ]
+ },
+ {
+  "type": "listen_talk",
+  "topic": "Industrial Revolution and cities",
+  "audio": [
+   [
+    "au",
+    "The Industrial Revolution transformed European cities in the nineteenth century. Factories drew workers from rural areas, and populations of cities like Manchester multiplied within decades. Housing was often overcrowded, and the lack of sanitation led to disease outbreaks. These conditions pushed governments to introduce public health reforms, including sewage systems and clean water supplies. Historians point out that many modern urban planning ideas, such as zoning and public parks, emerged as responses to those early industrial problems."
+   ]
+  ],
+  "questions": [
+   {
+    "q": "Why did city populations grow?",
+    "options": [
+     "Factories drew workers from rural areas",
+     "Wars ended",
+     "Climate improved",
+     "New borders"
+    ],
+    "correct": 0,
+    "explanation": "المصانع جذبت عمالاً من الريف."
+   },
+   {
+    "q": "What problems resulted?",
+    "options": [
+     "Overcrowding and disease",
+     "Unemployment",
+     "Shortage of coal",
+     "Too much housing"
+    ],
+    "correct": 0,
+    "explanation": "اكتظاظ وأمراض بسبب انعدام الصرف الصحي."
+   },
+   {
+    "q": "What did these problems lead to?",
+    "options": [
+     "Public health reforms and planning ideas",
+     "Fewer factories",
+     "More wars",
+     "Rural migration"
+    ],
+    "correct": 0,
+    "explanation": "إصلاحات صحية وأفكار تخطيط حديثة."
+   }
+  ],
+  "vocab": [
+   [
+    "transform",
+    "change completely",
+    "يحوّل"
+   ],
+   [
+    "sanitation",
+    "waste and hygiene systems",
+    "الصرف الصحي"
+   ],
+   [
+    "outbreak",
+    "sudden spread",
+    "تفشٍّ"
+   ],
+   [
+    "zoning",
+    "land-use rules",
+    "تقسيم المناطق"
+   ],
+   [
+    "reform",
+    "improvement",
+    "إصلاح"
+   ]
+  ]
+ },
+ {
+  "type": "listen_talk",
+  "topic": "Classical conditioning",
+  "audio": [
+   [
+    "us",
+    "Classical conditioning, first described by Ivan Pavlov, is a form of learning in which a neutral stimulus becomes associated with a meaningful one. Pavlov noticed that dogs began to salivate when they heard a bell that had repeatedly preceded food. The bell, originally neutral, had become a conditioned stimulus. Psychologists now apply this principle to explain emotional reactions, such as fear of dentists. They also use it in therapy, gradually pairing feared objects with relaxation to reduce anxiety."
+   ]
+  ],
+  "questions": [
+   {
+    "q": "What is classical conditioning?",
+    "options": [
+     "Learning by association between stimuli",
+     "Learning by imitation",
+     "Learning by reading",
+     "Learning by trial and error"
+    ],
+    "correct": 0,
+    "explanation": "ربط محفّز محايد بمحفّز له معنى."
+   },
+   {
+    "q": "What did the dogs learn?",
+    "options": [
+     "The bell predicted food",
+     "Food was bad",
+     "Bells were food",
+     "Humans were dangerous"
+    ],
+    "correct": 0,
+    "explanation": "الجرس صار علامة على الأكل."
+   },
+   {
+    "q": "How is the principle used in therapy?",
+    "options": [
+     "Pairing feared objects with relaxation",
+     "Punishing fears",
+     "Avoiding triggers",
+     "Using medication"
+    ],
+    "correct": 0,
+    "explanation": "بيربطوا الشي المخيف بالاسترخاء تدريجياً."
+   }
+  ],
+  "vocab": [
+   [
+    "conditioning",
+    "learning by association",
+    "الإشراط"
+   ],
+   [
+    "stimulus",
+    "trigger",
+    "محفّز"
+   ],
+   [
+    "salivate",
+    "produce saliva",
+    "يسيل لعابه"
+   ],
+   [
+    "precede",
+    "come before",
+    "يسبق"
+   ],
+   [
+    "anxiety",
+    "worry",
+    "قلق"
+   ]
+  ]
+ },
+ {
+  "type": "listen_talk",
+  "topic": "Microfinance",
+  "audio": [
+   [
+    "uk",
+    "Microfinance provides small loans to people who lack access to traditional banks, often women entrepreneurs in developing countries. Borrowers use the money to start small businesses, such as selling food or tailoring clothes. Many programs use group lending: members guarantee each other's loans, creating social pressure to repay. Supporters say microfinance reduces poverty. However, studies show mixed results, with modest income gains for some and over-indebtedness for others. As a result, experts recommend pairing loans with training and savings services."
+   ]
+  ],
+  "questions": [
+   {
+    "q": "Who typically receives microloans?",
+    "options": [
+     "People lacking access to traditional banks",
+     "Large companies",
+     "Governments",
+     "Students abroad"
+    ],
+    "correct": 0,
+    "explanation": "ناس ما بتقدر توصل للبنوك التقليدية."
+   },
+   {
+    "q": "What is group lending?",
+    "options": [
+     "Members guarantee each other's loans",
+     "Banks lend to groups only",
+     "Loans are free",
+     "Money is split equally"
+    ],
+    "correct": 0,
+    "explanation": "الأعضاء بيكفلوا بعض فيقلّ احتمال عدم السداد."
+   },
+   {
+    "q": "What do experts recommend?",
+    "options": [
+     "Pair loans with training and savings",
+     "Stop lending",
+     "Raise interest",
+     "Lend more"
+    ],
+    "correct": 0,
+    "explanation": "ربط القروض بالتدريب وخدمات الادخار."
+   }
+  ],
+  "vocab": [
+   [
+    "microfinance",
+    "small-scale lending",
+    "التمويل الأصغر"
+   ],
+   [
+    "entrepreneur",
+    "business starter",
+    "رائد أعمال"
+   ],
+   [
+    "guarantee",
+    "assure",
+    "يكفل"
+   ],
+   [
+    "repay",
+    "pay back",
+    "يسدّد"
+   ],
+   [
+    "indebtedness",
+    "owing money",
+    "مديونية"
+   ]
+  ]
+ },
+ {
+  "type": "listen_talk",
+  "topic": "Extremophiles",
+  "audio": [
+   [
+    "au",
+    "Extremophiles are organisms that thrive in conditions once thought impossible for life, such as boiling hot springs, acidic lakes, or deep-sea vents. Some bacteria in geysers survive temperatures above eighty degrees Celsius. Studying them helps scientists understand how life might exist on other planets. Furthermore, enzymes from these organisms are valuable in industry, because they remain stable under heat. A famous example is an enzyme from a hot-spring bacterium that revolutionized DNA analysis."
+   ]
+  ],
+  "questions": [
+   {
+    "q": "What are extremophiles?",
+    "options": [
+     "Organisms that thrive in extreme conditions",
+     "Rare plants",
+     "Very large animals",
+     "Fossils"
+    ],
+    "correct": 0,
+    "explanation": "كائنات بتعيش بظروف قاسية جداً."
+   },
+   {
+    "q": "Why are they scientifically interesting?",
+    "options": [
+     "They suggest how life might exist elsewhere",
+     "They are tasty",
+     "They are easy to grow",
+     "They are rare"
+    ],
+    "correct": 0,
+    "explanation": "بتفسّر إمكانية وجود حياة على كواكب تانية."
+   },
+   {
+    "q": "Why are their enzymes useful?",
+    "options": [
+     "They remain stable under heat",
+     "They are cheap",
+     "They are colorful",
+     "They taste sweet"
+    ],
+    "correct": 0,
+    "explanation": "بتبقى مستقرة بالحرارة العالية."
+   }
+  ],
+  "vocab": [
+   [
+    "extremophile",
+    "organism loving extremes",
+    "كائن محب للظروف القاسية"
+   ],
+   [
+    "thrive",
+    "flourish",
+    "يزدهر"
+   ],
+   [
+    "geyser",
+    "hot water spring",
+    "ينبوع ماء حار"
+   ],
+   [
+    "enzyme",
+    "biological catalyst",
+    "إنزيم"
+   ],
+   [
+    "revolutionize",
+    "transform completely",
+    "يحدث ثورة في"
+   ]
+  ]
+ },
+ {
+  "type": "listen_talk",
+  "topic": "Open-source software",
+  "audio": [
+   [
+    "us",
+    "Open-source software is code that anyone can inspect, modify, and share. Projects such as Linux and many web tools are developed by communities of volunteers and companies. Supporters argue that openness improves security, since many people can find and fix errors. It also encourages innovation, because developers build on each other's work. Critics point out that open-source projects can depend on a few overworked maintainers. Recently, governments have started to adopt open-source tools to reduce costs and avoid dependence on a single vendor."
+   ]
+  ],
+  "questions": [
+   {
+    "q": "What is open-source software?",
+    "options": [
+     "Code anyone can inspect, modify, and share",
+     "Free apps with ads",
+     "Secret code",
+     "Paid software"
+    ],
+    "correct": 0,
+    "explanation": "كود متاح لأي شخص يفحصه ويعدّله ويشاركه."
+   },
+   {
+    "q": "How might openness improve security?",
+    "options": [
+     "Many people can find and fix errors",
+     "Code is encrypted",
+     "Only experts see it",
+     "Updates are paid"
+    ],
+    "correct": 0,
+    "explanation": "كتير ناس بتشوف الأخطاء وبتصلحها."
+   },
+   {
+    "q": "Why are governments adopting it?",
+    "options": [
+     "To reduce costs and avoid vendor dependence",
+     "To hide data",
+     "To speed up banks",
+     "To train teachers"
+    ],
+    "correct": 0,
+    "explanation": "لتقليل التكاليف وتجنّب الاعتماد على مورّد واحد."
+   }
+  ],
+  "vocab": [
+   [
+    "open-source",
+    "publicly accessible code",
+    "مفتوح المصدر"
+   ],
+   [
+    "inspect",
+    "examine",
+    "يفحص"
+   ],
+   [
+    "maintainer",
+    "code caretaker",
+    "القائم على الصيانة"
+   ],
+   [
+    "vendor",
+    "supplier",
+    "مورّد"
+   ],
+   [
+    "innovation",
+    "new ideas",
+    "ابتكار"
+   ]
+  ]
+ },
+ {
+  "type": "listen_conversation",
+  "topic": "Part-time work and study",
+  "audio": [
+   [
+    "us",
+    "I'm thinking about getting a part-time job, but I'm worried about my grades."
+   ],
+   [
+    "uk",
+    "How many hours would you work?"
+   ],
+   [
+    "us",
+    "About fifteen a week, mostly evenings."
+   ],
+   [
+    "uk",
+    "That's manageable if you plan carefully. Have you looked at on-campus jobs?"
+   ],
+   [
+    "us",
+    "Not yet. Are they more flexible?"
+   ],
+   [
+    "uk",
+    "Usually, yes. Supervisors understand exam periods, and you save commuting time."
+   ]
+  ],
+  "questions": [
+   {
+    "q": "What is the student worried about?",
+    "options": [
+     "His grades",
+     "His rent",
+     "His visa",
+     "His housing"
+    ],
+    "correct": 0,
+    "explanation": "قلقان على علاماته إذا اشتغل."
+   },
+   {
+    "q": "How many hours would he work?",
+    "options": [
+     "About fifteen a week",
+     "About five a week",
+     "About forty a week",
+     "About two a week"
+    ],
+    "correct": 0,
+    "explanation": "حوالي 15 ساعة بالأسبوع، غالباً مساءً."
+   },
+   {
+    "q": "Why does the woman recommend on-campus jobs?",
+    "options": [
+     "They are flexible and save commuting time",
+     "They pay more",
+     "They are easier",
+     "They are shorter"
+    ],
+    "correct": 0,
+    "explanation": "المشرفين متفهّمين لفترات الامتحان وبتوفّر وقت التنقّل."
+   }
+  ],
+  "vocab": [
+   [
+    "part-time",
+    "limited hours",
+    "دوام جزئي"
+   ],
+   [
+    "manageable",
+    "doable",
+    "ممكن التعامل معه"
+   ],
+   [
+    "flexible",
+    "adaptable",
+    "مرن"
+   ],
+   [
+    "supervisor",
+    "manager",
+    "مشرف"
+   ],
+   [
+    "commute",
+    "travel to work",
+    "يتنقّل"
+   ]
+  ]
+ }
+]
